@@ -1,0 +1,827 @@
+viral_acc,virus_name,report_host,matched_name
+NC_042004,Acinetobacter phage vB_AbaP_B3,Acinetobacter baumannii NIPH 528,Acinetobacter baumannii NIPH 528
+NC_042005,Acinetobacter phage vB_AbaP_B5,Acinetobacter baumannii NIPH 2061,Acinetobacter baumannii NIPH 2061
+NC_042137,Acinetobacter phage vB_AbaS_Loki,Acinetobacter baumannii ATCC 17978,Acinetobacter baumannii ATCC 17978
+NC_028256,Aeropyrum pernix ovoid virus 1,Aeropyrum pernix K1,Aeropyrum pernix K1
+NC_028268,Aeropyrum pernix spindle-shaped virus 1,Aeropyrum pernix K1,Aeropyrum pernix K1
+NC_019519,Agrobacterium phage 7-7-1,Agrobacterium sp. H13-3,Agrobacterium sp. H13-3
+NC_042013,Agrobacterium phage Atu_ph07,Agrobacterium tumefaciens C58,Agrobacterium tumefaciens C58
+NC_021532,Alteromonas phage vB_AmaP_AD45-P1,Alteromonas macleodii str. 'Balearic Sea AD45',Alteromonas macleodii str. 'Balearic Sea AD45'
+NC_010355,Azospirillum phage Cd,Azospirillum brasilense Cd,Azospirillum brasilense Cd
+NC_030945,Bacillus phage BalMu-1,Bacillus alcalophilus CGMCC 1.3604,Bacillus alcalophilus CGMCC 1.3604
+NC_031056,Bacillus phage Deep Blue,Bacillus cereus BtB2-4,Bacillus cereus BtB2-4
+NC_027352,Bacillus phage JBP901,Bacillus cereus ATCC 14579,Bacillus cereus ATCC 14579
+NC_007734,Bacillus virus Wbeta,Bacillus cereus ATCC 4342,Bacillus cereus ATCC 4342
+NC_028841,Bacteriophage Lily,Paenibacillus larvae ATCC 9545,Paenibacillus larvae ATCC 9545
+NC_031264,Brucella phage BiPBO1,Brucella inopinata strain BO1,Brucella inopinata strain BO1
+NC_019446,Brucella phage Tb,Brucella abortus 544,Brucella abortus 544
+NC_022916,Burkholderia phage JG068,Burkholderia cenocepacia K56-2,Burkholderia cenocepacia K56-2
+NC_009604,Burkholderia virus BcepNY3,Burkholderia cenocepacia HI2424,Burkholderia cenocepacia HI2424
+NC_005284,Burkholderia virus phi1026b,Burkholderia pseudomallei 1026b,Burkholderia pseudomallei 1026b
+NC_018861,Campylobacter phage CP30A,Campylobacter jejuni subsp. jejuni PT14,Campylobacter jejuni subsp. jejuni PT14
+NC_025422,Caulobacter phage Cr30,Caulobacter crescentus CB15,Caulobacter crescentus CB15
+NC_021803,Cellulophaga phage phi13:2,Cellulophaga baltica #13,Cellulophaga baltica #13
+NC_021796,Cellulophaga phage phi38:1,Cellulophaga baltica NN016038,Cellulophaga baltica NN016038
+NC_021788,Cellulophaga phage phi4:1,Cellulophaga baltica #4,Cellulophaga baltica #4
+NC_028880,Citrobacter phage phiCFP-1,Citrobacter freundii P10159,Citrobacter freundii P10159
+NC_030950,Clostridium phage phiCT19406A,Clostridium tetani ATCC 19406,Clostridium tetani ATCC 19406
+NC_030947,Clostridium phage phiCT19406B,Clostridium tetani ATCC 19406,Clostridium tetani ATCC 19406
+NC_029006,Clostridium phage phiCT19406C,Clostridium tetani ATCC 19406,Clostridium tetani ATCC 19406
+NC_028991,Clostridium phage phiCT453A,Clostridium tetani ATCC 453,Clostridium tetani ATCC 453
+NC_029004,Clostridium phage phiCT453B,Clostridium tetani ATCC 453,Clostridium tetani ATCC 453
+NC_029022,Clostridium phage phiCT9441A,Clostridium tetani ATCC 9441,Clostridium tetani ATCC 9441
+NC_018088,Colwellia phage 9A,Colwellia psychrerythaea strain 34H,Colwellia psychrerythaea strain 34H
+NC_018276,Croceibacter phage P2559S,Croceibacter atlanticus HTCC2559,Croceibacter atlanticus HTCC2559
+NC_023614,Croceibacter phage P2559Y,Croceibacter atlanticus HTCC2559,Croceibacter atlanticus HTCC2559
+NC_024354,Cronobacter phage CR8,Cronobacter sakazakii ATCC 29544,Cronobacter sakazakii ATCC 29544
+NC_018454,Cronobacter phage phiES15,UV-induced Cronobacter sakazakii ES15,Cronobacter sakazakii ES15
+NC_028773,Cronobacter phage S13,Cronobacter sakazakii ATCC 29544,Cronobacter sakazakii ATCC 29544
+NC_020078,Cronobacter phage vB_CskP_GAP227,Cronobacter sakazakii strain 51329,Cronobacter sakazakii strain 51329
+NC_016657,Cyanophage 9515-10a,Prochlorococcus sp. MIT9515,Prochlorococcus sp. MIT9515
+NC_020865,Cyanophage KBS-P-1A,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_020854,Cyanophage KBS-S-2A,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_020857,Cyanophage MED4-117,Prochlorococcus MED4,Prochlorococcus MED4
+NC_016658,Cyanophage NATL1A-7,Prochlorococcus sp. NATL1A,Prochlorococcus sp. NATL1A
+NC_016659,Cyanophage NATL2A-133,Prochlorococcus sp. NATL2A,Prochlorococcus sp. NATL2A
+NC_020855,Cyanophage P-RSM6,Prochlorococcus NATL2A,Prochlorococcus NATL2A
+NC_028663,Cyanophage P-TIM40,Prochlorococcus sp. NATL2A,Prochlorococcus sp. NATL2A
+NC_013021,Cyanophage PSS2,Prochlorococcus marinus str. MIT 9313,Prochlorococcus marinus str. MIT 9313
+NC_019516,Cyanophage S-TIM5,Synechococcus sp. WH8102,Synechococcus sp. WH8102
+NC_020872,Cyanophage SS120-1,Prochlorococcus marinus SS120,Prochlorococcus marinus SS120
+NC_021072,Cyanophage Syn30,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_028702,Delftia phage IME-DE1,Delftia sp. 670,Delftia sp. 670
+NC_000924,Enterobacteria phage 933W,Escherichia coli O157:H7 EDL933,Escherichia coli O157:H7 EDL933
+NC_042057,Enterobacteria phage DE3,Escherichia coli BL21(DE3),Escherichia coli BL21(DE3)
+NC_012741,Enterobacteria phage JS10,Escherichia coli K12,Escherichia coli K12
+NC_012868,Enterobacteria phage St-1,Escherichia coli strain K12,Escherichia coli strain K12
+NC_031051,Enterococcus phage SANTOR1,Enterococcus faecalis ATCC 19433,Enterococcus faecalis ATCC 19433
+NC_028693,Enterococcus phage vB_EfaP_IME195,Enterococcus faecalis 2003,Enterococcus faecalis 2003
+NC_023743,Escherichia phage EB49,Escherichia coli CFT073,Escherichia coli CFT073
+NC_012740,Escherichia phage JSE,Escherichia coli K12,Escherichia coli K12
+NC_021344,Escherichia phage Lw1,Escherichia coli BL21(DE3),Escherichia coli BL21(DE3)
+NC_041935,Escherichia phage PA28,Escherichia coli PA28,Escherichia coli PA28
+NC_024379,Escherichia phage PE3-1,Escherichia coli O153,Escherichia coli O153
+NC_028896,Escherichia phage pro147,Escherichia coli DE048,Escherichia coli DE048
+NC_028943,Escherichia phage pro483,Escherichia coli DE048,Escherichia coli DE048
+NC_042043,Escherichia phage SRT8,Escherichia coli BL21,Escherichia coli BL21
+NC_031082,Escherichia phage vB_EcoM_Alf5,Escherichia coli K12,Escherichia coli K12
+NC_041926,Escherichia phage vB_EcoM_ECOO78,Escherichia coli O78,Escherichia coli O78
+NC_027395,Escherichia phage vB_EcoP_SU10,Escherichia coli ECOR10,Escherichia coli ECOR10
+NC_031911,Flavobacterium phage 1H,Flavobacterium psychrophilum MH1,Flavobacterium psychrophilum MH1
+NC_031926,Flavobacterium phage 2A,Flavobacterium psychrophilum A2,Flavobacterium psychrophilum A2
+NC_021867,Flavobacterium phage 6H,Flavobacterium psychrophilum strain MH1,Flavobacterium psychrophilum strain MH1
+NC_027125,Flavobacterium phage FCL-2,Flavobacterium columnare B185,Flavobacterium columnare B185
+NC_031914,Flavobacterium phage Fpv1,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_031932,Flavobacterium phage Fpv10,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_031945,Flavobacterium phage Fpv11,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_031931,Flavobacterium phage Fpv2,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_031912,Flavobacterium phage Fpv20,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_031904,Flavobacterium phage Fpv3,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_041872,Flavobacterium phage FpV4,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_031921,Flavobacterium phage Fpv5,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_031938,Flavobacterium phage Fpv6,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_031905,Flavobacterium phage Fpv7,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_031919,Flavobacterium phage Fpv8,Flavobacterium psychrophilum 950106-1/1,Flavobacterium psychrophilum 950106-1/1
+NC_041883,Gordonia phage Attis,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030936,Gordonia phage Bachita,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031074,Gordonia phage Bantam,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031226,Gordonia phage BaxterFox,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031247,Gordonia phage BetterKatz,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030943,Gordonia phage Blueberry,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030930,Gordonia phage Bowser,Gordonia terrae 3612,Gordonia terrae 3612
+NC_042108,Gordonia phage Brandonk123,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030942,Gordonia phage BritBrat,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031072,Gordonia phage CaptainKirk2,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031118,Gordonia phage CarolAnn,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030901,Gordonia phage ClubL,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030941,Gordonia phage Cozz,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031029,Gordonia phage Cucurbita,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030944,Gordonia phage Demosthenes,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031234,Gordonia phage Emalyn,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031122,Gordonia phage Eyre,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031028,Gordonia phage Ghobes,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031265,Gordonia phage Guacamole,Gordonia terrae 3612,Gordonia terrae 3612
+NC_042088,Gordonia phage Gustav,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031099,Gordonia phage Hedwig,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031229,Gordonia phage Hotorobo,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031060,Gordonia phage JSwag,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031109,Gordonia phage Jumbo,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030695,Gordonia phage KatherineG,Gordonia terrae 3612,Gordonia terrae 3612
+NC_041950,Gordonia phage Katyusha,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031233,Gordonia phage Kita,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030914,Gordonia phage Kvothe,Gordonia terrae 3612,Gordonia terrae 3612
+NC_042045,Gordonia phage Lennon,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031267,Gordonia phage Lucky10,Gordonia terrae 3612,Gordonia terrae 3612
+NC_042089,Gordonia phage Mahdia,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030924,Gordonia phage Monty,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031004,Gordonia phage Nyceirae,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031061,Gordonia phage Nymphadora,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031237,Gordonia phage Obliviate,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030917,Gordonia phage OneUp,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030915,Gordonia phage Orchid,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031112,Gordonia phage Phinally,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031031,Gordonia phage Remus,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030694,Gordonia phage Rosalind,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031255,Gordonia phage Schnabeltier,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030696,Gordonia phage Smoothie,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031251,Gordonia phage SoilAssassin,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030698,Gordonia phage Soups,Gordonia terrae 3612,Gordonia terrae 3612
+NC_042132,Gordonia phage Sour,Gordonia terrae NRRL B-16283,Gordonia terrae NRRL B-16283
+NC_030927,Gordonia phage Splinter,Gordonia terrae 3612,Gordonia terrae 3612
+NC_041886,Gordonia phage Strosahl,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031001,Gordonia phage Terapin,Gordonia terrae 3612,Gordonia terrae 3612
+NC_042102,Gordonia phage Troje,Gordonia terrea 3612,Gordonia terrea 3612
+NC_031052,Gordonia phage Twister6,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031249,Gordonia phage UmaThurman,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030911,Gordonia phage Vendetta,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031239,Gordonia phage Vivi2,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030913,Gordonia phage Wizard,Gordonia terrae 3612,Gordonia terrae 3612
+NC_030905,Gordonia phage Woes,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031269,Gordonia phage Yeezy,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031230,Gordonia phage Yvonnetastic,Gordonia terrae 3612,Gordonia terrae 3612
+NC_031097,Gordonia phage Zirinka,Gordonia terrae 3612,Gordonia terrae 3612
+NC_023592,Haloarcula hispanica pleomorphic virus 2,Haloarcula hispanica ATCC 33960,Haloarcula hispanica ATCC 33960
+NC_020998,Haloarcula hispanica virus PH1,Haloarcula hispanica ATCC 33960,Haloarcula hispanica ATCC 33960
+NC_012558,Halorubrum pleomorphic virus 1,Halorubrum sp. PV6,Halorubrum sp. PV6
+NC_016568,Helicobacter phage phiHP33,Helicobacter pylori B45,Helicobacter pylori B45
+NC_028664,Klebsiella phage Kp2,Klebsiella pneumoniae W15,Klebsiella pneumoniae W15
+NC_029099,Klebsiella phage KP36,Klebsiella pneumoniae KP36,Klebsiella pneumoniae KP36
+NC_031246,Klebsiella phage KpV71,Klebsiella pneumoniae B-7850,Klebsiella pneumoniae B-7850
+NC_031053,Klebsiella phage PKP126,Klebsiella pneumoniae KCTC 2242,Klebsiella pneumoniae KCTC 2242
+NC_031087,Klebsiella phage vB_KpnM_KpV477,Klebsiella pneumoniae KPB463,Klebsiella pneumoniae KPB463
+NC_004112,Lactobacillus phage A2,Lactobacillus casei ATCC 393,Lactobacillus casei ATCC 393
+NC_022762,Lactobacillus phage phiLdb,Lactobacillus delbrueckii ATCC 11842,Lactobacillus delbrueckii ATCC 11842
+NC_031036,Lactobacillus phage PLE2,Lactobacillus casei BL23,Lactobacillus casei BL23
+NC_031125,Lactobacillus phage PLE3,Lactobacillus casei BL23,Lactobacillus casei BL23
+NC_019916,Lactobacillus virus ATCC8014,Lactobacillus plantarum ATCC 8014,Lactobacillus plantarum ATCC 8014
+NC_031040,Lactococcus phage 50101,Lactococcus lactis 3107,Lactococcus lactis 3107
+NC_031017,Lactococcus phage 63301,Lactococcus lactis 3107,Lactococcus lactis 3107
+NC_015263,Lactococcus phage 949,Lactococcus lactis strain ML8,Lactococcus lactis strain ML8
+NC_002666,Lactococcus phage bIL285,Lactococcus lactis subsp. lactis IL1403,Lactococcus lactis subsp. lactis IL1403
+NC_002667,Lactococcus phage bIL286,Lactococcus lactis subsp. lactis Il1403,Lactococcus lactis subsp. lactis Il1403
+NC_002668,Lactococcus phage bIL309,Lactococcus lactis subsp. lactis Il1403,Lactococcus lactis subsp. lactis Il1403
+NC_002669,Lactococcus phage bIL310,Lactococcus lactis subsp. lactis Il1403,Lactococcus lactis subsp. lactis Il1403
+NC_002670,Lactococcus phage bIL311,Lactococcus lactis subsp. lactis Il1403,Lactococcus lactis subsp. lactis Il1403
+NC_002671,Lactococcus phage bIL312,Lactococcus lactis subsp. lactis Il1403,Lactococcus lactis subsp. lactis Il1403
+NC_023574,Lactococcus phage phiL47,Lactococcus lactis subsp. cremoris DPC6860,Lactococcus lactis subsp. cremoris DPC6860
+NC_031016,Lactococcus phage PLgT-1,Lactococcus garvieae Lg2,Lactococcus garvieae Lg2
+NC_008363,Lactococcus virus P008,Lactococcus lactis subsp. lactis Il1403,Lactococcus lactis subsp. lactis Il1403
+NC_042024,Lactococcus virus P2,Lactococcus lactis subsp. cremoris MG1363,Lactococcus lactis subsp. cremoris MG1363
+NC_020880,Leuconostoc phage P793,Leuconostoc pseudomesenteroides BM2,Leuconostoc pseudomesenteroides BM2
+NC_024390,Leuconostoc phage phiLN03,Leuconostoc pseudomesenteroides LN02,Leuconostoc pseudomesenteroides LN02
+NC_020870,Leuconostoc phage phiLN04,Leuconostoc pseudomesenteroides LN02,Leuconostoc pseudomesenteroides LN02
+NC_024385,Leuconostoc phage phiLN12,Leuconostoc pseudomesenteroides LN02,Leuconostoc pseudomesenteroides LN02
+NC_024386,Leuconostoc phage phiLN25,Leuconostoc mesenteroides LN25,Leuconostoc mesenteroides LN25
+NC_024388,Leuconostoc phage phiLN34,Leuconostoc mesenteroides LN05,Leuconostoc mesenteroides LN05
+NC_024380,Leuconostoc phage phiLN6B,Leuconostoc pseudomesenteroides LN02,Leuconostoc pseudomesenteroides LN02
+NC_024389,Leuconostoc phage phiLNTR2,Leuconostoc mesenteroides LN05,Leuconostoc mesenteroides LN05
+NC_024378,Leuconostoc phage phiLNTR3,Leuconostoc mesenteroides LN05,Leuconostoc mesenteroides LN05
+NC_028766,Mannheimia phage vB_MhM_3927AP2,Mannheimia haemolytica 3927A,Mannheimia haemolytica 3927A
+NC_028898,Mannheimia phage vB_MhM_587AP1,Mannheimia haemolytica 587A serotype A2,Mannheimia haemolytica 587A serotype A2
+NC_028853,Mannheimia phage vB_MhS_535AP2,Mannheimia haemolytica 535A serotype A1,Mannheimia haemolytica 535A serotype A1
+NC_028743,Mannheimia phage vB_MhS_587AP2,Mannheimia haemolytica 587A serotype A2,Mannheimia haemolytica 587A serotype A2
+NC_042099,Microbacterium phage Dismas,Microbacterium foliorum NRRL B-24224,Microbacterium foliorum NRRL B-24224
+NC_042117,Microbacterium phage Golden,Microbacterium foliorum NRRL B-24224 SEA,Microbacterium foliorum NRRL B-24224 SEA
+NC_042110,Microbacterium phage Hamlet,Microbacterium foliorum NRRL B-24224 SEA,Microbacterium foliorum NRRL B-24224 SEA
+NC_042111,Microbacterium phage Ilzat,Microbacterium foliorum NRRL B-24224 SEA,Microbacterium foliorum NRRL B-24224 SEA
+NC_042118,Microbacterium phage Koji,Microbacterium foliorum NRRL B-24224 SEA,Microbacterium foliorum NRRL B-24224 SEA
+NC_042119,Microbacterium phage Pikmin,Microbacterium foliorum NRRL B-24224 SEA,Microbacterium foliorum NRRL B-24224 SEA
+NC_023597,Mycobacterium phage 20ES,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_028920,Mycobacterium phage Abrogate,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022328,Mycobacterium phage Adawi,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022058,Mycobacterium phage Adzzy,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023723,Mycobacterium phage Aeneas,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023742,Mycobacterium phage Akoma,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028986,Mycobacterium phage Alice,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023862,Mycobacterium phage Alsfro,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026583,Mycobacterium phage Alvin,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_012788,Mycobacterium phage Angel,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022087,Mycobacterium phage AnnaL29,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_029018,Mycobacterium phage Anubis,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028691,Mycobacterium phage Apizium,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031277,Mycobacterium phage ArcherNM,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021348,Mycobacterium phage ArcherS7,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028878,Mycobacterium phage Archie,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028876,Mycobacterium phage Ariel,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022977,Mycobacterium phage Artemis2UCLA,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021349,Mycobacterium phage Astraea,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041965,Mycobacterium phage Athena,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031279,Mycobacterium phage Bactobuster,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028682,Mycobacterium phage Badfish,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028742,Mycobacterium phage Baee,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022331,Mycobacterium phage Bane1,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023747,Mycobacterium phage BarrelRoll,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028804,Mycobacterium phage Barriga,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_023562,Mycobacterium phage BellusTerra,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024135,Mycobacterium phage Bernal13,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022983,Mycobacterium phage Bernardo,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023692,Mycobacterium phage BigNuz,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028823,Mycobacterium phage Bipolar,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031253,Mycobacterium phage Bipper,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023713,Mycobacterium phage Blue7,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022055,Mycobacterium phage Bobi,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041970,Mycobacterium phage Bongo,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_029044,Mycobacterium phage Breeniome,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031262,Mycobacterium phage Brocalys,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028968,Mycobacterium phage BrownCNA,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022988,Mycobacterium phage Bruin,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028747,Mycobacterium phage Brusacoram,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021061,Mycobacterium phage Butters,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026593,Mycobacterium phage BuzzLyseyear,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028678,Mycobacterium phage Cabrinians,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028922,Mycobacterium phage Cambiare,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028842,Mycobacterium phage CaptainTrips,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028779,Mycobacterium phage Carcharodon,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021324,Mycobacterium phage CASbig,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031238,Mycobacterium phage Catalina,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022057,Mycobacterium phage Catdawg,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026604,Mycobacterium phage Cerasum,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028897,Mycobacterium phage Chadwick,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023729,Mycobacterium phage Charlie,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028979,Mycobacterium phage Cheetobro,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042034,Mycobacterium phage ChrisnMich,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022965,Mycobacterium phage CloudWang3,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028689,Mycobacterium phage Colbert,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022973,Mycobacterium phage Conspiracy,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022065,Mycobacterium phage Contagion,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023606,Mycobacterium phage CRB1,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_022071,Mycobacterium phage Crossroads,Mycobacterium smegamtis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022068,Mycobacterium phage Daenerys,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024371,Mycobacterium phage Damien,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023696,Mycobacterium phage Dandelion,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028946,Mycobacterium phage Dante,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023552,Mycobacterium phage Donovan,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023703,Mycobacterium phage Dori,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022059,Mycobacterium phage DrDrey,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023708,Mycobacterium phage Dreamboat,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021306,Mycobacterium phage Dumbo,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_029079,Mycobacterium phage Dusk,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022325,Mycobacterium phage Dylan,Mycobacterium smegamtis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023564,Mycobacterium phage EagleEye,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023553,Mycobacterium phage Echild,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_029059,Mycobacterium phage Edtherson,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028936,Mycobacterium phage Enkosi,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028852,Mycobacterium phage Equemioh13,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028690,Mycobacterium phage Eremos,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026585,Mycobacterium phage Estave1,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_013650,Mycobacterium phage ET08,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031263,Mycobacterium phage EvilGenius,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_020876,Mycobacterium phage First,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_021302,Mycobacterium phage Fishburne,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028861,Mycobacterium phage FlagStaff,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028889,Mycobacterium phage Florinda,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_022753,Mycobacterium phage Fredward,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023686,Mycobacterium phage Gadjet,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026590,Mycobacterium phage Gaia,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031124,Mycobacterium phage Gardann,Mycobacterium smegmatis mc#155,Mycobacterium smegmatis mc#155
+NC_031035,Mycobacterium phage Gengar,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021346,Mycobacterium phage Gizmo,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042050,Mycobacterium phage Godines,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_022085,Mycobacterium phage Goku,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022979,Mycobacterium phage Graduation,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_011290,Mycobacterium phage Gumball,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026595,Mycobacterium phage Hades,Mycobacteruim smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022056,Mycobacterium phage Hamulus,Mycobacterium smegamtis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022975,Mycobacterium phage HanShotFirst,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024209,Mycobacterium phage Hawkeye,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021308,Mycobacterium phage HINdeR,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022981,Mycobacterium phage HufflyPuff,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028869,Mycobacterium phage HyRo,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026596,Mycobacterium phage Inventum,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028687,Mycobacterium phage Iracema64,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022069,Mycobacterium phage Jabbawokkie,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023740,Mycobacterium phage JacAttac,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023554,Mycobacterium phage JAMaL,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041969,Mycobacterium phage Jebeks,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021538,Mycobacterium phage Job42,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021535,Mycobacterium phage Jobu08,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023604,Mycobacterium phage Jolie2,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_022984,Mycobacterium phage Jovo,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024141,Mycobacterium phage Kampy,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022061,Mycobacterium phage KayaCho,Mycobacterium smegamtis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026603,Mycobacterium phage Keshu,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028907,Mycobacterium phage Kikipoo,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028792,Mycobacterium phage Kimberlium,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_011292,Mycobacterium phage Konstantine,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028947,Mycobacterium phage Kratio,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028744,Mycobacterium phage LadyBird,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024143,Mycobacterium phage Lamina13,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028877,Mycobacterium phage Larenn,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023689,Mycobacterium phage Lilac,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023714,Mycobacterium phage LinStu,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022086,Mycobacterium phage LittleCherry,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028923,Mycobacterium phage Llama,Mycobacteruim smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028843,Mycobacterium phage Lolly9,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031256,Mycobacterium phage Loser,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028849,Mycobacterium phage Luchador,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041901,Mycobacterium phage Lukilu,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031067,Mycobacterium phage Makemake,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026605,Mycobacterium phage Malithi,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024363,Mycobacterium phage Manad,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028798,Mycobacterium phage MarQuardt,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042032,Mycobacterium phage Marvin,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028953,Mycobacterium phage MiaZeal,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023572,Mycobacterium phage MichelleMyBell,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026598,Mycobacterium phage Milly,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_029093,Mycobacterium phage Mindy,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026584,Mycobacterium phage Minerva,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023733,Mycobacterium phage MoMoMixon,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028791,Mycobacterium phage MOOREtheMARYer,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024138,Mycobacterium phage MosMoris,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022054,Mycobacterium phage Muddy,Mycobacterium smegamtis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028759,Mycobacterium phage Mufasa,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031257,Mycobacterium phage Mulciber,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021305,Mycobacterium phage Murphy,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028978,Mycobacterium phage Murucutumbu,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_011273,Mycobacterium phage Myrna,Mycobacterium smegmatis str. MC2 155,Mycobacterium smegmatis str. MC2 155
+NC_022976,Mycobacterium phage Nala,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023725,Mycobacterium phage Nappy,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028785,Mycobacterium phage NelitzaMV,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028928,Mycobacterium phage Nerujay,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021310,Mycobacterium phage Newman,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028815,Mycobacterium phage Nhonho,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_023565,Mycobacterium phage Nyxis,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023578,Mycobacterium phage Oaker,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023577,Mycobacterium phage Obama12,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024366,Mycobacterium phage OkiRoe,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023711,Mycobacterium phage Oline,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028832,Mycobacterium phage Omnicron,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028803,Mycobacterium phage OSmaximus,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028937,Mycobacterium phage Ovechkin,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031281,Mycobacterium phage Panchino,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031041,Mycobacterium phage Papez,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022053,Mycobacterium phage Papyrus,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028874,Mycobacterium phage Pari,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023691,Mycobacterium phage Patience,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021297,Mycobacterium phage PattyP,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021299,Mycobacterium phage PegLeg,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028680,Mycobacterium phage Pepe,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024148,Mycobacterium phage Phantastic,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022969,Mycobacterium phage PhatBacter,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028844,Mycobacterium phage Phatniss,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021311,Mycobacterium phage Phaux,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028796,Mycobacterium phage Phayonce,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022063,Mycobacterium phage Phelemich,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028942,Mycobacterium phage Phipps,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_012027,Mycobacterium phage Phlyer,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031266,Mycobacterium phage Phrann,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022329,Mycobacterium phage PhrostyMug,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021309,Mycobacterium phage Phrux,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024368,Mycobacterium phage Pinto,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028965,Mycobacterium phage Pioneer,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042055,Mycobacterium phage Pipsqueaks,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028794,Mycobacterium phage Piro94,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023737,Mycobacterium phage Pleione,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028681,Mycobacterium phage Pops,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_028961,Mycobacterium phage PopTart,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028751,Mycobacterium phage Quico,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_022330,Mycobacterium phage Quink,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023730,Mycobacterium phage Redi,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022066,Mycobacterium phage Redno2,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_025444,Mycobacterium phage RedRock,Mycobacterium smegamatis mc2 155,Mycobacterium smegamatis mc2 155
+NC_022064,Mycobacterium phage Reprobate,Mycobacterium smegamtis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041971,Mycobacterium phage Rey,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023609,Mycobacterium phage RhynO,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023710,Mycobacterium phage RidgeCB,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042036,Mycobacterium phage Rockstar,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028810,Mycobacterium phage Rufus,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023580,Mycobacterium phage Saal,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022324,Mycobacterium phage SarFire,Mycobacterium smegamtis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026589,Mycobacterium phage Sbash,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024136,Mycobacterium phage Seabiscuit,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028813,Mycobacterium phage Seagreen,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041993,Mycobacterium phage Sebata,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042033,Mycobacterium phage Send513,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028932,Mycobacterium phage Serenity,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021307,Mycobacterium phage Severus,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041989,Mycobacterium phage Shauna1,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028846,Mycobacterium phage ShedlockHolmes,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028914,Mycobacterium phage Sheen,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041988,Mycobacterium phage ShiLan,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031261,Mycobacterium phage Shipwreck,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028674,Mycobacterium phage ShiVal,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041987,Mycobacterium phage SirDuracell,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021301,Mycobacterium phage SiSi,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041882,Mycobacterium phage SkinnyPete,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023748,Mycobacterium phage SkiPole,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028860,Mycobacterium phage Smeadley,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031102,Mycobacterium phage Sneeze,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028778,Mycobacterium phage Snenia,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_011267,Mycobacterium phage Solon,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_025438,Mycobacterium phage Soto,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028654,Mycobacterium phage Sparkdehlily,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026597,Mycobacterium phage Sparky,Mycobacteruim smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041986,Mycobacterium phage Spartacus,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026588,Mycobacterium phage Squirty,Mycobacteruim smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023741,Mycobacterium phage Stinger,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023563,Mycobacterium phage Suffolk,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_029043,Mycobacterium phage SweetiePie,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028912,Mycobacterium phage Swirley,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028658,Mycobacterium phage Swish,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041985,Mycobacterium phage Switzer,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_017973,Mycobacterium phage SWU1,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_025433,Mycobacterium phage Taj,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028784,Mycobacterium phage Tasp14,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028960,Mycobacterium phage Theia,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028828,Mycobacterium phage TheloniousMonk,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023738,Mycobacterium phage Thibault,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028757,Mycobacterium phage Tiffany,Mycobacterum smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041984,Mycobacterium phage Tiger,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041983,Mycobacterium phage Timshel,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_031080,Mycobacterium phage Tonenili,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041888,Mycobacterium phage Tortellini,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028906,Mycobacterium phage Toto,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_026591,Mycobacterium phage Trike,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023731,Mycobacterium phage Trixie,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_011285,Mycobacterium phage Troll4,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022062,Mycobacterium phage Trouble,Mycobacterium smegamtis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023707,Mycobacterium phage Turbido,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028941,Mycobacterium phage Turj99,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041982,Mycobacterium phage Twister,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_027985,Mycobacterium phage UncleHowie,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028802,Mycobacterium phage UnionJack,Mycobacterum smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023498,Mycobacterium phage Validus,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022060,Mycobacterium phage Velveteen,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028934,Mycobacterium phage Vincenzo,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023695,Mycobacterium phage Violet,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023727,Mycobacterium phage Vista,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_029077,Mycobacterium phage VohminGhazi,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028801,Mycobacterium phage Vortex,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022067,Mycobacterium phage Wanda,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_014901,Mycobacterium phage Wee,Mycobacterium smegmatis mc2155,Mycobacterium smegmatis mc2 155
+NC_022070,Mycobacterium phage Wheeler,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022052,Mycobacterium phage Whirlwind,Mycobacterium smegamtis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023709,Mycobacterium phage Wile,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_021334,Mycobacterium phage WIVsmall,mycobacterium smegmatis mc2 155,mycobacterium smegmatis mc2 155
+NC_031243,Mycobacterium phage Xeno,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_028910,Mycobacterium phage XFactor,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_022985,Mycobacterium phage Zaka,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042035,Mycobacterium phage Zemanar,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_024147,Mycobacterium phage ZoeJ,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023701,Mycobacterium virus Acadian,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023716,Mycobacterium virus Alma,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042031,Mycobacterium virus Anaya,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_014458,Mycobacterium virus Angelica,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042339,Mycobacterium virus Arturo,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042337,Mycobacterium virus Astro,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023698,Mycobacterium virus Avani,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023697,Mycobacterium virus Babsiella,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042308,Mycobacterium virus Backyardigan,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042316,Mycobacterium virus Baka,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041846,Mycobacterium virus Bask21,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042327,Mycobacterium virus BBPiebs31,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042331,Mycobacterium virus Benedict,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023739,Mycobacterium virus Billknuckles,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_014461,Mycobacterium virus Bron,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_011291,Mycobacterium virus Brujita,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023687,Mycobacterium virus Bruns,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023690,Mycobacterium virus Courthouse,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_014459,Mycobacterium virus Crimd,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042333,Mycobacterium virus Cuco,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023728,Mycobacterium virus Deadp,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042317,Mycobacterium virus Dlane,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023704,Mycobacterium virus Doom,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041855,Mycobacterium virus Dorothy,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042336,Mycobacterium virus Dotproduct,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023721,Mycobacterium virus Drago,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042330,Mycobacterium virus Ericb,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023726,Mycobacterium virus Euphoria,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041850,Mycobacterium virus Eureka,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_015584,Mycobacterium virus Faith1,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_027365,Mycobacterium virus Fionnbarth,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023712,Mycobacterium virus Firecracker,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_011288,Mycobacterium virus Fruitloop,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042312,Mycobacterium virus George,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042309,Mycobacterium virus Gladiator,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042340,Mycobacterium virus Goose,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023746,Mycobacterium virus Gumbie,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042318,Mycobacterium virus Hammer,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042328,Mycobacterium virus Heldan,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042319,Mycobacterium virus Ibhubesi,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042332,Mycobacterium virus Jaws,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042320,Mycobacterium virus JC27,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042334,Mycobacterium virus Jeffabunny,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042310,Mycobacterium virus JHC117,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042313,Mycobacterium virus Joedirt,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042326,Mycobacterium virus Kssjeb,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023702,Mycobacterium virus Kugel,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023724,Mycobacterium virus Larva,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042321,Mycobacterium virus Lesedi,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023745,Mycobacterium virus LHTSCC,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023705,Mycobacterium virus Liefie,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042322,Mycobacterium virus Littlee,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042338,Mycobacterium virus Macncheese,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041853,Mycobacterium virus Marcell,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042311,Mycobacterium virus Microwolf,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042323,Mycobacterium virus Mozy,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042329,Mycobacterium virus Mrgordo,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042324,Mycobacterium virus Museum,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041847,Mycobacterium virus Mutaforma13,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041852,Mycobacterium virus Nepal,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_041844,Mycobacterium virus Optimus,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_011287,Mycobacterium virus Pacc40,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042314,Mycobacterium virus Packman,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_013694,Mycobacterium virus Peaches,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023720,Mycobacterium virus Perseus,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042325,Mycobacterium virus Pixie,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042027,Mycobacterium virus Pumpkin,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_011289,Mycobacterium virus Ramsey,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042341,Mycobacterium virus Rebeuca,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042315,Mycobacterium virus Rockyhorror,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023732,Mycobacterium virus Rumpelstiltskin,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042335,Mycobacterium virus Saintus,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023699,Mycobacterium virus SG4,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_042030,Mycobacterium virus Yoshi,Mycobacterium smegmatis mc2 155,Mycobacterium smegmatis mc2 155
+NC_023560,Oenococcus phage phiS13,Oenococcus oeni Sarco S13,Oenococcus oeni Sarco S13
+NC_028788,Paenibacillus phage Diva,Paenibacillus larvae ATCC 9545,Paenibacillus larvae ATCC 9545
+NC_029084,Paenibacillus phage Rani,Paenibacillus larvae ATCC 9545,Paenibacillus larvae ATCC 9545
+NC_041909,Paenibacillus phage Shelly,Paenibacillus larvae ATCC 9545,Paenibacillus larvae ATCC 9545
+NC_028930,Paenibacillus phage Tripp,Paenibacillus larvae ATCC 9545,Paenibacillus larvae ATCC 9545
+NC_041854,Pectobacterium phage PhiM1,Pectobacterium atrosepticum SCRI1043,Pectobacterium atrosepticum SCRI1043
+NC_020201,Pectobacterium phage phiTE,Pectobacterium atrosepticum SCRI1043,Pectobacterium atrosepticum SCRI1043
+NC_031068,Pectobacterium phage PP16,Pectobacterium carotovorum subsp. carotovorum PB69,Pectobacterium carotovorum subsp. carotovorum PB69
+NC_031096,Pectobacterium phage PP90,Pectobacterium atrosepticum PB72,Pectobacterium atrosepticum PB72
+NC_020484,Pelagibacter phage HTVC008M,Candidatus Pelagibacter ubique HTCC1062,Candidatus Pelagibacter ubique HTCC1062
+NC_020481,Pelagibacter phage HTVC010P,Candidatus Pelagibacter ubique HTCC1062,Candidatus Pelagibacter ubique HTCC1062
+NC_020482,Pelagibacter phage HTVC011P,Candidatus Pelagibacter ubique HTCC1062,Candidatus Pelagibacter ubique HTCC1062
+NC_020483,Pelagibacter phage HTVC019P,Candidatus Pelagibacter ubique HTCC1062,Candidatus Pelagibacter ubique HTCC1062
+NC_020847,Prochlorococcus phage MED4-184,Prochlorococcus MED4,Prochlorococcus MED4
+NC_020845,Prochlorococcus phage MED4-213,Prochlorococcus MED4,Prochlorococcus MED4
+NC_020878,Prochlorococcus phage P-GSP1,Prochlorococcus marinus MED4,Prochlorococcus marinus MED4
+NC_015280,Prochlorococcus phage P-HM1,Prochlorococcus sp. MED4,Prochlorococcus sp. MED4
+NC_015284,Prochlorococcus phage P-HM2,Prochlorococcus sp. MED4,Prochlorococcus sp. MED4
+NC_006883,Prochlorococcus phage P-SSM2,Prochlorococcus sp. NATL1A,Prochlorococcus sp. NATL1A
+NC_021559,Prochlorococcus phage P-SSM3,Prochlorococcus marinus NATL2A,Prochlorococcus marinus NATL2A
+NC_006884,Prochlorococcus phage P-SSM4,Prochlorococcus sp. NATL2A,Prochlorococcus sp. NATL2A
+NC_015290,Prochlorococcus phage P-SSM7,Prochlorococcus sp. NATL1A,Prochlorococcus sp. NATL1A
+NC_020835,Prochlorococcus phage P-SSP10,Prochlorococcus marinus NATL2A,Prochlorococcus marinus NATL2A
+NC_020874,Prochlorococcus phage P-SSP3,Prochlorococcus marinus MIT9312,Prochlorococcus marinus MIT9312
+NC_028955,Prochlorococcus phage P-TIM68,Prochlorococcus sp. MIT9515,Prochlorococcus sp. MIT9515
+NC_015288,Prochlorococcus phage Syn1,Synechococcus sp. WH8101,Synechococcus sp. WH8101
+NC_015285,Prochlorococcus phage Syn33,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_027629,Propionibacterium phage Attacne,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_031084,Propionibacterium phage BruceLethal,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_031119,Propionibacterium phage Enoki,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_041954,Propionibacterium phage Keiki,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_027625,Propionibacterium phage Kubed,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_027628,Propionibacterium phage Lauchelly,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_031003,Propionibacterium phage Moyashi,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_027620,Propionibacterium phage MrAK,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_027630,Propionibacterium phage Ouroboros,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_028694,Propionibacterium phage PA1-14,Propionibacterium acnes A1-14,Propionibacterium acnes A1-14
+NC_027623,Propionibacterium phage Pirate,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_027626,Propionibacterium phage Procrass1,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_031005,Propionibacterium phage QueenBey,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_027624,Propionibacterium phage SKKY,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_027627,Propionibacterium phage Solid,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_027622,Propionibacterium phage Stormborn,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_027621,Propionibacterium phage Wizzo,Propionibacterium acnes ATCC 6919,Propionibacterium acnes ATCC 6919
+NC_018832,Providencia phage Redjac,Providencia stuartii isolate MRSN 2154,Providencia stuartii isolate MRSN 2154
+NC_015293,Pseudoalteromonas phage H105/1,Pseudoalteromonas sp. H105,Pseudoalteromonas sp. H105
+NC_031908,Pseudoalteromonas phage PH1,Pseudoalteromonas marina mano4,Pseudoalteromonas marina mano4
+NC_006548,Pseudomonas phage B3,Pseudomonas aeruginosa PAO1 (ATCC 15692),Pseudomonas aeruginosa PAO1 (ATCC 15692)
+NC_030910,Pseudomonas phage K5,Pseudomonas aeruginosa PAK,Pseudomonas aeruginosa PAK
+NC_028817,Pseudomonas phage K8,Pseudomonas aeruginosa PAK,Pseudomonas aeruginosa PAK
+NC_042091,Pseudomonas phage nickie,Pseudomonas syringae pv. avii,Pseudomonas syringae pv. avii
+NC_041994,Pseudomonas phage Noxifer,Pseudomonas fluorescens SBW25,Pseudomonas fluorescens SBW25
+NC_042107,Pseudomonas phage NV1,Pseudomonas tolaasii NCPPB 2192,Pseudomonas tolaasii NCPPB 2192
+NC_041903,Pseudomonas phage PA10,Pseudomonas aeruginosa,Pseudomonas aeruginosa
+NC_041902,Pseudomonas phage PA5,Pseudomonas aeruginosa,Pseudomonas aeruginosa
+NC_015294,Pseudomonas phage PAK_P1,Pseudomonas aeruginosa PAK,Pseudomonas aeruginosa PAK
+NC_022967,Pseudomonas phage PAK_P2,Pseudomonas aeruginosa PAK,Pseudomonas aeruginosa PAK
+NC_022970,Pseudomonas phage PAK_P3,Pseudomonas aeruginosa PAK,Pseudomonas aeruginosa PAK
+NC_022986,Pseudomonas phage PAK_P4,Pseudomonas aeruginosa PAK,Pseudomonas aeruginosa PAK
+NC_022966,Pseudomonas phage PAK_P5,Pseudomonas aeruginosa PAK,Pseudomonas aeruginosa PAK
+NC_013638,Pseudomonas phage phi-2,Pseudomonas fluorescens SBW25,Pseudomonas fluorescens SBW25
+NC_030931,Pseudomonas phage phi2,Pseudomonas aeruginosa WH-SGI-V-07173,Pseudomonas aeruginosa WH-SGI-V-07173
+NC_030940,Pseudomonas phage phi3,Pseudomonas aeruginosa WH-SGI-V-07174,Pseudomonas aeruginosa WH-SGI-V-07174
+NC_023601,Pseudomonas phage phiPsa374,Pseudomonas syringae pv. actinidiae ICMP 18800,Pseudomonas syringae pv. actinidiae ICMP 18800
+NC_042092,Pseudomonas phage tabernarius,Pseudomonas syringae pv. avii,Pseudomonas syringae pv. avii
+NC_017864,Pseudomonas phage vB_Pae-Kakheti25,Pseudomonas aeruginosa PA25,Pseudomonas aeruginosa PA25
+NC_017865,Pseudomonas phage vB_Pae-TbilisiM32,Pseudomonas aeruginosa PA32,Pseudomonas aeruginosa PA32
+NC_031073,Pseudomonas phage vB_PaeM_MAG1,Pseudomonas aeruginosa PA31,Pseudomonas aeruginosa PA31
+NC_031104,Pseudomonas phage vB_PaeP_MAG4,Pseudomonas aeruginosa PA21,Pseudomonas aeruginosa PA21
+NC_030934,Pseudomonas phage vB_PsyM_KIL1,Pseudomonas syringae pv. porri LMG 28495,Pseudomonas syringae pv. porri LMG 28495
+NC_042054,Pseudomonas phage vB_PsyM_KIL4,Pseudomonas syringae pv. porri LMG 28495,Pseudomonas syringae pv. porri LMG 28495
+NC_009818,Pseudomonas virus MP22,Pseudomonas aeruginosa UCBPP-PA14,Pseudomonas aeruginosa UCBPP-PA14
+NC_021864,Puniceispirillum phage HMO-2011,Candidatus Puniceispirillum marinum IMCC1322,Candidatus Puniceispirillum marinum IMCC1322
+NC_021560,Rhizobium phage RR1-A,Rhizobium radiobacter P007,Rhizobium radiobacter P007
+NC_021557,Rhizobium phage RR1-B,Rhizobium radiobacter P007,Rhizobium radiobacter P007
+NC_025429,Rhizobium phage vB_RleM_P10VF,Rhizobium leguminosarum biovar viciae VF39,Rhizobium leguminosarum biovar viciae VF39
+NC_023502,Rhizobium phage vB_RleS_L338C,Rhizobium leguminosarum biovar viciae 3841,Rhizobium leguminosarum biovar viciae 3841
+NC_042049,Rhodobacter phage RcCronus,Rhodobacter capsulatus YW1,Rhodobacter capsulatus YW1
+NC_028954,Rhodobacter phage RcRhea,Rhodobacter capsulatus YW1,Rhodobacter capsulatus YW1
+NC_041963,Rhodobacter phage RcSpartan,Rhodobacter capsulatus YW1,Rhodobacter capsulatus YW1
+NC_029097,Rhodobacter phage RcTitan,Rhodobacter capsulatus YW1,Rhodobacter capsulatus YW1
+NC_029061,Rhodoferax phage P26218,Rhodoferax sp. IMCC26218,Rhodoferax sp. IMCC26218
+NC_031059,Rhodovulum phage vB_RhkS_P1,Rhodovulum sp. P5,Rhodovulum sp. P5
+NC_025428,Ruegeria phage DSS3-P1,Ruegeria pomeroyi DSS-3,Ruegeria pomeroyi DSS-3
+NC_042348,Salinibacter virus M1EM-1,Salinibacter ruber M1,Salinibacter ruber M1
+NC_042352,Salinibacter virus M31CR41-2,Salinibacter ruber M31,Salinibacter ruber M31
+NC_042349,Salinibacter virus M8CC-19,Salinibacter ruber M8,Salinibacter ruber M8
+NC_042350,Salinibacter virus M8CR30-2,Salinibacter ruber M8,Salinibacter ruber M8
+NC_042351,Salinibacter virus M8CRM-1,Salinibacter ruber M8,Salinibacter ruber M8
+NC_026607,Salmonella phage STP4-a,Salmonella Typhimurium ATCC 14028,Salmonella Typhimurium ATCC 14028
+NC_041996,Serratia phage CHI14,Serratia sp. ATCC 39006,Serratia sp. ATCC 39006
+NC_029120,Shigella phage 75/02 Stx,Shigella sonnei 75/02,Shigella sonnei 75/02
+NC_023589,Shigella phage pSb-1,Shigella boydii ATCC 35966,Shigella boydii ATCC 35966
+NC_021331,Shigella phage pSf-1,Shigella flexneri ATCC 12022,Shigella flexneri ATCC 12022
+NC_026010,Shigella phage pSf-2,Shigella flexneri ATCC 12022,Shigella flexneri ATCC 12022
+NC_012697,Silicibacter phage DSS3phi2,Ruegeria pomeroyi DSS-3,Ruegeria pomeroyi DSS-3
+NC_007902,Sodalis phage phiSG1,Sodalis glossinidius str. 'morsitans',Sodalis glossinidius str. 'morsitans'
+NC_041927,Sphingobium phage Lacusarx,Sphingobium sp. IP1,Sphingobium sp. IP1
+NC_025426,Staphylococcus phage P108,Staphylococcus aureus XN108,Staphylococcus aureus XN108
+NC_021801,Staphylococcus phage SA12,Staphylococcus aureus ATCC 29213,Staphylococcus aureus ATCC 29213
+NC_029010,Staphylococcus phage SA97,Staphylococcus aureus RN4220,Staphylococcus aureus RN4220
+NC_029119,Staphylococcus phage SPbeta-like,Staphylococcus epidermidis 36-1,Staphylococcus epidermidis 36-1
+NC_028821,Staphylococcus phage StB20-like,Staphylococcus epidermidis 36-1,Staphylococcus epidermidis 36-1
+NC_004615,Staphylococcus virus 11,Staphylococcus aureus subsp. aureus NCTC 8325,Staphylococcus aureus subsp. aureus NCTC 8325
+NC_004617,Staphylococcus virus 13,Staphylococcus aureus subsp. aureus NCTC 8325,Staphylococcus aureus subsp. aureus NCTC 8325
+NC_004616,Staphylococcus virus phi12,Staphylococcus aureus subsp. aureus NCTC 8325,Staphylococcus aureus subsp. aureus NCTC 8325
+NC_024361,Streptococcus phage DCC1738,Streptococcus pneumoniae isolate DCC1738,Streptococcus pneumoniae isolate DCC1738
+NC_024370,Streptococcus phage IC1,Streptococcus pneumoniae isolate 9908+13028,Streptococcus pneumoniae isolate 9908+13028
+NC_022791,Streptococcus phage phiBHN167,Streptococcus pneumoniae BHN167,Streptococcus pneumoniae BHN167
+NC_021868,Streptococcus phage SPQS1,Streptococcus pneumoniae D39,Streptococcus pneumoniae D39
+NC_028904,Streptomyces phage Amela,Streptomyces venezuelae ATCC 10712,Streptomyces venezuelae ATCC 10712
+NC_041860,Streptomyces phage Danzina,Streptomyces venezuelae ATCC 10712,Streptomyces venezuelae ATCC 10712
+NC_028827,Streptomyces phage Lannister,Streptomyces venezuelae ATCC 10712,Streptomyces venezuelae ATCC 10712
+NC_029005,Streptomyces phage phiSAJS1,Streptomyces avermitilis ATCC 31267,Streptomyces avermitilis ATCC 31267
+NC_019414,Streptomyces phage R4,Streptomyces coelicolor A3(2),Streptomyces coelicolor A3(2)
+NC_012696,Sulfitobacter phage EE36phi1,Sulfitobacter sp. EE-36,Sulfitobacter sp. EE-36
+NC_027299,Sulfitobacter phage NYA-2014a,Sulfitobacter sp. CB2047,Sulfitobacter sp. CB2047
+NC_020858,Sulfitobacter phage pCB2047-A,Sulfitobacter sp. CB2047,Sulfitobacter sp. CB2047
+NC_020856,Sulfitobacter phage pCB2047-C,Sulfitobacter sp. CB2047,Sulfitobacter sp. CB2047
+NC_020862,Sulfitobacter phage phiCB2047-B,Sulfitobacter sp. CB2047,Sulfitobacter sp. CB2047
+NC_023587,Synechococcus phage ACG-2014h,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_020837,Synechococcus phage S-CAM1,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_021530,Synechococcus phage S-CAM8,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_025456,Synechococcus phage S-CBP1,Synechococcus sp. CB0101,Synechococcus sp. CB0101
+NC_025461,Synechococcus phage S-CBP3,Synechococcus sp. CB0101,Synechococcus sp. CB0101
+NC_025464,Synechococcus phage S-CBP4,Synechococcus sp. CB0101,Synechococcus sp. CB0101
+NC_029031,Synechococcus phage S-CBP42,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_016766,Synechococcus phage S-CBS4,Synechococcus sp. CB0101,Synechococcus sp. CB0101
+NC_021536,Synechococcus phage S-IOM18,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_023584,Synechococcus phage S-MbCM100,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_006820,Synechococcus phage S-PM2,Synechococcus sp. SynWH7803,Synechococcus sp. SynWH7803
+NC_020859,Synechococcus phage S-RIM2 R1_1999,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_020486,Synechococcus phage S-RIM8 A.HR1,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_020867,Synechococcus phage S-RIP1,Synechococcus sp. WH8101,Synechococcus sp. WH8101
+NC_020838,Synechococcus phage S-RIP2,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_015281,Synechococcus phage S-ShM2,Synechococcus sp. WH8102,Synechococcus sp. WH8102
+NC_020851,Synechococcus phage S-SKS1,Synechococcus sp. WH7803,Synechococcus sp. WH7803
+NC_015289,Synechococcus phage S-SSM5,Synechococcus sp. WH8102,Synechococcus sp. WH8102
+NC_015287,Synechococcus phage S-SSM7,Synechococcus sp. WH8109,Synechococcus sp. WH8109
+NC_015286,Synechococcus phage Syn19,Synechococcus sp. WH8109,Synechococcus sp. WH8109
+NC_003390,Synechococcus virus P60,Synechococcus sp. WH7805,Synechococcus sp. WH7805
+NC_009531,Synechococcus virus Syn5,Synechococcus sp. WH 8109,Synechococcus sp. WH 8109
+NC_015937,Thermus phage TMA,Thermus thermophilus HB27,Thermus thermophilus HB27
+NC_042094,Vibrio phage Ceto,Vibrio harveyi BAA-1116,Vibrio harveyi BAA-1116
+NC_029057,Vibrio phage qdvp001,Vibrio parahaemolyticus ATCC 17802,Vibrio parahaemolyticus ATCC 17802
+NC_016567,Vibrio phage SIO-2,Vibrio sp. SWAT-3,Vibrio sp. SWAT-3
+NC_042095,Vibrio phage Thalassa,Vibrio harveyi BAA-1116,Vibrio harveyi BAA-1116
+NC_028829,Vibrio phage ValKK3,Vibrio alginolyticus ATCC 17749,Vibrio alginolyticus ATCC 17749
+NC_001271,Yersinia phage phiYeO3-12,Yersinia enterocolitica (type O:3),Yersinia enterocolitica (type O:3)
+NC_028655,Yersinia phage vB_YenP_AP10,Yersinia enterocolitica 6471/76-c serotype O:3,Yersinia enterocolitica 6471/76-c serotype O:3
+NC_021336,Bacillus phage MG-B1,Bacillus weihenstephanensis MG1,Bacillus weihenstephanensis MG1
+EF108464,Escherichia virus MS2,Escherichia coli HS,Escherichia coli HS
+HQ316603,Cyanophage S-SSM6b,Synechococcus sp. WH 8109,Synechococcus sp. WH 8109
+HQ317290,Synechococcus phage S-RIM2 R21_2007,Synechococcus sp. WH 7803,Synechococcus sp. WH 7803
+HQ317291,Synechococcus phage S-RIM2 R9_2006,Synechococcus sp. WH 7803,Synechococcus sp. WH 7803
+HQ317385,Synechococcus phage S-RIM8 A.HR5,Synechococcus sp. WH 7803,Synechococcus sp. WH 7803
+HQ317391,Cyanophage S-SSM6a,Synechococcus sp. WH 8109,Synechococcus sp. WH 8109
+JF773396,Liberibacter phage FP2,Candidatus Liberibacter asiaticus str. psy62,Candidatus Liberibacter asiaticus str. psy62
+JF974289,Synechococcus phage S-RIM8 A.HR3,Synechococcus sp. WH 7803,Synechococcus sp. WH 7803
+JF974292,Cyanophage S-SSM2,Synechococcus sp. WH 8102,Synechococcus sp. WH 8102
+JF974293,Synechococcus phage KBS-M-1A,Synechococcus sp. WH 7803,Synechococcus sp. WH 7803
+KC821625,Cellulophaga phage phi13:1,Cellulophaga baltica 13,Cellulophaga baltica 13
+KC821627,Cellulophaga phage phi18:2,Cellulophaga baltica 18,Cellulophaga baltica 18
+KC821628,Cellulophaga phage phi18:4,Cellulophaga baltica 18,Cellulophaga baltica 18
+KJ194581,Mycobacterium phage Audrey,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KJ194584,Mycobacterium phage Heathcliff,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KJ803031,Dinoroseobacter phage vBDshPR2C,Dinoroseobacter shibae DFL 12 = DSM 16493,Dinoroseobacter shibae DFL 12 = DSM 16493
+KP027202,Mycobacterium phage Taurus,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+NC_042347,Sulfolobus ellipsoid virus 1,Sulfolobus sp. A20,Sulfolobus sp. A20
+AB746912,Nitratiruptor phage NrS-1,Nitratiruptor sp. SB155-2,Nitratiruptor sp. SB155-2
+AJ748296,Sulfolobus islandicus rudivirus 1 variant XX,Sulfolobus islandicus LAL14/1,Sulfolobus islandicus LAL14/1
+CP000711,Enterobacteria phage CUS-3,Escherichia coli RS218,Escherichia coli RS218
+CP008753,Burkholderia phage BEK,Burkholderia pseudomallei 9,Burkholderia pseudomallei 9
+DQ289556,Bacillus phage Gamma isolate d'Herelle,Bacillus cereus ATCC 4342,Bacillus cereus ATCC 4342
+FJ168660,Mycobacterium phage Butterscotch,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+FJ174694,Mycobacterium phage Chah,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+FR725450,Nitrososphaera phage Pro-Nvie1,Nitrososphaera viennensis EN76,Nitrososphaera viennensis EN76
+GQ303261,Mycobacterium phage Hope,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+GQ303262,Mycobacterium phage LRRHood,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+GQ303264,Mycobacterium phage Puhltonio,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+GU247133,Mycobacterium phage Fang,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+GU247134,Mycobacterium phage Scoot17C,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+HG793132,Burkholderia phage Bp-AMP1,Burkholderia pseudomallei K96243,Burkholderia pseudomallei K96243
+HG796219,Burkholderia phage Bp-AMP2,Burkholderia pseudomallei K96243,Burkholderia pseudomallei K96243
+HG796220,Burkholderia phage Bp-AMP3,Burkholderia pseudomallei K96243,Burkholderia pseudomallei K96243
+HG796221,Burkholderia phage Bp-AMP4,Burkholderia pseudomallei K96243,Burkholderia pseudomallei K96243
+HM152765,Mycobacterium phage Island3,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+HM152766,Mycobacterium phage Eagle,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+HQ634176,Cyanophage P-RSM3,Prochlorococcus marinus str. NATL2A,Prochlorococcus marinus str. NATL2A
+JF792674,Mycobacterium phage Shaka,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JF937092,Mycobacterium phage DaVinci,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JF937095,Mycobacterium phage Harvey,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JF937096,Mycobacterium phage Henry,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JF937097,Mycobacterium phage Hertubise,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JF937107,Mycobacterium phage SirHarley,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JF937109,Mycobacterium phage Yoshand,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JF957056,Mycobacterium phage Thora,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN006062,Mycobacterium phage Rakim,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN006063,Mycobacterium phage Serendipity,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN083853,Mycobacterium phage Airmid,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN243856,Mycobacterium phage MeeZee,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN391441,Mycobacterium phage Elph10,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN561150,Mycobacterium phage TiroTheta9,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN600672,Mycobacterium phage Fezzik,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN618996,Mycobacterium phage Arbiter,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN638752,Mycobacterium phage Murdoc,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN638753,Mycobacterium phage Morgushi,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN698990,Mycobacterium phage IsaacEli,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN698991,Mycobacterium phage Hedgerow,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN699002,Mycobacterium phage Avrafan,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN699004,Mycobacterium phage Ares,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN699009,Mycobacterium phage ThreeOh3D2,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN699010,Mycobacterium phage TallGrassMM,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN699013,Mycobacterium phage Pio,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN699014,Mycobacterium phage Nova,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN699018,Mycobacterium phage Kamiyu,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JN699625,Mycobacterium phage Wally,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JQ809701,Mycobacterium phage Flux,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JQ896627,Mycobacterium phage ICleared,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JQ911768,Mycobacterium phage Ava3,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JX042578,Mycobacteriophage ElTiger69,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JX307703,Mycobacterium phage Sabertooth,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JX507079,Acidithiobacillus phage AcaML1,Acidithiobacillus caldus ATCC 51756,Acidithiobacillus caldus ATCC 51756
+JX649096,Mycobacterium phage Serpentine,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JX649097,Mycobacterium phage Piglet,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JX649098,Mycobacterium phage Nacho,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JX649099,Mycobacterium phage Gyarad,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+JX649100,Mycobacterium phage Alex,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KC237308,Enterobacteria phage ID204 Moscow/ID,Escherichia coli C,Escherichia coli C
+KC348602,Streptococcus phage phi891591,Streptococcus suis 89/1591,Streptococcus suis 89/1591
+KC348603,Streptococcus phage phiD12,Streptococcus suis D12,Streptococcus suis D12
+KC413987,Streptococcus phage phiSS12,Streptococcus suis SS12,Streptococcus suis SS12
+KC413988,Streptococcus phage phiST1,Streptococcus suis ST1,Streptococcus suis ST1
+KC595511,Bacillus phage Basilisk,Bacillus cereus BGSC 6E1,Bacillus cereus BGSC 6E1
+KC661271,Mycobacterium phage Dhanush,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KC661272,Mycobacterium phage Methuselah,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KC661274,Mycobacterium phage SDcharge11,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KC661276,Mycobacterium phage Winky,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KC691254,Mycobacterium phage Breezona,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KC821629,Cellulophaga phage phi38:2,Cellulophaga baltica NN016038,Cellulophaga baltica NN016038
+KF005318,Alteromonas phage vB_AmaP_AD45-P3,Alteromonas macleodii str. 'Balearic Sea AD45',Alteromonas macleodii str. 'Balearic Sea AD45'
+KF005319,Alteromonas phage vB_AmaP_AD45-P4,Alteromonas macleodii str. 'Balearic Sea AD45',Alteromonas macleodii str. 'Balearic Sea AD45'
+KF005320,Alteromonas phage vB_AmaP_AD45-P2,Alteromonas macleodii str. 'Balearic Sea AD45',Alteromonas macleodii str. 'Balearic Sea AD45'
+KF017927,Mycobacterium phage Odin,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KF024733,Mycobacterium phage Medusa,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KF024734,Mycobacterium phage Shrimp,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KF114876,Leptospira phage vB_LalZ_80412-LE1,Leptospira alstonii serovar Pingchang str. 80-412,Leptospira alstonii serovar Pingchang str. 80-412
+KF114877,Leptospira phage vB_LnoZ_CZ214-LE1,Leptospira noguchii serovar Panama str. CZ214,Leptospira noguchii serovar Panama str. CZ214
+KF114878,Leptospira phage vb_LkmZ_Bejolso9-LE1,Leptospira kmetyi serovar Malaysia str. Bejo-Iso9,Leptospira kmetyi serovar Malaysia str. Bejo-Iso9
+KF114879,Leptospira phage vB_LbrZ_5399-LE1,Leptospira broomii serovar Hurstbridge str. 5399,Leptospira broomii serovar Hurstbridge str. 5399
+KF114880,Leptospira phage vB_LinZ_10-LE1,Leptospira inadai serovar Lyme str. 10,Leptospira inadai serovar Lyme str. 10
+KF156339,Synechococcus phage S-MbCM25,Synechococcus sp. WH 7803,Synechococcus sp. WH 7803
+KF188414,Mycobacterium phage ABCat,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KF279413,Mycobacterium phage Bane2,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KF279416,Mycobacterium phage SargentShorty9,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KF493883,Mycobacterium phage Mosby,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KF751795,Campylobacter phage CJIE4-3,Campylobacter jejuni subsp. jejuni 00-2425,Campylobacter jejuni subsp. jejuni 00-2425
+KF841476,Mycobacterium phage Melvin,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KJ194583,Mycobacterium phage Numberten,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KJ538722,Mycobacterium phage HH92,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KJ538723,Mycobacterium phage KingVeVeVe,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KJ567041,Mycobacterium phage Zapner,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KJ567044,Mycobacterium phage EmpTee,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KJ567045,Mycobacterium phage Emerson,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KJ595575,Mycobacterium phage Willis,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KJ829260,Mycobacterium phage YungJamal,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KM233455,Mycobacterium phage Farber,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KM347890,Mycobacterium phage Vivaldi,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KM363597,Mycobacterium phage Zonia,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KM408320,Mycobacterium phage Lasso,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KM463009,Mycobacterium phage Power,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KM591905,Mycobacterium phage RonRayGun,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KM592966,Mycobacterium phage QuinnKiro,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KM923970,Mycobacterium phage Gomashi,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP017310,Mycobacterium phage Phoxy,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP017311,Mycobacterium phage Spike509,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP027195,Mycobacterium phage Cosmo,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP027197,Mycobacterium phage FluffyNinja,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP027198,Mycobacterium phage Gadost,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP027203,Mycobacterium phage Treddle,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP027204,Mycobacterium phage Thor,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP027207,Mycobacterium phage Chandler,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP027208,Mycobacterium phage Pipsqueak,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP027209,Mycobacterium phage Sigman,Mycolicibacterium smegmatis MC2 155,Mycolicibacterium smegmatis MC2 155
+KP209285,Staphylococcus phage phiNM4-gamma4,Staphylococcus aureus subsp. aureus str. Newman,Staphylococcus aureus subsp. aureus str. Newman
+NC_003158,Natrinema virus SNJ1,Natrinema sp. J7-1,Natrinema sp. J7-1
+NC_004584,Streptococcus phage 315.1,Streptococcus pyogenes MGAS315,Streptococcus pyogenes MGAS315
+NC_004585,Streptococcus phage 315.2,Streptococcus pyogenes MGAS315,Streptococcus pyogenes MGAS315
+NC_004586,Streptococcus phage 315.3,Streptococcus pyogenes MGAS315,Streptococcus pyogenes MGAS315
+NC_004587,Streptococcus phage 315.4,Streptococcus pyogenes MGAS315,Streptococcus pyogenes MGAS315
+NC_004588,Streptococcus phage 315.5,Streptococcus pyogenes MGAS315,Streptococcus pyogenes MGAS315
+NC_004589,Streptococcus phage 315.6,Streptococcus pyogenes MGAS315,Streptococcus pyogenes MGAS315
+NC_004740,Staphylococcus phage phiN315,Staphylococcus aureus subsp. aureus N315,Staphylococcus aureus subsp. aureus N315
