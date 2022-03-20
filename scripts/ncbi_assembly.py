@@ -29,7 +29,7 @@ from datetime import datetime
 def name_to_gcfs(term):
     #provide your own mail here
     Entrez.email = "achuan-2@outlook.com"
-    term += ' (AND "complete genome"[All Fields] OR "chromosome level"[filter])'
+    term += ' (AND "complete genome"[All Fields] OR "chromosome level"[filter] OR "scaffold level"[filter])'
     refer_term = term + ' AND "reference genome"[filter]'
     ids = search_assembly(refer_term)
     if ids:
@@ -92,7 +92,8 @@ def get_gcf_dict(ids):
         except:
             update_time = datetime.strptime(
                 "1990/01/01 01:00", '%Y/%m/%d %H:%M')
-        assembly_order= 1 if assembly_level=='Complete Genome' else 0
+        assembly_dict={'Complete Genome':2,'Chromosome':1,'Scaffold':0}
+        assembly_order=assembly_dict.get(assembly_level,0)
         if assembly_order:
             complete_flag=1 
         gcf_dict[accession] = {'update_time': update_time, 'assembly_level': assembly_level,'assembly_order':assembly_order}
@@ -128,7 +129,7 @@ def get_assembly_summary(id):
 
 
 if __name__ == "__main__":
-    host_name = "Acinetobacter baumannii NIPH 528"
+    host_name = "Alkalihalobacillus alcalophilus"
     gcf_info = name_to_gcfs(host_name)
     print(host_name)
     print(gcf_info)
