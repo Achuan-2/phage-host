@@ -27,10 +27,10 @@ from datetime import datetime
 
 
 def name_to_gcfs(term):
+    term=term.replace('(',' ').replace(')',' ')
     #provide your own mail here
     Entrez.email = "achuan-2@outlook.com"
-    term += ' (AND "complete genome"[All Fields] OR "chromosome level"[filter] OR "scaffold level"[filter])'
-    refer_term = term + ' AND "reference genome"[filter]'
+    refer_term = term + ' AND ("complete genome"[All Fields] OR "chromosome level"[filter]  OR "scaffold"[filter]) AND "reference genome"[filter]'
     ids = search_assembly(refer_term)
     if ids:
         # print('Found {} reference genomes'.format(len(ids)))
@@ -39,15 +39,17 @@ def name_to_gcfs(term):
         category = "Reference"
     else:
         # print('No reference genomes found')
-        represent_term = term + ' AND "representative genome"[filter]'
+        represent_term = term + ' AND ("complete genome"[All Fields] OR "chromosome level"[filter]  OR "scaffold"[filter]) AND "representative genome"[filter]'
         ids = search_assembly(represent_term)
         # print(ids)
         if ids:
+            # print(ids)
             # print('Found {} representative genomes'.format(len(ids)))
             gcfs,assembly_level = get_gcf(ids)
             category = "Represent"
         else:
             # complete_term =term+ ' AND "complete genome"[All Fields]'
+            term += ' AND ("complete genome"[All Fields] OR "chromosome level"[filter])'
             ids = search_assembly(term)
             gcfs, assembly_level = get_gcf(ids)
             category = "Unreference" if gcfs else "-"
@@ -94,11 +96,8 @@ def get_gcf_dict(ids):
                 "1990/01/01 01:00", '%Y/%m/%d %H:%M')
         assembly_dict={'Complete Genome':2,'Chromosome':1,'Scaffold':0}
         assembly_order=assembly_dict.get(assembly_level,0)
-        if assembly_order:
-            complete_flag=1 
         gcf_dict[accession] = {'update_time': update_time, 'assembly_level': assembly_level,'assembly_order':assembly_order}
-    if complete_flag:
-        gcf_dict = {key:gcf_dict[key] for key in gcf_dict if gcf_dict[key]['assembly_level'] == 'Complete Genome'}
+
     gcf_dict = dict(sorted(gcf_dict.items(), key=lambda x: (x[1]['assembly_order'],x[1]['update_time']), reverse=True))
     return gcf_dict
 def get_gcf(ids):
@@ -124,15 +123,16 @@ def get_assembly_summary(id):
     """Get esummary for an entrez id"""
     esummary_handle = Entrez.esummary(
         db="assembly", id=id, report="full", validate=False)
-    esummary_record = Entrez.read(esummary_handle)
+    esummary_record = Entrez.read(esummary_handle,validate=False)
     return esummary_record
 
 
 if __name__ == "__main__":
-    host_name = "Alkalihalobacillus alcalophilus"
+    host_name = "Alteromonas"
     gcf_info = name_to_gcfs(host_name)
     print(host_name)
     print(gcf_info)
+    # get_gcf_dict([42708])
     """Test
     Escherichia coli :有两个reference基因组
     Vibrio natriegens :有1个Representative基因组
@@ -142,4 +142,5 @@ if __name__ == "__main__":
     Bacillus alcalophilus CGMCC 1.3604 直接靠host name是得不到assembly,发现是没有complete genome ，但有representative genome，Assembly level是Scaffold
     Providencia stuartii isolate MRSN 2154 报错ValueError: time data '1/01/01 00:00' does not match format '%Y/%m/%d %H:%M', 
     原来这个Providencia stuartii GCA_018128385.1这个的AsmReleaseDate_RefSeq字段有问题
+    Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum) 意识到要有英文括号的应该换成空格
     """

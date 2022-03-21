@@ -39,6 +39,7 @@
 470	species
 470	species
 470	species
+470	species
 469	genus
 40214	species
 40214	species
@@ -175,6 +176,8 @@
 358	species
 358	species
 358	species
+1183400	species group
+1183400	species group
 278678	species
 1656094	species
 1004785	strain
@@ -289,6 +292,7 @@
 1392	species
 224308	strain
 29339	no rank
+29339	no rank
 1396	species
 1396	species
 1218173	strain
@@ -328,6 +332,7 @@
 1423	species
 1428	species
 261591	strain
+29339	no rank
 1396	species
 1189615	strain
 1053197	strain
@@ -359,6 +364,7 @@
 1408	species
 1423	species
 1409	species
+1428	species
 1396	species
 1430	no rank
 29339	no rank
@@ -374,6 +380,7 @@
 29339	no rank
 1396	species
 1404	species
+1428	species
 1405	species
 1409	species
 1404	species
@@ -417,6 +424,7 @@
 1396	species
 260799	strain
 1408	species
+1428	species
 29339	no rank
 1428	species
 1434	no rank
@@ -477,6 +485,7 @@
 535026	strain
 1261129	strain
 1428	species
+527022	strain
 1444	no rank
 529121	strain
 326423	strain
@@ -574,6 +583,7 @@
 95486	species
 95486	species
 292	species
+32008	genus
 95486	species
 292	species
 292	species
@@ -620,6 +630,7 @@
 28450	species
 95486	species
 95486	species
+32008	genus
 28450	species
 1121131	strain
 197	species
@@ -641,6 +652,8 @@
 197	species
 205	species
 197	species
+194	genus
+194	genus
 190650	strain
 190650	strain
 155892	species
@@ -714,6 +727,7 @@
 1896336	species
 546	species
 546	species
+544	genus
 546	species
 546	species
 546	species
@@ -756,7 +770,10 @@
 1496	species
 1496	species
 1496	species
+1485	genus
 1496	species
+1485	genus
+1485	genus
 1502	species
 1502	species
 1502	species
@@ -824,6 +841,7 @@
 28141	species
 1888169	species
 1159491	strain
+1138308	strain
 28141	species
 28141	species
 28141	species
@@ -837,9 +855,14 @@
 413503	species
 28141	species
 1888168	species
+167542	strain
 32051	species
 32051	species
 1218	genus
+167555	strain
+59920	strain
+59922	strain
+59920	strain
 59920	strain
 166321	species
 59920	strain
@@ -903,6 +926,7 @@
 69218	species
 61645	species
 548	species
+547	genus
 42895	species
 550	species
 550	species
@@ -924,6 +948,7 @@
 439184	strain
 90371	no rank
 562	species
+624	species
 83334	serotype
 562	species
 562	species
@@ -935,8 +960,17 @@
 562	species
 562	species
 562	species
+543	family
+543	family
+543	family
+543	family
 562	species
 498388	strain
+543	family
+543	family
+543	family
+543	family
+543	family
 562	species
 562	species
 83333	strain
@@ -944,6 +978,7 @@
 83333	strain
 376725	serotype
 562	species
+543	family
 562	species
 1144303	strain
 562	species
@@ -952,6 +987,22 @@
 562	species
 562	species
 562	species
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
 562	species
 561	genus
 562	species
@@ -959,6 +1010,10 @@
 562	species
 562	species
 562	species
+543	family
+543	family
+543	family
+543	family
 287	species
 294	species
 303	species
@@ -1004,7 +1059,16 @@
 83334	serotype
 562	species
 83334	serotype
+543	family
+543	family
+543	family
 562	species
+543	family
+543	family
+543	family
+543	family
+543	family
+543	family
 83334	serotype
 562	species
 59201	subspecies
@@ -1035,6 +1099,7 @@
 525279	strain
 1351	species
 1351	species
+1350	genus
 35783	species
 1352	species
 1352	species
@@ -1152,6 +1217,7 @@
 552	species
 551	genus
 551	genus
+551	genus
 552	species
 1648	species
 83334	serotype
@@ -1167,6 +1233,7 @@
 67825	species
 562	species
 562	species
+561	genus
 83333	strain
 562	species
 562	species
@@ -1198,6 +1265,8 @@
 562	species
 83333	strain
 562	species
+83334	serotype
+561	genus
 511145	no rank
 562	species
 562	species
@@ -1208,9 +1277,11 @@
 562	species
 83333	strain
 561	genus
+83334	serotype
 498388	strain
 562	species
 562	species
+83334	serotype
 83333	strain
 2093884	species
 562	species
@@ -1235,6 +1306,10 @@
 562	species
 562	species
 562	species
+561	genus
+561	genus
+561	genus
+561	genus
 562	species
 562	species
 83334	serotype
@@ -1249,6 +1324,7 @@
 562	species
 562	species
 511145	no rank
+561	genus
 511145	no rank
 562	species
 562	species
@@ -1269,14 +1345,21 @@
 562	species
 83334	serotype
 83334	serotype
+83334	serotype
+562	species
+562	species
+562	species
+561	genus
+561	genus
+561	genus
+561	genus
 562	species
 562	species
 562	species
 562	species
-562	species
-562	species
-562	species
+561	genus
 83333	strain
+83334	serotype
 511145	no rank
 562	species
 83334	serotype
@@ -1287,21 +1370,30 @@
 83333	strain
 562	species
 83333	strain
+561	genus
 562	species
 562	species
 562	species
 562	species
 562	species
 562	species
+561	genus
+91347	order
 562	species
 83334	serotype
+561	genus
+561	genus
 562	species
+561	genus
 562	species
+561	genus
 562	species
+561	genus
 562	species
 511145	no rank
 562	species
 562	species
+561	genus
 562	species
 469008	strain
 1055538	serogroup
@@ -1324,6 +1416,9 @@
 562	species
 83333	strain
 753642	strain
+561	genus
+561	genus
+561	genus
 511145	no rank
 511145	no rank
 562	species
@@ -1331,6 +1426,7 @@
 562	species
 543	family
 562	species
+1206746	strain
 1137135	strain
 562	species
 562	species
@@ -1358,19 +1454,25 @@
 1045010	serogroup
 511145	no rank
 83334	serotype
+561	genus
+562	species
+562	species
+561	genus
 562	species
 562	species
 562	species
 562	species
-562	species
-562	species
+561	genus
+561	genus
 562	species
 37762	strain
+561	genus
 562	species
 562	species
 562	species
 562	species
 562	species
+561	genus
 511145	no rank
 562	species
 83334	serotype
@@ -1382,6 +1484,7 @@
 562	species
 562	species
 562	species
+561	genus
 561	genus
 562	species
 562	species
@@ -1397,6 +1500,8 @@
 83334	serotype
 511145	no rank
 562	species
+561	genus
+561	genus
 562	species
 562	species
 511145	no rank
@@ -1438,6 +1543,7 @@
 562	species
 562	species
 2072463	serogroup
+561	genus
 562	species
 562	species
 562	species
@@ -1446,7 +1552,10 @@
 562	species
 562	species
 562	species
+37762	strain
 562	species
+562	species
+561	genus
 562	species
 562	species
 562	species
@@ -1464,6 +1573,7 @@
 562	species
 562	species
 562	species
+561	genus
 562	species
 562	species
 562	species
@@ -1492,11 +1602,17 @@
 562	species
 1211845	no rank
 562	species
+561	genus
+561	genus
+561	genus
+561	genus
+561	genus
 561	genus
 562	species
 562	species
 562	species
 83333	strain
+561	genus
 562	species
 566546	strain
 562	species
@@ -1521,23 +1637,35 @@
 562	species
 83334	serotype
 562	species
+561	genus
 562	species
+561	genus
 562	species
+561	genus
 562	species
+561	genus
 562	species
 562	species
 331112	strain
 562	species
 1392869	strain
 498388	strain
+561	genus
+562	species
+561	genus
+562	species
+561	genus
+562	species
+561	genus
+562	species
+561	genus
+562	species
+561	genus
+562	species
+561	genus
 562	species
 562	species
-562	species
-562	species
-562	species
-562	species
-562	species
-562	species
+561	genus
 562	species
 562	species
 543	family
@@ -1803,6 +1931,7 @@
 2055	species
 2055	species
 36822	species
+2053	genus
 2055	species
 2055	species
 2055	species
@@ -1837,6 +1966,8 @@
 2242	species
 478009	strain
 2242	species
+2	superkingdom
+2251	genus
 2254	species
 1089726	species
 77097	species
@@ -1850,6 +1981,7 @@
 1089753	species
 1089748	species
 1158105	species
+56688	genus
 1089759	species
 1089735	species
 1089735	species
@@ -1897,6 +2029,7 @@
 573	species
 573	species
 573	species
+573	species
 1497796	species
 573	species
 574	subspecies
@@ -1912,6 +2045,7 @@
 573	species
 573	species
 573	species
+570	genus
 573	species
 573	species
 573	species
@@ -1953,6 +2087,7 @@
 573	species
 571	species
 1049565	strain
+570	genus
 573	species
 1205678	strain
 573	species
@@ -1985,6 +2120,7 @@
 573	species
 573	species
 573	species
+570	genus
 573	species
 573	species
 573	species
@@ -2011,6 +2147,7 @@
 573	species
 573	species
 573	species
+570	genus
 573	species
 573	species
 573	species
@@ -2025,6 +2162,7 @@
 1590	species
 47715	species
 1590	species
+1578	genus
 1585	subspecies
 1597	species
 1597	species
@@ -2036,6 +2174,8 @@
 29397	subspecies
 1596	species
 387344	strain
+1578	genus
+1597	species
 1580	species
 47715	species
 1584	species
@@ -2063,6 +2203,7 @@
 1587	species
 1582	species
 1578	genus
+1584	species
 1590	species
 1584	species
 1613	species
@@ -2079,6 +2220,8 @@
 33959	species
 33959	species
 33959	species
+1358	species
+1358	species
 1358	species
 1358	species
 1358	species
@@ -2122,6 +2265,7 @@
 1358	species
 1358	species
 1358	species
+1357	genus
 1358	species
 1358	species
 1358	species
@@ -2176,6 +2320,7 @@
 1358	species
 1358	species
 1358	species
+1357	genus
 1358	species
 272623	strain
 272623	strain
@@ -2185,6 +2330,7 @@
 272623	strain
 1357	genus
 1358	species
+1357	genus
 1358	species
 1358	species
 1359	species
@@ -2209,9 +2355,11 @@
 1358	species
 1358	species
 1358	species
+1357	genus
 1358	species
 1358	species
 1358	species
+1357	genus
 1363	species
 1358	species
 1359	species
@@ -2276,9 +2424,11 @@
 1358	species
 1359	species
 1357	genus
+1357	genus
 1358	species
 1358	species
 1358	species
+1357	genus
 1358	species
 1358	species
 1358	species
@@ -2299,8 +2449,14 @@
 2024994	species
 1434014	genus
 2024994	species
+171	genus
 172	species
 172	species
+1218564	strain
+1049789	strain
+1049790	strain
+1049970	strain
+1001595	strain
 1245	species
 1247	species
 33968	species
@@ -2431,6 +2587,7 @@
 82380	species
 199592	species
 1126	species
+1125	genus
 2	superkingdom
 582	species
 1912315	species
@@ -2537,6 +2694,7 @@
 246196	strain
 246196	strain
 246196	strain
+1763	genus
 246196	strain
 246196	strain
 246196	strain
@@ -2561,6 +2719,7 @@
 246196	strain
 246196	strain
 246196	strain
+1763	genus
 246196	strain
 246196	strain
 1785	species
@@ -2756,6 +2915,7 @@
 1772	species
 246196	strain
 246196	strain
+246196	strain
 1763	genus
 1763	genus
 246196	strain
@@ -2987,6 +3147,7 @@
 246196	strain
 246196	strain
 246196	strain
+1763	genus
 246196	strain
 246196	strain
 1785	species
@@ -3148,7 +3309,9 @@
 246196	strain
 246196	strain
 246196	strain
+246196	strain
 1763	genus
+246196	strain
 246196	strain
 246196	strain
 246196	strain
@@ -3236,6 +3399,7 @@
 1763	genus
 246196	strain
 246196	strain
+1763	genus
 85007	order
 246196	strain
 246196	strain
@@ -3291,6 +3455,7 @@
 1763	genus
 1772	species
 1763	genus
+1763	genus
 1772	species
 1763	genus
 1772	species
@@ -3316,6 +3481,7 @@
 246196	strain
 246196	strain
 246196	strain
+1763	genus
 85007	order
 246196	strain
 246196	strain
@@ -3371,6 +3537,7 @@
 246196	strain
 246196	strain
 246196	strain
+1763	genus
 246196	strain
 2111	species
 2093	genus
@@ -3424,6 +3591,7 @@
 1464	species
 1464	species
 1464	species
+69393	species
 549	species
 549	species
 549	species
@@ -3441,6 +3609,7 @@
 747	species
 29471	species
 555	subspecies
+122277	genus
 555	subspecies
 29471	species
 1913084	species
@@ -3471,11 +3640,14 @@
 29471	species
 555	subspecies
 555	subspecies
+122277	genus
+122277	genus
 29471	species
 29471	species
 29471	species
 29471	species
 554	species
+1253	genus
 335992	strain
 335992	strain
 335992	strain
@@ -3484,6 +3656,8 @@
 99287	strain
 28211	class
 28901	species
+562	species
+561	genus
 28901	species
 28901	species
 1378061	species
@@ -3493,6 +3667,8 @@
 1198	genus
 85581	subspecies
 598707	strain
+52959	genus
+52959	genus
 1218	genus
 1218	genus
 59919	strain
@@ -3500,9 +3676,13 @@
 59919	strain
 59922	strain
 1218	genus
+167555	strain
+59920	strain
 1218	genus
 59920	strain
 1219	species
+167555	strain
+59920	strain
 1219	species
 1219	species
 1218	genus
@@ -3622,6 +3802,7 @@
 584	species
 588	species
 588	species
+1157951	strain
 588	species
 587	species
 587	species
@@ -3652,7 +3833,9 @@
 267375	species
 161398	species
 96059	species
+286	genus
 208964	strain
+286	genus
 587753	species
 294	species
 287	species
@@ -3680,6 +3863,7 @@
 306	species
 306	species
 306	species
+286	genus
 306	species
 287	species
 287	species
@@ -3694,10 +3878,12 @@
 652611	strain
 652611	strain
 652611	strain
+286	genus
 652611	strain
 652611	strain
 652611	strain
 287	species
+286	genus
 652611	strain
 287	species
 287	species
@@ -3734,6 +3920,7 @@
 663959	no rank
 663959	no rank
 216595	strain
+286	genus
 564423	strain
 208964	strain
 294	species
@@ -3765,6 +3952,7 @@
 208964	strain
 1279007	strain
 287	species
+286	genus
 287	species
 208964	strain
 287	species
@@ -3805,6 +3993,7 @@
 103796	no rank
 1104681	strain
 29442	species
+286	genus
 287	species
 294	species
 129847	species
@@ -3820,8 +4009,11 @@
 306	species
 287	species
 287	species
+286	genus
+286	genus
 287	species
 208964	strain
+286	genus
 287	species
 287	species
 287	species
@@ -3843,6 +4035,8 @@
 287	species
 287	species
 208964	strain
+286	genus
+286	genus
 287	species
 287	species
 287	species
@@ -3877,6 +4071,8 @@
 83964	no rank
 83964	no rank
 317	species
+286	genus
+286	genus
 287	species
 287	species
 287	species
@@ -3893,6 +4089,7 @@
 287	species
 287	species
 287	species
+286	genus
 287	species
 208964	strain
 136843	species group
@@ -3943,6 +4140,7 @@
 305	species
 305	species
 305	species
+48736	genus
 305	species
 1310165	species
 305	species
@@ -3960,7 +4158,9 @@
 305	species
 305	species
 305	species
+48736	genus
 305	species
+48736	genus
 305	species
 305	species
 305	species
@@ -4043,6 +4243,7 @@
 375451	strain
 2434	species
 375451	strain
+2433	genus
 391588	species
 314263	species
 246200	strain
@@ -4060,6 +4261,7 @@
 761659	strain
 761659	strain
 761659	strain
+146918	genus
 51367	species
 1886796	species
 1089709	species
@@ -4081,6 +4283,7 @@
 90370	no rank
 28901	species
 108619	no rank
+99287	strain
 149539	no rank
 28901	species
 59201	subspecies
@@ -4127,6 +4330,7 @@
 149539	no rank
 562	species
 573	species
+590	genus
 149539	no rank
 149539	no rank
 599	species
@@ -4163,6 +4367,7 @@
 1331664	strain
 90371	no rank
 90371	no rank
+590	genus
 149539	no rank
 594	no rank
 90371	no rank
@@ -4189,6 +4394,7 @@
 149539	no rank
 28901	species
 599	species
+590	genus
 599	species
 149539	no rank
 599	species
@@ -4216,6 +4422,7 @@
 28901	species
 28901	species
 599	species
+1045010	serogroup
 594	no rank
 90371	no rank
 149385	no rank
@@ -4240,13 +4447,18 @@
 90371	no rank
 90371	no rank
 599	species
+590	genus
 99287	strain
 590	genus
 590	genus
+590	genus
+590	genus
 90371	no rank
 90371	no rank
 90371	no rank
 90371	no rank
+590	genus
+590	genus
 90371	no rank
 192955	no rank
 599	species
@@ -4255,6 +4467,7 @@
 99287	strain
 149387	no rank
 59201	subspecies
+90371	no rank
 90371	no rank
 590	genus
 211968	no rank
@@ -4284,10 +4497,14 @@
 599	species
 28901	species
 90370	no rank
+590	genus
 149539	no rank
+590	genus
 605	no rank
 149539	no rank
+590	genus
 28901	species
+590	genus
 28901	species
 99287	strain
 98360	no rank
@@ -4418,6 +4635,8 @@
 2134	species
 2133	species
 2132	genus
+2133	species
+2132	genus
 47834	species
 2134	species
 1280	species
@@ -4469,6 +4688,7 @@
 93061	strain
 1280	species
 1280	species
+1279	genus
 1280	species
 1334189	strain
 1282	species
@@ -4490,6 +4710,7 @@
 1280	species
 29387	species
 1280	species
+1279	genus
 1280	species
 1280	species
 1280	species
@@ -4552,6 +4773,7 @@
 1280	species
 1280	species
 1280	species
+1280	species
 561307	no rank
 1280	species
 1280	species
@@ -4578,6 +4800,7 @@
 1280	species
 1280	species
 1280	species
+1279	genus
 1280	species
 1280	species
 1280	species
@@ -4599,6 +4822,9 @@
 1280	species
 1280	species
 1280	species
+1279	genus
+1279	genus
+1279	genus
 1280	species
 1280	species
 1280	species
@@ -4611,6 +4837,7 @@
 40324	species
 40324	species
 40324	species
+40323	genus
 40324	species
 40324	species
 40324	species
@@ -4619,6 +4846,7 @@
 40324	species
 40324	species
 40324	species
+1301	genus
 1091038	strain
 198466	strain
 198466	strain
@@ -4670,6 +4898,7 @@
 1307	species
 1005041	strain
 1004951	strain
+1301	genus
 1308	species
 1308	species
 28037	species
@@ -4695,6 +4924,7 @@
 1308	species
 1308	species
 1308	species
+1301	genus
 1308	species
 1308	species
 1911	species
@@ -4760,10 +4990,12 @@
 1916	species
 1902	species
 1931	species
+1912	species
 100226	strain
 33903	species
 33903	species
 953739	strain
+1888	species
 100226	strain
 1911	species
 146537	species
@@ -4796,6 +5028,7 @@
 1916	species
 1916	species
 1902	species
+29303	species
 33903	species
 511145	no rank
 83334	serotype
@@ -4859,6 +5092,18 @@
 207809	species
 2284	genus
 1129	genus
+1129	genus
+32051	species
+32051	species
+32051	species
+32051	species
+1129	genus
+32051	species
+1129	genus
+1129	genus
+1129	genus
+32051	species
+32051	species
 32051	species
 32051	species
 1129	genus
@@ -4899,6 +5144,7 @@
 32051	species
 32051	species
 32051	species
+32051	species
 1129	genus
 32051	species
 32051	species
@@ -4936,6 +5182,8 @@
 35749	species
 1128108	species
 2271	species
+2271	species
+300852	strain
 1220595	strain
 1337888	strain
 300852	strain
@@ -5056,6 +5304,7 @@
 663	species
 1219076	strain
 663	species
+662	genus
 223926	strain
 223926	strain
 223926	strain
@@ -5105,6 +5354,7 @@
 666	species
 45888	serogroup
 662	genus
+662	genus
 678	species
 670	species
 670	species
@@ -5128,6 +5378,7 @@
 339	species
 340	no rank
 456327	species
+338	genus
 29446	species
 340	no rank
 48664	species
@@ -5142,6 +5393,7 @@
 64187	no rank
 339	species
 346	species
+338	genus
 56460	species
 340	no rank
 347	species
@@ -5167,6 +5419,7 @@
 28152	species
 29484	species
 263819	species
+629	genus
 633	species
 34051	serotype
 34051	serotype
@@ -5174,6 +5427,7 @@
 633	species
 34051	serotype
 633	species
+629	genus
 632	species
 632	species
 630	species
@@ -5195,6 +5449,7 @@
 665028	strain
 665028	strain
 665028	strain
+632	species
 632	species
 632	species
 632	species

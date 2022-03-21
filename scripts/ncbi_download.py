@@ -45,18 +45,21 @@ def main():
         pass
 
 
-
 def download_fna(i):
-    
-    handle = Entrez.efetch(db="nuccore", id=i, rettype="fasta")
-    text = handle.read()
+    try:
+        handle = Entrez.efetch(db="nuccore", id=i, rettype="fasta")
+        text = handle.read()
+    except:
+        print("Error:", i)
     return text
 
 
 def download_faa(i):
-
-    handle = Entrez.efetch(db="nuccore", id=i, rettype="fasta_cds_aa")
-    text = handle.read()
+    try:
+        handle = Entrez.efetch(db="nuccore", id=i, rettype="fasta_cds_aa")
+        text = handle.read()
+    except:
+        print("Error:", i)
     return text
 
 def download_gb(i):
