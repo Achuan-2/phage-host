@@ -12,7 +12,7 @@ def main():
                     mode="w", encoding="utf-8")
 
     num_lines = sum(1 for line in open(input, 'r'))-1
-    header = ['virus_name', 'viral_acc', 'report_host','evidence',
+    header = ['virus_name', 'viral_acc', 'evidence', 'report_host',
             'host_taxid','host_lineage', 'host_tax_rank','find_name', 'gcfs', 'new_gcf', 'assembly_category', 'assembly_level']
     output_f.write("\t".join(header)+"\n")
     output_f.flush()

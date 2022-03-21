@@ -2,35 +2,14 @@ from Bio import Entrez
 from datetime import datetime
 
 
-# def name_to_gcfs(term):
-#     """Download genbank assemblies for a given search term.
-#     【脚本逻辑】reference genome 优先：
-#     先根据host name找reference genome，
-#     如果没有则找representative genome，
-#     如果还没有就不加其他筛选关键词，
-#     默认筛选关键词为"complete genome"[All Fields] 。
-#     鉴于可能会返回多个gcf，将得到的gcf根据时间顺序排列，最新的gcf在最前面
-
-#     """
-#     try_times = 0
-#     while try_times<10:
-#         try:
-#             gcfs,level=main_function(term)
-#         except:
-#             try_times += 1
-#             continue
-#         else:
-#             return gcfs,level
-#     gcfs=['-']
-#     level='-'
-#     return
-
 
 def name_to_gcfs(term):
     term=term.replace('(',' ').replace(')',' ')
     #provide your own mail here
-    Entrez.email = "achuan-2@outlook.com"
-    refer_term = term + ' AND ("complete genome"[All Fields] OR "chromosome level"[filter]  OR "scaffold"[filter]) AND "reference genome"[filter]'
+    Entrez.email = "270992395@qq.com"
+    term += ' AND (latest[filter] AND all[filter] NOT anomalous[filter] "refseq has annotation"[Properties])'
+    refer_term = term + ' AND ("complete genome"[filter] OR "chromosome level"[filter])   AND "reference genome"[filter]'
+    # refer_term = term + ' AND ("complete genome"[filter] OR "chromosome level"[filter]  OR "scaffold level"[filter]) AND "reference genome"[filter]'
     ids = search_assembly(refer_term)
     if ids:
         # print('Found {} reference genomes'.format(len(ids)))
@@ -39,7 +18,9 @@ def name_to_gcfs(term):
         category = "Reference"
     else:
         # print('No reference genomes found')
-        represent_term = term + ' AND ("complete genome"[All Fields] OR "chromosome level"[filter]  OR "scaffold"[filter]) AND "representative genome"[filter]'
+        represent_term = term + \
+            ' AND ("complete genome"[filter] OR "chromosome level"[filter] ) AND "representative genome"[filter]'
+            # ' AND ("complete genome"[filter] OR "chromosome level"[filter]  OR "scaffold level"[filter]) AND "representative genome"[filter]'
         ids = search_assembly(represent_term)
         # print(ids)
         if ids:
@@ -49,7 +30,7 @@ def name_to_gcfs(term):
             category = "Represent"
         else:
             # complete_term =term+ ' AND "complete genome"[All Fields]'
-            term += ' AND ("complete genome"[All Fields] OR "chromosome level"[filter])'
+            term += ' AND ("complete genome"[filter] OR "chromosome level"[filter])'
             ids = search_assembly(term)
             gcfs, assembly_level = get_gcf(ids)
             category = "Unreference" if gcfs else "-"
@@ -83,11 +64,18 @@ def get_gcf_dict(ids):
     # 如果有complete genome，就不返回Chromosome genome
     complete_flag=0
     for id in ids:
-        summary = get_assembly_summary(id)
-        assembly_level=summary['DocumentSummarySet']['DocumentSummary'][0]['AssemblyStatus']
+        summary = get_assembly_summary(
+            id)['DocumentSummarySet']['DocumentSummary'][0]
+        # print(summary)
+        try:
+            assembly_level=summary['AssemblyStatus']
 
-        accession = summary['DocumentSummarySet']['DocumentSummary'][0]['AssemblyAccession']
-        update_time = summary['DocumentSummarySet']['DocumentSummary'][0]['AsmReleaseDate_RefSeq']
+            accession = summary['AssemblyAccession']
+            update_time = summary['AsmReleaseDate_RefSeq']
+            if 'suppressed_refseq' in summary['PropertyList']:
+                accession+='(suppressed)'
+        except:
+            continue
         try:
             update_time= datetime.strptime(
                 update_time, '%Y/%m/%d %H:%M')
@@ -128,7 +116,7 @@ def get_assembly_summary(id):
 
 
 if __name__ == "__main__":
-    host_name = "Alteromonas"
+    host_name = "Planktothrix agardhii"
     gcf_info = name_to_gcfs(host_name)
     print(host_name)
     print(gcf_info)
@@ -143,4 +131,9 @@ if __name__ == "__main__":
     Providencia stuartii isolate MRSN 2154 报错ValueError: time data '1/01/01 00:00' does not match format '%Y/%m/%d %H:%M', 
     原来这个Providencia stuartii GCA_018128385.1这个的AsmReleaseDate_RefSeq字段有问题
     Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum) 意识到要有英文括号的应该换成空格
+
+    Acholeplasma laidlawii represent genome是scaffold的，结果返回的是unreference genome的complete genome，发现是脚本没有把scaffold level写成了scaffold，导致出现问题
+    Arthrobacter sp. ATCC 21022 返回的是anomalous genome发现要添加AND (NOT anomalous[filter])
+    Cronobacter turicensis z3032 返回的是GCF_000027065.2 (suppressed)
+    Planktothrix agardhii HAB637 返回['GCA_003609755.1', 'GCF_000710505.1']，GCA排在GCF前面不合理->改动后输出(['GCF_000710505.1'], 'Unreference', 'Chromosome')
     """

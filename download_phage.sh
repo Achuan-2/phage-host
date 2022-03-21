@@ -13,4 +13,3 @@ for PHAGE_ID in $(cut -f 1  ${ID_TXT}|uniq);do
     echo ${PHAGE_ID} >> VHDB_phage_downloaded.txt
 done
 echo "end"
-
