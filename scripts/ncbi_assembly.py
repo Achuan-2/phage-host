@@ -2,11 +2,11 @@ from Bio import Entrez
 from datetime import datetime
 
 
-
+Entrez.email = "270992395@qq.com"
 def name_to_gcfs(term):
     term=term.replace('(',' ').replace(')',' ')
     #provide your own mail here
-    Entrez.email = "270992395@qq.com"
+    
     term += ' AND (latest[filter] AND all[filter] NOT anomalous[filter] "refseq has annotation"[Properties])'
     refer_term = term + ' AND ("complete genome"[filter] OR "chromosome level"[filter])   AND "reference genome"[filter]'
     # refer_term = term + ' AND ("complete genome"[filter] OR "chromosome level"[filter]  OR "scaffold level"[filter]) AND "reference genome"[filter]'
@@ -64,10 +64,10 @@ def get_gcf_dict(ids):
     # 如果有complete genome，就不返回Chromosome genome
     complete_flag=0
     for id in ids:
-        summary = get_assembly_summary(
-            id)['DocumentSummarySet']['DocumentSummary'][0]
         # print(summary)
         try:
+            summary = get_assembly_summary(
+                id)['DocumentSummarySet']['DocumentSummary'][0]
             assembly_level=summary['AssemblyStatus']
 
             accession = summary['AssemblyAccession']
@@ -116,10 +116,11 @@ def get_assembly_summary(id):
 
 
 if __name__ == "__main__":
-    host_name = "Planktothrix agardhii"
+    host_name = "Arthrobacter sp. ATCC 21022"
     gcf_info = name_to_gcfs(host_name)
     print(host_name)
     print(gcf_info)
+    
     # get_gcf_dict([42708])
     """Test
     Escherichia coli :有两个reference基因组

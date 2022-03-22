@@ -1,10 +1,10 @@
 from tqdm import tqdm
 import json
-input = 'virushostdb_phage.tsv'
-fp = open('host.json', 'r')
+input = '../data/virushostdb_phage.tsv'
+fp = open('../data/report_host.json', 'r')
 host_dict = json.load(fp)
 num_lines = sum(1 for line in open(input, 'r'))-1
-output_f = open("virushostdb_phage_output.tsv",
+output_f = open("../data/virushostdb_output.tsv",
                 mode="w", encoding="utf-8")
 num_lines = sum(1 for line in open(input, 'r'))-1
 header = ['virus_name', 'viral_acc', 'evidence', 'report_host',
