@@ -33,7 +33,7 @@ def main():
     output = sys.argv[3].strip()
     mkdir(output)
     mode_dict = {'faa': download_faa, 'fna': download_fna,
-                 'gff3': download_gff, 'gb': download_gb}
+                 'gff': download_gff, 'gb': download_gb}
     func = mode_dict.get(mode, 0)
     if not func:
         print("Error")

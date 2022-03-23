@@ -1,22 +1,3 @@
-"""Usage
-PHAGE_DB=$PWD/db/phage
-SCRIPTS=$PWD/scripts
-ID_TXT=virus.ids.txt
-ALL_NUM=$(cut -f 1 ${ID_TXT}|uniq|wc -l)
-COUNT=0
-for PHAGE_ID in $(cut -f 1 ${ID_TXT}|uniq);do
-    python ${SCRIPTS}/ncbi_download.py faa ${PHAGE_ID} ${PHAGE_DB}/${PHAGE_ID}
-    python ${SCRIPTS}/ncbi_download.py fna ${PHAGE_ID} ${PHAGE_DB}/${PHAGE_ID}
-    let COUNT++
-    printf "progress:%d/%d\r" "${COUNT}" "${ALL_NUM}"
-done
-
-singe
-python ncbi_download.py gb  KP791807 ./
-python ncbi_download.py gff3 KP791807 ./
-"""
-
-
 import sys
 import os
 import urllib
@@ -59,5 +40,4 @@ def ftp_download(link, output):
 
 if __name__ == "__main__":
     main()
-    # download_gff("KP791807")
     # download_gcf('GCF_900637085.1', 'GCF_900637085.1')

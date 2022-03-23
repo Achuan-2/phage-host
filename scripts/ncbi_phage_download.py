@@ -10,13 +10,14 @@ def main():
     output = sys.argv[2].strip()
     mkdir(output)
     mode_dict = {'faa': download_faa, 'fna': download_fna,
-                'gff3': download_gff}
+                'gff': download_gff}
     for mode in mode_dict:
         func = mode_dict.get(mode)
         filename = f'{output}/{id}.{mode}'
         if os.path.exists(filename):
             continue
         content = func(id)
+        # 如果没下载成功重复下载
         while not content:
             content = func(id)
         writefile(filename, content)
