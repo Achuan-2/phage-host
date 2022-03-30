@@ -1,0 +1,12 @@
+
+- VHDB
+  - virushostdb.daily.tsv: 2020.03.19从VHDB下载的raw data。17959 rows
+  - virushostdb.daily.phage.tsv： 筛选是phage-host且信息完整的条目。5204 rows
+  - virushostdb.daily.phage.multiple.tsv： 发现refseq id这一列有多个id的条目，把不完整phage挑出来，剩下的是同一phage名称的不同id
+  - virushostdb.daily.phage(filtered).tsv：为了减小获得gcf压力，先把report host tax在species以上的过滤
+- output
+  - report_host.json：根据virushostdb.daily.phage(filtered).tsv中的report host搜索host genome信息保存为json文件
+  - virushostdb_output.tsv： 在 virushostdb.daily.phage(filtered).tsv基础上添加host genome信息
+  - virushostdb_output_host：以report host为关键字的信息
+  - virushostdb_output_findname.tsv:以find host为关键字的信息
+  - virushostdb_output_gcf: 以gcf为关键字的信息

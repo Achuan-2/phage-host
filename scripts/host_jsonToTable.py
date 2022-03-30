@@ -1,6 +1,6 @@
 from tqdm import tqdm
 import json
-input = '../data/virushostdb_phage.tsv'
+input = '../data/virushostdb.daily.phage(filtered).tsv'
 fp = open('../data/report_host.json', 'r')
 host_dict = json.load(fp)
 num_lines = sum(1 for line in open(input, 'r'))-1
