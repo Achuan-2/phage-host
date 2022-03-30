@@ -173,7 +173,7 @@ Alteromonas phage vB_AmeM_PT11-V22	NC_048847	Alteromonas mediterranea	GCF_001886
 Anabaena phage A-4L	NC_024358	Nostoc sp. PCC 7120 = FACHB-418	GCF_000009705.1	species
 Anoxybacillus phage A403	NC_048701	Anoxybacillus caldiproteolyticus	GCF_015326725.1	species
 Arthrobacter phage DrManhattan	NC_048093	Sinomonas atrocyanea	GCF_001577305.1	species
-Azobacteroides phage ProJPt-Bp1	NC_055706	Candidatus Azobacteroides pseudotrichonymphae	GCF_002091395.1(suppressed)	species
+Azobacteroides phage ProJPt-Bp1	NC_055706	Candidatus Azobacteroides pseudotrichonymphae	GCF_002091395.1	species
 Azospirillum phage Cd	NC_010355	Azospirillum brasilense	GCF_022023855.1	species
 Bacillus phage 0305phi8-36	NC_009760	Bacillus thuringiensis	GCF_000161615.1	species
 Bacillus phage 250	NC_029024	Bacillus cereus	GCF_018309165.1	species
@@ -500,7 +500,7 @@ Burkholderia phage ST79	NC_021343	Burkholderia pseudomallei	GCF_000756125.1	spec
 Burkholderia phage vB_BceS_AH2	NC_018283	Burkholderia cenocepacia	GCF_001718895.1	species
 Burkholderia phage vB_BceS_KL1	NC_018278	Burkholderia cenocepacia	GCF_001718895.1	species
 Burkholderia virus phi52237	NC_007145	Burkholderia pseudomallei	GCF_000756125.1	species
-Butyrivibrio virus Arawn	NC_048848	Butyrivibrio fibrisolvens DSM 3071	GCF_902388015.1(suppressed)	species
+Butyrivibrio virus Arawn	NC_048848	Butyrivibrio fibrisolvens DSM 3071	GCF_902388015.1	species
 Campylobacter phage CJIE4-1	KF751793	Campylobacter jejuni	GCF_000009085.1	species
 Campylobacter phage CJIE4-1	KF751793	Campylobacter jejuni subsp. jejuni	GCF_000009085.1	subspecies
 Campylobacter phage CJIE4-2	KF751794	Campylobacter jejuni	GCF_000009085.1	species
@@ -679,17 +679,17 @@ Cronobacter phage CR5	NC_021531	Cronobacter sakazakii	GCF_003516125.1	species
 Cronobacter phage CR8	NC_024354	Cronobacter sakazakii	GCF_003516125.1	species
 Cronobacter phage CR9	NC_023717	Cronobacter sakazakii	GCF_003516125.1	species
 Cronobacter phage CS01	NC_048088	Cronobacter sakazakii	GCF_003516125.1	species
-Cronobacter phage Dev-CD-23823	NC_029070	Cronobacter turicensis	GCF_000027065.2(suppressed)	species
+Cronobacter phage Dev-CD-23823	NC_029070	Cronobacter turicensis	GCF_000027065.2	species
 Cronobacter phage Dev-CD-23823	NC_029070	Cronobacter malonaticus	GCF_001277215.2	species
 Cronobacter phage Dev-CD-23823	NC_029070	Cronobacter dublinensis subsp. dublinensis LMG 23823	GCF_001277235.1	strain
 Cronobacter phage Dev-CD-23823	NC_029070	Cronobacter muytjensii ATCC 51329	GCF_001277195.1	strain
 Cronobacter phage Dev-CD-23823	NC_029070	Cronobacter condimenti	GCF_001277255.1	species
-Cronobacter phage Dev2	NC_023558	Cronobacter turicensis	GCF_000027065.2(suppressed)	species
+Cronobacter phage Dev2	NC_023558	Cronobacter turicensis	GCF_000027065.2	species
 Cronobacter phage ENT39118	NC_019934	Cronobacter sakazakii	GCF_003516125.1	species
 Cronobacter phage ENT47670	NC_019927	Cronobacter sakazakii	GCF_003516125.1	species
 Cronobacter phage ES2	JF314845	Cronobacter sakazakii	GCF_003516125.1	species
 Cronobacter phage ESSI-2	NC_047854	Cronobacter sakazakii	GCF_003516125.1	species
-Cronobacter phage GW1	NC_048161	Cronobacter turicensis	GCF_000027065.2(suppressed)	species
+Cronobacter phage GW1	NC_048161	Cronobacter turicensis	GCF_000027065.2	species
 Cronobacter phage JC01	NC_052989	Cronobacter sakazakii	GCF_003516125.1	species
 Cronobacter phage Pet-CM3-4	NC_055726	Cronobacter malonaticus LMG 23826	GCF_001277215.2	strain
 Cronobacter phage S13	NC_028773	Cronobacter sakazakii	GCF_003516125.1	species
@@ -704,8 +704,8 @@ Cronobacter phage vB_CsaP_Ss1	KM058087	Cronobacter sakazakii	GCF_003516125.1	spe
 Cronobacter phage vB_CskP_GAP227	NC_020078	Cronobacter sakazakii	GCF_003516125.1	species
 Cronobacter phage vB_CskP_GAP227	NC_020078	Cronobacter malonaticus	GCF_001277215.2	species
 Cronobacter virus Esp2949-1	NC_019509	Cronobacter sakazakii	GCF_003516125.1	species
-Cyanophage KBS-P-1A	NC_020865	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Cyanophage KBS-S-2A	NC_020854	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
+Cyanophage KBS-P-1A	NC_020865	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Cyanophage KBS-S-2A	NC_020854	Synechococcus sp. WH 7803	GCF_000063505.1	species
 Cyanophage NATL2A-133	NC_016659	Prochlorococcus marinus str. NATL2A	GCF_000012465.1	strain
 Cyanophage P-TIM40	NC_028663	Prochlorococcus marinus str. NATL2A	GCF_000012465.1	strain
 Cyanophage PP	NC_022751	Leptolyngbya boryana	GCF_002142475.1	species
@@ -769,7 +769,7 @@ Enterobacteria phage ATK47	NC_055708	Escherichia coli	GCF_000008865.2	species
 Enterobacteria phage ATK47	NC_055708	Escherichia coli O26:H11	GCF_000008865.2	species
 Enterobacteria phage BP-4795	NC_004813	Escherichia coli	GCF_000008865.2	species
 Enterobacteria phage cdtI	NC_009514	Escherichia coli	GCF_000008865.2	species
-Enterobacteria phage CUS-3	CP000711	Escherichia coli RS218	GCF_000800845.1(suppressed)	strain
+Enterobacteria phage CUS-3	CP000711	Escherichia coli RS218	GCF_000800845.1	strain
 Enterobacteria phage ES18	NC_006949	Salmonella enterica subsp. enterica serovar Typhimurium	GCF_000006945.2	no rank
 Enterobacteria phage f1	GQ153919	Escherichia coli	GCF_000008865.2	species
 Enterobacteria phage f1	J02448	Escherichia coli	GCF_000008865.2	species
@@ -838,7 +838,7 @@ Enterobacteria phage Sf101	NC_027398	Shigella flexneri	GCF_000006925.2	species
 Enterobacteria phage SfI	NC_027339	Shigella flexneri	GCF_000006925.2	species
 Enterobacteria phage SfV	NC_003444	Shigella flexneri	GCF_000006925.2	species
 Enterobacteria phage SP	NC_004301	Escherichia coli	GCF_000008865.2	species
-Enterobacteria phage ST104	NC_005841	Salmonella enterica subsp. enterica serovar Typhimurium str. DT104	GCF_000493675.1(suppressed)	strain
+Enterobacteria phage ST104	NC_005841	Salmonella enterica subsp. enterica serovar Typhimurium str. DT104	GCF_000493675.1	strain
 Enterobacteria phage T3	NC_003298	Escherichia coli	GCF_000008865.2	species
 Enterobacteria phage T3	NC_047864	Escherichia coli	GCF_000008865.2	species
 Enterobacteria phage T4T	HM137666	Escherichia coli	GCF_000008865.2	species
@@ -2101,7 +2101,7 @@ Mannheimia phage vB_MhS_535AP2	NC_028853	Mannheimia haemolytica	GCF_002285575.1	
 Mannheimia phage vB_MhS_587AP2	NC_028743	Mannheimia haemolytica	GCF_002285575.1	species
 Mannheimia virus PHL101	NC_008201	Mannheimia haemolytica	GCF_002285575.1	species
 Marinomonas phage CPP1m	NC_047821	Marinomonas mediterranea	GCF_000192865.1	species
-Mesorhizobium phage vB_MloP_Lo5R7ANS	NC_025431	Mesorhizobium loti	GCF_014189435.1(suppressed)	species
+Mesorhizobium phage vB_MloP_Lo5R7ANS	NC_025431	Mesorhizobium loti	GCF_014189435.1	species
 Methanobacterium phage psiM2	NC_001902	Methanothermobacter thermautotrophicus	GCF_000008645.1	species
 Microbacterium phage Akoni	NC_048761	Microbacterium foliorum	GCF_003367705.1	species
 Microbacterium phage Alex44	NC_048778	Microbacterium foliorum	GCF_003367705.1	species
@@ -3138,7 +3138,7 @@ Prochlorococcus phage P-SSM4	NC_006884	Prochlorococcus marinus str. NATL2A	GCF_0
 Prochlorococcus phage P-SSM5	HQ632825	Prochlorococcus marinus	GCF_000007925.1	species
 Prochlorococcus phage P-SSP3	NC_020874	Prochlorococcus marinus	GCF_000007925.1	species
 Prochlorococcus phage P-SSP6	HQ634152	Prochlorococcus marinus	GCF_000007925.1	species
-Prochlorococcus phage Syn33	NC_015285	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
+Prochlorococcus phage Syn33	NC_015285	Synechococcus sp. WH 7803	GCF_000063505.1	species
 Propionibacterium phage Anatole	NC_041890	Propionibacterium freudenreichii	GCF_900087655.1	species
 Propionibacterium phage ATCC29399B_C	NC_018851	Cutibacterium acnes	GCF_000376705.1	species
 Propionibacterium phage ATCC29399B_T	NC_018847	Cutibacterium acnes	GCF_000376705.1	species
@@ -3655,7 +3655,7 @@ Salmonella phage BP12B	NC_031271	Salmonella enterica	GCF_000006945.2	species
 Salmonella phage BP12C	NC_031228	Salmonella enterica	GCF_000006945.2	species
 Salmonella phage BP63	NC_031250	Salmonella enterica	GCF_000006945.2	species
 Salmonella phage BPS11Q3	NC_031925	Salmonella enterica subsp. enterica serovar Enteritidis	GCF_020716645.1	no rank
-Salmonella phage BPS15Q2	NC_031939	Salmonella enterica subsp. enterica serovar Heidelberg	GCF_006695545.1(suppressed)	no rank
+Salmonella phage BPS15Q2	NC_031939	Salmonella enterica subsp. enterica serovar Heidelberg	GCF_006695545.1	no rank
 Salmonella phage BPS17L1	NC_042096	Salmonella enterica subsp. enterica serovar Shubra	GCF_000006945.2	species
 Salmonella phage BPS17W1	NC_042097	Salmonella enterica subsp. enterica serovar Shubra	GCF_000006945.2	species
 Salmonella phage BSP101	NC_049382	Salmonella enterica subsp. enterica serovar Typhimurium	GCF_000006945.2	no rank
@@ -3702,7 +3702,7 @@ Salmonella phage Mutine	NC_049428	Salmonella enterica subsp. enterica serovar Ty
 Salmonella phage NR01	NC_031042	Salmonella enterica subsp. enterica serovar Typhimurium	GCF_000006945.2	no rank
 Salmonella phage oldekolle	NC_048865	Salmonella enterica subsp. enterica serovar Enteritidis	GCF_020716645.1	no rank
 Salmonella phage oselot	NC_048871	Salmonella enterica subsp. enterica serovar Enteritidis	GCF_020716645.1	no rank
-Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Heidelberg	GCF_006695545.1(suppressed)	no rank
+Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Heidelberg	GCF_006695545.1	no rank
 Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Oranienburg	GCF_004798745.1	no rank
 Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Virchow	GCF_009664555.1	no rank
 Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Weltevreden	GCF_005457265.1	no rank
@@ -3712,7 +3712,7 @@ Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar T
 Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Newport	GCF_003581245.2	no rank
 Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Montevideo	GCF_000238455.2	no rank
 Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Kentucky	GCF_021266445.1	no rank
-Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Poona	GCF_900478385.1(suppressed)	no rank
+Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Poona	GCF_900478385.1	no rank
 Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S	GCF_008244845.1	no rank
 Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Corvallis	GCF_002265865.2	no rank
 Salmonella phage OSY-STA	NC_048808	Salmonella enterica subsp. enterica serovar Typhimurium var. monophasic 4,5,12:i:-	GCF_000006945.2	subspecies
@@ -3746,17 +3746,17 @@ Salmonella phage SE2	NC_016763	Salmonella enterica subsp. enterica serovar Enter
 Salmonella phage Seafire	NC_048110	Salmonella enterica subsp. enterica serovar Enteritidis	GCF_020716645.1	no rank
 Salmonella phage Season12	NC_052990	Salmonella enterica subsp. enterica serovar Newport	GCF_003581245.2	no rank
 Salmonella phage Segz_1	NC_054640	Salmonella enterica	GCF_000006945.2	species
-Salmonella phage SEN1	NC_029003	Salmonella enterica subsp. salamae	GCF_003872475.1(suppressed)	subspecies
+Salmonella phage SEN1	NC_029003	Salmonella enterica subsp. salamae	GCF_003872475.1	subspecies
 Salmonella phage SEN22	NC_028696	Salmonella enterica	GCF_000006945.2	species
-Salmonella phage SEN22	NC_028696	Salmonella enterica subsp. diarizonae	GCF_003872565.1(suppressed)	subspecies
-Salmonella phage SEN34	NC_028699	Salmonella enterica subsp. diarizonae	GCF_003872565.1(suppressed)	subspecies
-Salmonella phage SEN4	NC_029015	Salmonella enterica subsp. salamae	GCF_003872475.1(suppressed)	subspecies
+Salmonella phage SEN22	NC_028696	Salmonella enterica subsp. diarizonae	GCF_003872565.1	subspecies
+Salmonella phage SEN34	NC_028699	Salmonella enterica subsp. diarizonae	GCF_003872565.1	subspecies
+Salmonella phage SEN4	NC_029015	Salmonella enterica subsp. salamae	GCF_003872475.1	subspecies
 Salmonella phage SEN5	NC_028701	Salmonella enterica	GCF_000006945.2	species
-Salmonella phage SEN5	NC_028701	Salmonella enterica subsp. salamae	GCF_003872475.1(suppressed)	subspecies
-Salmonella phage SEN8	NC_047753	Salmonella enterica subsp. salamae	GCF_003872475.1(suppressed)	subspecies
+Salmonella phage SEN5	NC_028701	Salmonella enterica subsp. salamae	GCF_003872475.1	subspecies
+Salmonella phage SEN8	NC_047753	Salmonella enterica subsp. salamae	GCF_003872475.1	subspecies
 Salmonella phage SenALZ1	NC_049440	Salmonella enterica	GCF_000006945.2	species
 Salmonella phage SenASZ3	NC_049439	Salmonella enterica	GCF_000006945.2	species
-Salmonella phage Sepoy	NC_048760	Salmonella enterica subsp. enterica serovar Heidelberg	GCF_006695545.1(suppressed)	no rank
+Salmonella phage Sepoy	NC_048760	Salmonella enterica subsp. enterica serovar Heidelberg	GCF_006695545.1	no rank
 Salmonella phage SeSz-1	NC_049443	Salmonella enterica	GCF_000006945.2	species
 Salmonella phage SeSz-2	NC_054643	Salmonella enterica	GCF_000006945.2	species
 Salmonella phage Seszw_1	NC_054642	Salmonella enterica	GCF_000006945.2	species
@@ -3928,8 +3928,8 @@ Sinorhizobium phage phiM12	NC_027204	Sinorhizobium meliloti	GCF_000346065.1	spec
 Sinorhizobium phage phiM7	NC_041929	Sinorhizobium meliloti	GCF_000346065.1	species
 Sinorhizobium phage phiM9	NC_028676	Sinorhizobium meliloti	GCF_000346065.1	species
 Sinorhizobium phage phiN3	NC_028945	Sinorhizobium meliloti	GCF_000346065.1	species
-Sodalis phage phiSG1	NC_007902	Sodalis glossinidius str. 'morsitans'	GCF_900004845.1(suppressed)	strain
-Sodalis phage SO1	NC_013600	Sodalis glossinidius	GCF_900004845.1(suppressed)	species
+Sodalis phage phiSG1	NC_007902	Sodalis glossinidius str. 'morsitans'	GCF_900004845.1	strain
+Sodalis phage SO1	NC_013600	Sodalis glossinidius	GCF_900004845.1	species
 Sphingomonas phage PAU	NC_019521	Sphingomonas paucimobilis	GCF_016027095.1	species
 Sphingomonas phage Scott	NC_048029	Sphingomonas paucimobilis	GCF_016027095.1	species
 Spiroplasma phage C74	NC_003793	Spiroplasma citri	GCF_001886855.1	species
@@ -4319,42 +4319,42 @@ Sulfolobus spindle-shaped virus 2	NC_005265	Sulfolobus islandicus	GCF_000024305.
 Sulfolobus spindle-shaped virus 4	NC_009986	Sulfolobus islandicus	GCF_000024305.1	species
 Sulfolobus spindle-shaped virus 5	NC_011217	Sulfolobus islandicus	GCF_000024305.1	species
 Sulfolobus turreted icosahedral virus 1	NC_005892	Saccharolobus solfataricus	GCF_003852155.1	species
-Synechococcus phage ACG-2014c	NC_019444	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage ACG-2014h	NC_023587	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage KBS-M-1A	JF974293	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
+Synechococcus phage ACG-2014c	NC_019444	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage ACG-2014h	NC_023587	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage KBS-M-1A	JF974293	Synechococcus sp. WH 7803	GCF_000063505.1	species
 Synechococcus phage S-B64	NC_055744	Parasynechococcus marenigrum WH 8102	GCF_000195975.1	strain
-Synechococcus phage S-CAM1	NC_020837	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-CAM8	NC_021530	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
+Synechococcus phage S-CAM1	NC_020837	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-CAM8	NC_021530	Synechococcus sp. WH 7803	GCF_000063505.1	species
 Synechococcus phage S-CBP1	NC_025456	Synechococcus sp. CB0101	GCF_000179235.2	species
 Synechococcus phage S-CBP3	NC_025461	Synechococcus sp. CB0101	GCF_000179235.2	species
 Synechococcus phage S-CBP3	NC_048184	Synechococcus sp. CB0101	GCF_000179235.2	species
 Synechococcus phage S-CBP4	NC_025464	Synechococcus sp. CB0101	GCF_000179235.2	species
 Synechococcus phage S-CBP4	NC_048183	Synechococcus sp. CB0101	GCF_000179235.2	species
-Synechococcus phage S-CBP42	NC_029031	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
+Synechococcus phage S-CBP42	NC_029031	Synechococcus sp. WH 7803	GCF_000063505.1	species
 Synechococcus phage S-CBS4	NC_016766	Synechococcus sp. CB0101	GCF_000179235.2	species
 Synechococcus phage S-CBWM1	NC_048106	Synechococcus sp. CBW1002	GCF_015840915.1	species
 Synechococcus phage S-H35	NC_055719	Parasynechococcus marenigrum WH 8102	GCF_000195975.1	strain
-Synechococcus phage S-IOM18	NC_021536	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-MbCM100	NC_023584	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-MbCM25	KF156339	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-P4	NC_048102	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-RIM2 R1_1999	NC_020859	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-RIM2 R21_2007	HQ317290	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-RIM2 R9_2006	HQ317291	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-RIM8 A.HR1	NC_020486	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-RIM8 A.HR3	JF974289	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-RIM8 A.HR5	HQ317385	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-RIP2	NC_020838	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-RSM4	NC_013085	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus phage S-SKS1	NC_020851	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
+Synechococcus phage S-IOM18	NC_021536	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-MbCM100	NC_023584	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-MbCM25	KF156339	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-P4	NC_048102	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-RIM2 R1_1999	NC_020859	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-RIM2 R21_2007	HQ317290	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-RIM2 R9_2006	HQ317291	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-RIM8 A.HR1	NC_020486	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-RIM8 A.HR3	JF974289	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-RIM8 A.HR5	HQ317385	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-RIP2	NC_020838	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-RSM4	NC_013085	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus phage S-SKS1	NC_020851	Synechococcus sp. WH 7803	GCF_000063505.1	species
 Synechococcus phage S-SSM5	NC_015289	Parasynechococcus marenigrum WH 8102	GCF_000195975.1	strain
 Synechococcus phage S-SSM7	NC_015287	Synechococcus sp. WH 8109	GCF_000161795.2	species
-Synechococcus phage S-T4	NC_048049	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
+Synechococcus phage S-T4	NC_048049	Synechococcus sp. WH 7803	GCF_000063505.1	species
 Synechococcus phage Syn19	NC_015286	Synechococcus sp. WH 8109	GCF_000161795.2	species
-Synechococcus phage Syn30	NC_021072	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
+Synechococcus phage Syn30	NC_021072	Synechococcus sp. WH 7803	GCF_000063505.1	species
 Synechococcus T7-like phage S-TIP37	NC_048026	Synechococcus sp. WH 8109	GCF_000161795.2	species
-Synechococcus virus P60	AF338467	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
-Synechococcus virus S-PRM1	NC_055761	Synechococcus sp. WH 7803	GCF_000063505.1(suppressed)	species
+Synechococcus virus P60	AF338467	Synechococcus sp. WH 7803	GCF_000063505.1	species
+Synechococcus virus S-PRM1	NC_055761	Synechococcus sp. WH 7803	GCF_000063505.1	species
 Synechococcus virus Syn5	NC_009531	Synechococcus sp. WH 8109	GCF_000161795.2	species
 Temperate phage phiNIH1.1	NC_003157	Streptococcus pyogenes	GCF_900475035.1	species
 Tenacibaculum phage PTm1	NC_049340	Tenacibaculum maritimum	GCF_004803875.1	species
