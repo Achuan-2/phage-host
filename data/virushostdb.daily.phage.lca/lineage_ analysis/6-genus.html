@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+
+</head>
+<body>
+    <div id="1cf18b0610ce497d8ece997b42663cf2" class="chart-container" style="width:1300px; height:800px;"></div>
+    <script>
+        var chart_1cf18b0610ce497d8ece997b42663cf2 = echarts.init(
+            document.getElementById('1cf18b0610ce497d8ece997b42663cf2'), 'white', {renderer: 'canvas'});
+        var option_1cf18b0610ce497d8ece997b42663cf2 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "pie",
+            "clockwise": true,
+            "data": [
+                {
+                    "name": "Mycolicibacterium",
+                    "value": 782
+                },
+                {
+                    "name": "Escherichia",
+                    "value": 459
+                },
+                {
+                    "name": "Pseudomonas",
+                    "value": 257
+                },
+                {
+                    "name": "Salmonella",
+                    "value": 229
+                },
+                {
+                    "name": "Lactococcus",
+                    "value": 207
+                },
+                {
+                    "name": "Gordonia",
+                    "value": 204
+                },
+                {
+                    "name": "Staphylococcus",
+                    "value": 184
+                },
+                {
+                    "name": "Vibrio",
+                    "value": 151
+                },
+                {
+                    "name": "Klebsiella",
+                    "value": 136
+                },
+                {
+                    "name": "Bacillus",
+                    "value": 132
+                },
+                {
+                    "name": "Streptomyces",
+                    "value": 98
+                },
+                {
+                    "name": "Enterococcus",
+                    "value": 95
+                },
+                {
+                    "name": "Cutibacterium",
+                    "value": 81
+                },
+                {
+                    "name": "Streptococcus",
+                    "value": 78
+                },
+                {
+                    "name": "Arthrobacter",
+                    "value": 75
+                },
+                {
+                    "name": "Synechococcus",
+                    "value": 75
+                },
+                {
+                    "name": "Acinetobacter",
+                    "value": 62
+                },
+                {
+                    "name": "Ralstonia",
+                    "value": 52
+                },
+                {
+                    "name": "Shigella",
+                    "value": 50
+                },
+                {
+                    "name": "Microbacterium",
+                    "value": 49
+                },
+                {
+                    "name": "others",
+                    "value": 1236
+                }
+            ],
+            "radius": [
+                "0%",
+                "75%"
+            ],
+            "center": [
+                "50%",
+                "50%"
+            ],
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8,
+                "fontSize": 14,
+                "formatter": "{b}: {c}({d}%)"
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "Mycolicibacterium",
+                "Escherichia",
+                "Pseudomonas",
+                "Salmonella",
+                "Lactococcus",
+                "Gordonia",
+                "Staphylococcus",
+                "Vibrio",
+                "Klebsiella",
+                "Bacillus",
+                "Streptomyces",
+                "Enterococcus",
+                "Cutibacterium",
+                "Streptococcus",
+                "Arthrobacter",
+                "Synechococcus",
+                "Acinetobacter",
+                "Ralstonia",
+                "Shigella",
+                "Microbacterium",
+                "others"
+            ],
+            "selected": {},
+            "show": true,
+            "left": "left",
+            "top": "10%",
+            "orient": "vertical",
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "title": [
+        {
+            "padding": 5,
+            "itemGap": 10
+        }
+    ],
+    "toolbox": {
+        "show": true,
+        "orient": "horizontal",
+        "itemSize": 15,
+        "itemGap": 10,
+        "left": "right",
+        "top": "bottom",
+        "feature": {
+            "saveAsImage": {},
+            "dataZoom": {
+                "yAxisIndex": "none"
+            },
+            "restore": {},
+            "magicType": {
+                "show": true,
+                "type": [
+                    "line",
+                    "bar"
+                ]
+            },
+            "dataView": {}
+        }
+    }
+};
+        chart_1cf18b0610ce497d8ece997b42663cf2.setOption(option_1cf18b0610ce497d8ece997b42663cf2);
+    </script>
+</body>
+</html>
