@@ -1,10 +1,10 @@
 import os
-import gzip
 import sys
+import gzip
 import urllib
 from Bio import Entrez
-from ncbi_assembly import search_assembly, get_assembly_url
 from ncbi_utils import mkdir
+from ncbi_assembly import search_assembly, get_assembly_url
 
 Entrez.email = "achuan-2@outlook.com"
 
@@ -35,7 +35,7 @@ def ftp_download(link, output):
     """if download fail, download again"""
     while True:
         urllib.request.urlretrieve(link, output)
-        if check_gz(output) == 1:
+        if check_gz(output):
             break
 
 def check_gz(input_file):
