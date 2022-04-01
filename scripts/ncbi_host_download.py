@@ -1,5 +1,6 @@
-import sys
 import os
+import gzip
+import sys
 import urllib
 from Bio import Entrez
 from ncbi_assembly import search_assembly, get_assembly_url
@@ -29,11 +30,22 @@ def download_gcf(gcf, output_dir):
 
 
 def ftp_download(link, output):
-    if os.path.exists(output):
-        return
-    urllib.request.urlretrieve(link, output)
+    # if os.path.exists(output):
+    #     return
+    """if download fail, download again"""
+    while True:
+        urllib.request.urlretrieve(link, output)
+        if check_gz(output) == 1:
+            break
 
-
+def check_gz(input_file):
+    with gzip.open(input_file, 'r') as fh:
+        try:
+            fh.read()
+        except:
+            return 0
+        else:
+            return 1
 
 
 
