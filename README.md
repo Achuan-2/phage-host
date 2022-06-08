@@ -58,8 +58,8 @@ Score_b =Max(\frac{alignment_i*identity_i(\\%)}{virus\\_length_i})*d
 $$
 
 $$
-d = align\_num*0.1+1 \\
-（i=1,2,\cdots,align\_num) 
+d = align\\_num*0.1+1 \\
+（i=1,2,\cdots,align\\_num) 
 $$
 
 $Score_s$、$Score_p$、$Score_b$代表为Spacer 方法、Prophage 方法和Blastn 方法的打分模型
