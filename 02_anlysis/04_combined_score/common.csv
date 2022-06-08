@@ -1,0 +1,8 @@
+level,count,precision
+kingdom,786,1.0
+phylum,785,0.9987
+class,785,0.9987
+order,781,0.9936
+family,767,0.9758
+genus,718,0.9135
+species,614,0.7812

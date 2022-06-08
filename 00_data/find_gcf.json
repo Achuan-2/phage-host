@@ -1,0 +1,4983 @@
+{
+    "GCF_900476025.1": {
+        "find_name": [
+            "Acholeplasma laidlawii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Tenericutes;c__Mollicutes;o__Acholeplasmatales;f__Acholeplasmataceae;g__Acholeplasma;s__Acholeplasma laidlawii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_008432465.1": {
+        "find_name": [
+            "Achromobacter xylosoxidans"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Alcaligenaceae;g__Achromobacter;s__Achromobacter xylosoxidans;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900636675.1": {
+        "find_name": [
+            "Achromobacter spanius"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Alcaligenaceae;g__Achromobacter;s__Achromobacter spanius;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000213215.1": {
+        "find_name": [
+            "Acidianus hospitalis"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Sulfolobales;f__Sulfolobaceae;g__Acidianus;s__Acidianus hospitalis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003201835.2": {
+        "find_name": [
+            "Acidianus brierleyi"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Sulfolobales;f__Sulfolobaceae;g__Acidianus;s__Acidianus brierleyi;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000175575.2": {
+        "find_name": [
+            "Acidithiobacillus caldus ATCC 51756"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Acidithiobacillia;o__Acidithiobacillales;f__Acidithiobacillaceae;g__Acidithiobacillus;s__Acidithiobacillus caldus;t__Acidithiobacillus caldus ATCC 51756"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001593665.2": {
+        "find_name": [
+            "Acidovorax citrulli"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Comamonadaceae;g__Acidovorax;s__Acidovorax citrulli;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_008632635.1": {
+        "find_name": [
+            "Acinetobacter baumannii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Moraxellales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter baumannii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021496365.1": {
+        "find_name": [
+            "Acinetobacter johnsonii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Moraxellales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter johnsonii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019343495.1": {
+        "find_name": [
+            "Acinetobacter lwoffii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Moraxellales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter lwoffii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000046845.1": {
+        "find_name": [
+            "Acinetobacter baylyi ADP1"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Moraxellales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter baylyi;t__Acinetobacter baylyi ADP1"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_013372085.1": {
+        "find_name": [
+            "Acinetobacter baumannii ATCC 17978"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Moraxellales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter baumannii;t__Acinetobacter baumannii ATCC 17978"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_018139125.1": {
+        "find_name": [
+            "Acinetobacter soli"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Moraxellales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter soli;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_005281455.1": {
+        "find_name": [
+            "Acinetobacter nosocomialis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Moraxellales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter nosocomialis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000013425.1": {
+        "find_name": [
+            "Staphylococcus aureus",
+            "Staphylococcus aureus subsp. aureus NCTC 8325"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus aureus;t__"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000191145.1": {
+        "find_name": [
+            "Acinetobacter pittii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Moraxellales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter pittii;t__"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016127855.1": {
+        "find_name": [
+            "Actinomyces naeslundii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Actinomycetales;f__Actinomycetaceae;g__Actinomyces;s__Actinomyces naeslundii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000014805.1": {
+        "find_name": [
+            "Aeromonas hydrophila subsp. hydrophila ATCC 7966"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Aeromonadales;f__Aeromonadaceae;g__Aeromonas;s__Aeromonas hydrophila;t__Aeromonas hydrophila subsp. hydrophila ATCC 7966"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002850695.3": {
+        "find_name": [
+            "Aeromonas hydrophila subsp. hydrophila"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Aeromonadales;f__Aeromonadaceae;g__Aeromonas;s__Aeromonas hydrophila;t__Aeromonas hydrophila subsp. hydrophila"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003015165.1": {
+        "find_name": [
+            "Aeromonas rivipollensis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Aeromonadales;f__Aeromonadaceae;g__Aeromonas;s__Aeromonas rivipollensis;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_017310215.1": {
+        "find_name": [
+            "Aeromonas hydrophila"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Aeromonadales;f__Aeromonadaceae;g__Aeromonas;s__Aeromonas hydrophila;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_012931585.1": {
+        "find_name": [
+            "Aeromonas salmonicida"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Aeromonadales;f__Aeromonadaceae;g__Aeromonas;s__Aeromonas salmonicida;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_008693705.1": {
+        "find_name": [
+            "Aeromonas veronii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Aeromonadales;f__Aeromonadaceae;g__Aeromonas;s__Aeromonas veronii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020683025.1": {
+        "find_name": [
+            "Aeromonas salmonicida subsp. salmonicida"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Aeromonadales;f__Aeromonadaceae;g__Aeromonas;s__Aeromonas salmonicida;t__Aeromonas salmonicida subsp. salmonicida"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020423125.1": {
+        "find_name": [
+            "Aeromonas media"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Aeromonadales;f__Aeromonadaceae;g__Aeromonas;s__Aeromonas media;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000011125.1": {
+        "find_name": [
+            "Aeropyrum pernix",
+            "Aeropyrum pernix K1"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Desulfurococcales;f__Desulfurococcaceae;g__Aeropyrum;s__Aeropyrum pernix;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000591035.1": {
+        "find_name": [
+            "Aeropyrum camini SY1 = JCM 12091"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Desulfurococcales;f__Desulfurococcaceae;g__Aeropyrum;s__Aeropyrum camini;t__Aeropyrum camini SY1 = JCM 12091"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000146265.3": {
+        "find_name": [
+            "Aggregatibacter actinomycetemcomitans D11S-1"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae;g__Aggregatibacter;s__Aggregatibacter actinomycetemcomitans;t__Aggregatibacter actinomycetemcomitans D11S-1"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000442985.1": {
+        "find_name": [
+            "Agrobacterium fabacearum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Rhizobiaceae;g__Agrobacterium;s__Agrobacterium fabacearum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_003667905.1": {
+        "find_name": [
+            "Agrobacterium tumefaciens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Rhizobiaceae;g__Agrobacterium;s__Agrobacterium tumefaciens;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000299995.1": {
+        "find_name": [
+            "Alteromonas macleodii str. 'Black Sea 11'"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Alteromonadaceae;g__Alteromonas;s__Alteromonas macleodii;t__Alteromonas macleodii str. 'Black Sea 11'"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000310085.1": {
+        "find_name": [
+            "Alteromonas mediterranea DE1"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Alteromonadaceae;g__Alteromonas;s__Alteromonas mediterranea;t__Alteromonas mediterranea DE1"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000300175.1": {
+        "find_name": [
+            "Alteromonas macleodii str. 'Balearic Sea AD45'"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Alteromonadaceae;g__Alteromonas;s__Alteromonas macleodii;t__Alteromonas macleodii str. 'Balearic Sea AD45'"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000020585.3": {
+        "find_name": [
+            "Alteromonas mediterranea DE"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Alteromonadaceae;g__Alteromonas;s__Alteromonas mediterranea;t__Alteromonas mediterranea DE"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001886435.1": {
+        "find_name": [
+            "Alteromonas mediterranea"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Alteromonadaceae;g__Alteromonas;s__Alteromonas mediterranea;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000009705.1": {
+        "find_name": [
+            "Nostoc sp. PCC 7120 = FACHB-418"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Nostocales;f__Nostocaceae;g__Nostoc;s__Nostoc sp. PCC 7120 = FACHB-418;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_015326725.1": {
+        "find_name": [
+            "Anoxybacillus caldiproteolyticus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Anoxybacillus;s__Anoxybacillus caldiproteolyticus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001577305.1": {
+        "find_name": [
+            "Sinomonas atrocyanea"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Micrococcales;f__Micrococcaceae;g__Sinomonas;s__Sinomonas atrocyanea;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002091395.1(suppressed)": {
+        "find_name": [
+            "Candidatus Azobacteroides pseudotrichonymphae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__;g__Candidatus Azobacteroides;s__Candidatus Azobacteroides pseudotrichonymphae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022023855.1": {
+        "find_name": [
+            "Azospirillum brasilense"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Azospirillaceae;g__Azospirillum;s__Azospirillum brasilense;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000161615.1": {
+        "find_name": [
+            "Bacillus thuringiensis",
+            "Bacillus thuringiensis serovar berliner"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus thuringiensis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_018309165.1": {
+        "find_name": [
+            "Bacillus cereus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus cereus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020535425.1": {
+        "find_name": [
+            "Bacillus pumilus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus pumilus;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000008445.1": {
+        "find_name": [
+            "Bacillus anthracis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus anthracis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000009045.1": {
+        "find_name": [
+            "Bacillus subtilis subsp. subtilis str. 168",
+            "Bacillus subtilis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus subtilis;t__Bacillus subtilis subsp. subtilis str. 168"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000717535.1": {
+        "find_name": [
+            "Bacillus thuringiensis serovar kurstaki",
+            "Bacillus thuringiensis serovar kurstaki str. HD-1"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus thuringiensis;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000160915.1": {
+        "find_name": [
+            "Bacillus cereus BGSC 6E1"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus cereus;t__Bacillus cereus BGSC 6E1"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_013113775.1": {
+        "find_name": [
+            "Bacillus thuringiensis serovar israelensis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus thuringiensis;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000832635.1": {
+        "find_name": [
+            "Bacillus anthracis str. Sterne"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus anthracis;t__Bacillus anthracis str. Sterne"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_018739485.1": {
+        "find_name": [
+            "Bacillus mycoides"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus mycoides;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_006094295.1": {
+        "find_name": [
+            "Bacillus cereus ATCC 14579"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus cereus;t__Bacillus cereus ATCC 14579"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000160895.1": {
+        "find_name": [
+            "Bacillus cereus ATCC 10876"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus cereus;t__Bacillus cereus ATCC 10876"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_002074095.1": {
+        "find_name": [
+            "Bacillus licheniformis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus licheniformis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000742895.1": {
+        "find_name": [
+            "Bacillus anthracis str. Vollum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus anthracis;t__Bacillus anthracis str. Vollum"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022537925.1": {
+        "find_name": [
+            "Priestia megaterium"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Priestia;s__Priestia megaterium;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000832845.1": {
+        "find_name": [
+            "Bacillus cereus ATCC 4342"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus cereus;t__Bacillus cereus ATCC 4342"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000015065.1": {
+        "find_name": [
+            "Bacillus thuringiensis str. Al Hakam"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus thuringiensis;t__Bacillus thuringiensis str. Al Hakam"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000025825.1": {
+        "find_name": [
+            "Priestia megaterium QM B1551"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Priestia;s__Priestia megaterium;t__Priestia megaterium QM B1551"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000225265.1": {
+        "find_name": [
+            "Priestia megaterium WSH-002"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Priestia;s__Priestia megaterium;t__Priestia megaterium WSH-002"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000283675.1": {
+        "find_name": [
+            "Bacillus cereus NC7401"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus cereus;t__Bacillus cereus NC7401"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020773035.1": {
+        "find_name": [
+            "Bacillus subtilis subsp. natto"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus subtilis;t__Bacillus subtilis subsp. natto"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000338755.1": {
+        "find_name": [
+            "Bacillus thuringiensis serovar kurstaki str. HD73"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus thuringiensis;t__Bacillus thuringiensis serovar kurstaki str. HD73"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000408885.1": {
+        "find_name": [
+            "Bacillus paralicheniformis ATCC 9945a"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus paralicheniformis;t__Bacillus paralicheniformis ATCC 9945a"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002243645.1": {
+        "find_name": [
+            "Peribacillus simplex"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Peribacillus;s__Peribacillus simplex;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000025805.1": {
+        "find_name": [
+            "Priestia megaterium DSM 319"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Priestia;s__Priestia megaterium;t__Priestia megaterium DSM 319"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000242855.2": {
+        "find_name": [
+            "Bacillus amyloliquefaciens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus amyloliquefaciens;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000011645.1": {
+        "find_name": [
+            "Bacillus licheniformis DSM 13 = ATCC 14580"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus licheniformis;t__Bacillus licheniformis DSM 13 = ATCC 14580"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000017885.4": {
+        "find_name": [
+            "Bacillus pumilus SAFR-032"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus pumilus;t__Bacillus pumilus SAFR-032"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_006088795.1": {
+        "find_name": [
+            "Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus subtilis;t__Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000015785.2": {
+        "find_name": [
+            "Bacillus velezensis FZB42"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus velezensis;t__Bacillus velezensis FZB42"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001191605.1": {
+        "find_name": [
+            "Bacillus altitudinis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus;s__Bacillus altitudinis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000021705.1": {
+        "find_name": [
+            "Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Candidatus Hamiltonella;s__Candidatus Hamiltonella defensa;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000011965.2": {
+        "find_name": [
+            "Ruegeria pomeroyi DSS-3"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Roseobacteraceae;g__Ruegeria;s__Ruegeria pomeroyi;t__Ruegeria pomeroyi DSS-3"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_008369605.1": {
+        "find_name": [
+            "Vibrio cholerae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio cholerae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002951935.1": {
+        "find_name": [
+            "Paenibacillus larvae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Paenibacillaceae;g__Paenibacillus;s__Paenibacillus larvae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000005845.2": {
+        "find_name": [
+            "Escherichia coli K-12",
+            "Escherichia coli str. K-12 substr. MG1655"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__Escherichia coli K-12"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002079225.1": {
+        "find_name": [
+            "Escherichia coli C"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__Escherichia coli C"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002905815.2": {
+        "find_name": [
+            "Pseudomonas syringae pv. syringae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas syringae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000007805.1": {
+        "find_name": [
+            "Pseudomonas syringae pv. tomato"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas syringae group genomosp. 3;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_013374815.1": {
+        "find_name": [
+            "Shigella sonnei"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Shigella;s__Shigella sonnei;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021278985.1": {
+        "find_name": [
+            "Citrobacter rodentium"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Citrobacter;s__Citrobacter rodentium;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016889925.1": {
+        "find_name": [
+            "Bacteroides fragilis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides fragilis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020341675.1": {
+        "find_name": [
+            "Bacteroides intestinalis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides intestinalis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_018289135.1": {
+        "find_name": [
+            "Bacteroides xylanisolvens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides xylanisolvens;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000011065.1": {
+        "find_name": [
+            "Bacteroides thetaiotaomicron VPI-5482"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides thetaiotaomicron;t__Bacteroides thetaiotaomicron VPI-5482"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000691605.1": {
+        "find_name": [
+            "Bdellovibrio bacteriovorus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Oligoflexia;o__Bdellovibrionales;f__Bdellovibrionaceae;g__Bdellovibrio;s__Bdellovibrio bacteriovorus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000304215.1": {
+        "find_name": [
+            "Bifidobacterium asteroides"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Bifidobacteriales;f__Bifidobacteriaceae;g__Bifidobacterium;s__Bifidobacterium asteroides;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900636925.1": {
+        "find_name": [
+            "Bordetella bronchiseptica"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Alcaligenaceae;g__Bordetella;s__Bordetella bronchiseptica;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002082155.1": {
+        "find_name": [
+            "Paenibacillus larvae subsp. pulvifaciens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Paenibacillaceae;g__Paenibacillus;s__Paenibacillus larvae;t__Paenibacillus larvae subsp. pulvifaciens"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002706795.1": {
+        "find_name": [
+            "Brevibacillus laterosporus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Paenibacillaceae;g__Brevibacillus;s__Brevibacillus laterosporus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003932995.1": {
+        "find_name": [
+            "Brevibacterium aurantiacum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Micrococcales;f__Brevibacteriaceae;g__Brevibacterium;s__Brevibacterium aurantiacum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001703515.1": {
+        "find_name": [
+            "Brochothrix thermosphacta"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Listeriaceae;g__Brochothrix;s__Brochothrix thermosphacta;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000054005.1": {
+        "find_name": [
+            "Brucella abortus",
+            "Brucella abortus 2308"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Brucellaceae;g__Brucella;s__Brucella abortus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000007125.1": {
+        "find_name": [
+            "Brucella melitensis",
+            "Brucella melitensis bv. 1 str. 16M"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Brucellaceae;g__Brucella;s__Brucella melitensis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000007505.1": {
+        "find_name": [
+            "Brucella suis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Brucellaceae;g__Brucella;s__Brucella suis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000221005.1": {
+        "find_name": [
+            "Brucella pinnipedialis B2/94"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Brucellaceae;g__Brucella;s__Brucella pinnipedialis;t__Brucella pinnipedialis B2/94"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000022745.1": {
+        "find_name": [
+            "Brucella microti CCM 4915",
+            "Brucella microti"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Brucellaceae;g__Brucella;s__Brucella microti;t__Brucella microti CCM 4915"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000018725.1": {
+        "find_name": [
+            "Brucella abortus S19"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Brucellaceae;g__Brucella;s__Brucella abortus;t__Brucella abortus S19"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001718895.1": {
+        "find_name": [
+            "Burkholderia cenocepacia"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia cenocepacia;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021484945.1": {
+        "find_name": [
+            "Burkholderia cepacia"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia cepacia;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016127755.1": {
+        "find_name": [
+            "Burkholderia ambifaria"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia ambifaria;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000009485.1": {
+        "find_name": [
+            "Burkholderia cenocepacia J2315"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia cenocepacia;t__Burkholderia cenocepacia J2315"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000203955.1": {
+        "find_name": [
+            "Burkholderia cenocepacia HI2424"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia cenocepacia;t__Burkholderia cenocepacia HI2424"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000756125.1": {
+        "find_name": [
+            "Burkholderia pseudomallei"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia pseudomallei;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000959285.1": {
+        "find_name": [
+            "Burkholderia pseudomallei K96243"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia pseudomallei;t__Burkholderia pseudomallei K96243"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000193455.1": {
+        "find_name": [
+            "Burkholderia pseudomallei 1710a"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia pseudomallei;t__Burkholderia pseudomallei 1710a"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000756185.1": {
+        "find_name": [
+            "Burkholderia pseudomallei 576"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia pseudomallei;t__Burkholderia pseudomallei 576"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000959205.1": {
+        "find_name": [
+            "Burkholderia pseudomallei MSHR491"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia pseudomallei;t__Burkholderia pseudomallei MSHR491"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_009931375.1": {
+        "find_name": [
+            "Burkholderia glumae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia glumae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001028665.1": {
+        "find_name": [
+            "Burkholderia pyrrocinia"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia pyrrocinia;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016698705.1": {
+        "find_name": [
+            "Burkholderia gladioli"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia gladioli;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000959125.1": {
+        "find_name": [
+            "Burkholderia pseudomallei 1026b"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia pseudomallei;t__Burkholderia pseudomallei 1026b"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001718635.1": {
+        "find_name": [
+            "Burkholderia thailandensis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia;s__Burkholderia thailandensis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_902388015.1(suppressed)": {
+        "find_name": [
+            "Butyrivibrio fibrisolvens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Eubacteriales;f__Lachnospiraceae;g__Butyrivibrio;s__Butyrivibrio fibrisolvens;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000009085.1": {
+        "find_name": [
+            "Campylobacter jejuni",
+            "Campylobacter jejuni subsp. jejuni"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Campylobacteraceae;g__Campylobacter;s__Campylobacter jejuni;t__"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000468915.2": {
+        "find_name": [
+            "Campylobacter jejuni subsp. jejuni 00-2425"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Campylobacteraceae;g__Campylobacter;s__Campylobacter jejuni;t__Campylobacter jejuni subsp. jejuni 00-2425"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000302555.5": {
+        "find_name": [
+            "Campylobacter jejuni subsp. jejuni PT14"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Campylobacteraceae;g__Campylobacter;s__Campylobacter jejuni;t__Campylobacter jejuni subsp. jejuni PT14"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000006905.1": {
+        "find_name": [
+            "Caulobacter vibrioides CB15"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Caulobacteraceae;g__Caulobacter;s__Caulobacter vibrioides;t__Caulobacter vibrioides CB15"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000022005.1": {
+        "find_name": [
+            "Caulobacter vibrioides"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Caulobacteraceae;g__Caulobacter;s__Caulobacter vibrioides;t__"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001308265.1": {
+        "find_name": [
+            "Celeribacter marinus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Roseobacteraceae;g__Celeribacter;s__Celeribacter marinus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000468615.2": {
+        "find_name": [
+            "Cellulophaga baltica",
+            "Cellulophaga baltica 18"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__Cellulophaga;s__Cellulophaga baltica;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000477035.2": {
+        "find_name": [
+            "Cellulophaga baltica NN016038"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__Cellulophaga;s__Cellulophaga baltica;t__Cellulophaga baltica NN016038"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000204255.1": {
+        "find_name": [
+            "Chlamydia psittaci"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Chlamydiae;c__Chlamydiia;o__Chlamydiales;f__Chlamydiaceae;g__Chlamydia;s__Chlamydia psittaci;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900416725.2": {
+        "find_name": [
+            "Chlamydia abortus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Chlamydiae;c__Chlamydiia;o__Chlamydiales;f__Chlamydiaceae;g__Chlamydia;s__Chlamydia abortus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000009945.1": {
+        "find_name": [
+            "Chlamydia felis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Chlamydiae;c__Chlamydiia;o__Chlamydiales;f__Chlamydiaceae;g__Chlamydia;s__Chlamydia felis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000007605.1": {
+        "find_name": [
+            "Chlamydia caviae GPIC"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Chlamydiae;c__Chlamydiia;o__Chlamydiales;f__Chlamydiaceae;g__Chlamydia;s__Chlamydia caviae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000204135.1": {
+        "find_name": [
+            "Chlamydia pecorum E58"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Chlamydiae;c__Chlamydiia;o__Chlamydiales;f__Chlamydiaceae;g__Chlamydia;s__Chlamydia pecorum;t__Chlamydia pecorum E58"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000091085.2": {
+        "find_name": [
+            "Chlamydia pneumoniae AR39"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Chlamydiae;c__Chlamydiia;o__Chlamydiales;f__Chlamydiaceae;g__Chlamydia;s__Chlamydia pneumoniae;t__Chlamydia pneumoniae AR39"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003812345.1": {
+        "find_name": [
+            "Citrobacter freundii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Citrobacter;s__Citrobacter freundii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001558935.2": {
+        "find_name": [
+            "Citrobacter amalonaticus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Citrobacter;s__Citrobacter amalonaticus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_009739655.1": {
+        "find_name": [
+            "Clavibacter michiganensis subsp. michiganensis",
+            "Clavibacter michiganensis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Micrococcales;f__Microbacteriaceae;g__Clavibacter;s__Clavibacter michiganensis;t__Clavibacter michiganensis subsp. michiganensis"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_018885085.1": {
+        "find_name": [
+            "Clostridioides difficile"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Eubacteriales;f__Peptostreptococcaceae;g__Clostridioides;s__Clostridioides difficile;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000063585.1": {
+        "find_name": [
+            "Clostridium botulinum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Eubacteriales;f__Clostridiaceae;g__Clostridium;s__Clostridium botulinum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020138775.1": {
+        "find_name": [
+            "Clostridium perfringens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Eubacteriales;f__Clostridiaceae;g__Clostridium;s__Clostridium perfringens;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000013285.1": {
+        "find_name": [
+            "Clostridium perfringens ATCC 13124"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Eubacteriales;f__Clostridiaceae;g__Clostridium;s__Clostridium perfringens;t__Clostridium perfringens ATCC 13124"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020450145.1": {
+        "find_name": [
+            "Clostridium sporogenes"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Eubacteriales;f__Clostridiaceae;g__Clostridium;s__Clostridium sporogenes;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_003013635.1": {
+        "find_name": [
+            "Clostridium tetani"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Eubacteriales;f__Clostridiaceae;g__Clostridium;s__Clostridium tetani;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001642655.1": {
+        "find_name": [
+            "Clostridium tyrobutyricum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Eubacteriales;f__Clostridiaceae;g__Clostridium;s__Clostridium tyrobutyricum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000013845.2": {
+        "find_name": [
+            "Clostridium perfringens SM101"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Eubacteriales;f__Clostridiaceae;g__Clostridium;s__Clostridium perfringens;t__Clostridium perfringens SM101"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000012325.1": {
+        "find_name": [
+            "Colwellia psychrerythraea 34H"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Colwelliaceae;g__Colwellia;s__Colwellia psychrerythraea;t__Colwellia psychrerythraea 34H"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003641245.1": {
+        "find_name": [
+            "Corynebacterium xerosis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Corynebacteriaceae;g__Corynebacterium;s__Corynebacterium xerosis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000550805.1": {
+        "find_name": [
+            "Corynebacterium vitaeruminis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Corynebacteriaceae;g__Corynebacterium;s__Corynebacterium vitaeruminis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000404185.1": {
+        "find_name": [
+            "Corynebacterium glutamicum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Corynebacteriaceae;g__Corynebacterium;s__Corynebacterium glutamicum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000196315.1": {
+        "find_name": [
+            "Croceibacter atlanticus HTCC2559"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__Croceibacter;s__Croceibacter atlanticus;t__Croceibacter atlanticus HTCC2559"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003516125.1": {
+        "find_name": [
+            "Cronobacter sakazakii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Cronobacter;s__Cronobacter sakazakii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000027065.2(suppressed)": {
+        "find_name": [
+            "Cronobacter turicensis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Cronobacter;s__Cronobacter turicensis;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001277215.2": {
+        "find_name": [
+            "Cronobacter malonaticus",
+            "Cronobacter malonaticus LMG 23826"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Cronobacter;s__Cronobacter malonaticus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001277235.1": {
+        "find_name": [
+            "Cronobacter dublinensis subsp. dublinensis LMG 23823"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Cronobacter;s__Cronobacter dublinensis;t__Cronobacter dublinensis subsp. dublinensis LMG 23823"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001277195.1": {
+        "find_name": [
+            "Cronobacter muytjensii ATCC 51329"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Cronobacter;s__Cronobacter muytjensii;t__Cronobacter muytjensii ATCC 51329"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001277255.1": {
+        "find_name": [
+            "Cronobacter condimenti"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Cronobacter;s__Cronobacter condimenti;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000063505.1(suppressed)": {
+        "find_name": [
+            "Synechococcus sp. WH 7803"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Synechococcales;f__Synechococcaceae;g__Synechococcus;s__Synechococcus sp. WH 7803;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000012465.1": {
+        "find_name": [
+            "Prochlorococcus marinus str. NATL2A"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Synechococcales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus marinus;t__Prochlorococcus marinus str. NATL2A"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002142475.1": {
+        "find_name": [
+            "Leptolyngbya boryana"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Pseudanabaenales;f__Leptolyngbyaceae;g__Leptolyngbya;s__Leptolyngbya boryana;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000011485.1": {
+        "find_name": [
+            "Prochlorococcus marinus str. MIT 9313"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Synechococcales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus marinus;t__Prochlorococcus marinus str. MIT 9313"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000161795.2": {
+        "find_name": [
+            "Synechococcus sp. WH 8109"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Synechococcales;f__Synechococcaceae;g__Synechococcus;s__Synechococcus sp. WH 8109;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000007925.1": {
+        "find_name": [
+            "Prochlorococcus marinus subsp. marinus str. CCMP1375",
+            "Prochlorococcus marinus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Synechococcales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus marinus;t__Prochlorococcus marinus subsp. marinus str. CCMP1375"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016127415.1": {
+        "find_name": [
+            "Delftia acidovorans"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Comamonadaceae;g__Delftia;s__Delftia acidovorans;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_903815225.1": {
+        "find_name": [
+            "Delftia tsuruhatensis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Comamonadaceae;g__Delftia;s__Delftia tsuruhatensis;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002812485.1": {
+        "find_name": [
+            "Dickeya fangzhongdai"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae;g__Dickeya;s__Dickeya fangzhongdai;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002846995.1": {
+        "find_name": [
+            "Dickeya solani"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae;g__Dickeya;s__Dickeya solani;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000365285.1": {
+        "find_name": [
+            "Dickeya solani MK10"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae;g__Dickeya;s__Dickeya solani;t__Dickeya solani MK10"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000018145.1": {
+        "find_name": [
+            "Dinoroseobacter shibae",
+            "Dinoroseobacter shibae DFL 12 = DSM 16493"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Roseobacteraceae;g__Dinoroseobacter;s__Dinoroseobacter shibae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000264765.2": {
+        "find_name": [
+            "Edwardsiella anguillarum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Hafniaceae;g__Edwardsiella;s__Edwardsiella anguillarum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003074995.2": {
+        "find_name": [
+            "Edwardsiella ictaluri"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Hafniaceae;g__Edwardsiella;s__Edwardsiella ictaluri;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002504285.1": {
+        "find_name": [
+            "Edwardsiella tarda"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Hafniaceae;g__Edwardsiella;s__Edwardsiella tarda;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021378605.1": {
+        "find_name": [
+            "Eggerthella lenta"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Coriobacteriia;o__Eggerthellales;f__Eggerthellaceae;g__Eggerthella;s__Eggerthella lenta;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000008865.2": {
+        "find_name": [
+            "Escherichia coli"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000770155.1": {
+        "find_name": [
+            "Enterobacter cloacae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter;s__Enterobacter cloacae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019665745.1": {
+        "find_name": [
+            "Enterobacter cancerogenus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter;s__Enterobacter cancerogenus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_007035645.1": {
+        "find_name": [
+            "Enterobacter asburiae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter;s__Enterobacter asburiae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_007632255.1": {
+        "find_name": [
+            "Klebsiella aerogenes"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Klebsiella;s__Klebsiella aerogenes;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000800845.1(suppressed)": {
+        "find_name": [
+            "Escherichia coli RS218"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__Escherichia coli RS218"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000006945.2": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Typhimurium",
+            "Salmonella enterica subsp. enterica",
+            "Salmonella enterica subsp. enterica serovar Typhimurium str. LT2",
+            "Salmonella enterica"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000006765.1": {
+        "find_name": [
+            "Pseudomonas aeruginosa",
+            "Pseudomonas aeruginosa PAO1"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas aeruginosa;t__"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900215245.1": {
+        "find_name": [
+            "Pseudomonas fluorescens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas fluorescens;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000412675.1": {
+        "find_name": [
+            "Pseudomonas putida"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas putida;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002055515.1": {
+        "find_name": [
+            "Acinetobacter calcoaceticus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Moraxellales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter calcoaceticus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000069965.1": {
+        "find_name": [
+            "Proteus mirabilis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Morganellaceae;g__Proteus;s__Proteus mirabilis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001559615.2": {
+        "find_name": [
+            "Escherichia coli B"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__Escherichia coli B"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000006925.2": {
+        "find_name": [
+            "Shigella flexneri",
+            "Shigella flexneri 2a"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Shigella;s__Shigella flexneri;t__"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000493675.1(suppressed)": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Typhimurium str. DT104"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica serovar Typhimurium str. DT104"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019754155.1": {
+        "find_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__Escherichia coli BL21(DE3)"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014263375.1": {
+        "find_name": [
+            "Escherichia coli BL21"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__Escherichia coli BL21"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_009734005.1": {
+        "find_name": [
+            "Enterococcus faecium"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus;s__Enterococcus faecium;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022557275.1": {
+        "find_name": [
+            "Enterococcus faecalis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus;s__Enterococcus faecalis;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000211255.2": {
+        "find_name": [
+            "Enterococcus faecalis 62"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus;s__Enterococcus faecalis;t__Enterococcus faecalis 62"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000007785.1": {
+        "find_name": [
+            "Enterococcus faecalis V583"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus;s__Enterococcus faecalis;t__Enterococcus faecalis V583"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000091565.1": {
+        "find_name": [
+            "Erwinia amylovora"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Erwiniaceae;g__Erwinia;s__Erwinia amylovora;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021365465.1": {
+        "find_name": [
+            "Erwinia tracheiphila"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Erwiniaceae;g__Erwinia;s__Erwinia tracheiphila;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002952315.1": {
+        "find_name": [
+            "Erwinia pyrifoliae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Erwiniaceae;g__Erwinia;s__Erwinia pyrifoliae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000026185.1": {
+        "find_name": [
+            "Erwinia tasmaniensis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Erwiniaceae;g__Erwinia;s__Erwinia tasmaniensis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900637845.1": {
+        "find_name": [
+            "Erysipelothrix rhusiopathiae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Erysipelotrichia;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Erysipelothrix;s__Erysipelothrix rhusiopathiae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_008727195.1": {
+        "find_name": [
+            "Escherichia coli O157"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014623425.1": {
+        "find_name": [
+            "Escherichia coli O145"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014262945.1": {
+        "find_name": [
+            "Escherichia coli CFT073"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__Escherichia coli CFT073"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_004798745.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Oranienburg"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020217445.1": {
+        "find_name": [
+            "Escherichia coli O78"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000258145.1": {
+        "find_name": [
+            "Escherichia coli W"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__Escherichia coli W"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000017765.1": {
+        "find_name": [
+            "Escherichia coli HS"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli;t__Escherichia coli HS"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003312465.1": {
+        "find_name": [
+            "Faecalibacterium prausnitzii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Eubacteriales;f__Oscillospiraceae;g__Faecalibacterium;s__Faecalibacterium prausnitzii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_013343195.2": {
+        "find_name": [
+            "Flavobacterium psychrophilum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__Flavobacterium psychrophilum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014844295.1": {
+        "find_name": [
+            "Flavobacterium columnare"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__Flavobacterium columnare;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000153625.3": {
+        "find_name": [
+            "Fusobacterium nucleatum subsp. polymorphum ATCC 10953"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Fusobacteria;c__Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae;g__Fusobacterium;s__Fusobacterium nucleatum;t__Fusobacterium nucleatum subsp. polymorphum ATCC 10953"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_001457555.1": {
+        "find_name": [
+            "Fusobacterium nucleatum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Fusobacteria;c__Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae;g__Fusobacterium;s__Fusobacterium nucleatum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000009785.1": {
+        "find_name": [
+            "Geobacillus kaustophilus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Geobacillus;s__Geobacillus kaustophilus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014961685.1": {
+        "find_name": [
+            "Geobacillus stearothermophilus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Geobacillus;s__Geobacillus stearothermophilus;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001700985.1": {
+        "find_name": [
+            "Parageobacillus thermoglucosidasius"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Parageobacillus;s__Parageobacillus thermoglucosidasius;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_011290605.1": {
+        "find_name": [
+            "Gordonia terrae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Gordoniaceae;g__Gordonia;s__Gordonia terrae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014070455.1": {
+        "find_name": [
+            "Gordonia rubripertincta"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Gordoniaceae;g__Gordonia;s__Gordonia rubripertincta;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_004011905.1": {
+        "find_name": [
+            "Gordonia alkanivorans"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Gordoniaceae;g__Gordonia;s__Gordonia alkanivorans;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_007362295.1": {
+        "find_name": [
+            "Nocardia otitidiscaviarum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Nocardiaceae;g__Nocardia;s__Nocardia otitidiscaviarum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000696675.2": {
+        "find_name": [
+            "Rhodococcus erythropolis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Nocardiaceae;g__Rhodococcus;s__Rhodococcus erythropolis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019334125.1": {
+        "find_name": [
+            "Rhodococcus globerulus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Nocardiaceae;g__Rhodococcus;s__Rhodococcus globerulus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002209125.2": {
+        "find_name": [
+            "Nocardia brasiliensis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Nocardiaceae;g__Nocardia;s__Nocardia brasiliensis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900637185.1": {
+        "find_name": [
+            "Nocardia asteroides"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Nocardiaceae;g__Nocardia;s__Nocardia asteroides;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000523235.1": {
+        "find_name": [
+            "Nocardia nova"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Nocardiaceae;g__Nocardia;s__Nocardia nova;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022059885.1": {
+        "find_name": [
+            "Gordonia amicalis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Gordoniaceae;g__Gordonia;s__Gordonia amicalis;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020809485.1": {
+        "find_name": [
+            "Aggregatibacter actinomycetemcomitans"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae;g__Aggregatibacter;s__Aggregatibacter actinomycetemcomitans;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_017352235.1": {
+        "find_name": [
+            "Glaesserella parasuis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae;g__Glaesserella;s__Glaesserella parasuis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_919946725.1": {
+        "find_name": [
+            "Haemophilus influenzae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae;g__Haemophilus;s__Haemophilus influenzae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000504565.1": {
+        "find_name": [
+            "Haloarcula hispanica"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Euryarchaeota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula hispanica;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000223905.1": {
+        "find_name": [
+            "Haloarcula hispanica ATCC 33960"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Euryarchaeota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula hispanica;t__Haloarcula hispanica ATCC 33960"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_004799605.1": {
+        "find_name": [
+            "Halobacterium salinarum"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Euryarchaeota;c__Halobacteria;o__Halobacteriales;f__Halobacteriaceae;g__Halobacterium;s__Halobacterium salinarum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000069025.1": {
+        "find_name": [
+            "Halobacterium salinarum R1"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Euryarchaeota;c__Halobacteria;o__Halobacteriales;f__Halobacteriaceae;g__Halobacterium;s__Halobacterium salinarum;t__Halobacterium salinarum R1"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003990725.2": {
+        "find_name": [
+            "Halorubrum sp. PV6"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Euryarchaeota;c__Halobacteria;o__Haloferacales;f__Halorubraceae;g__Halorubrum;s__Halorubrum sp. PV6;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_018200015.1": {
+        "find_name": [
+            "Haloarcula sinaiiensis"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Euryarchaeota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula sinaiiensis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_018228765.1": {
+        "find_name": [
+            "Halorubrum sodomense"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Euryarchaeota;c__Halobacteria;o__Haloferacales;f__Halorubraceae;g__Halorubrum;s__Halorubrum sodomense;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_017821535.1": {
+        "find_name": [
+            "Helicobacter pylori"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter;s__Helicobacter pylori;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000270045.1": {
+        "find_name": [
+            "Helicobacter pylori F32"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter;s__Helicobacter pylori;t__Helicobacter pylori F32"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000178935.2": {
+        "find_name": [
+            "Helicobacter pylori 35A"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter;s__Helicobacter pylori;t__Helicobacter pylori 35A"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000270005.1": {
+        "find_name": [
+            "Helicobacter pylori F16"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter;s__Helicobacter pylori;t__Helicobacter pylori F16"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000270025.1": {
+        "find_name": [
+            "Helicobacter pylori F30"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter;s__Helicobacter pylori;t__Helicobacter pylori F30"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000270065.1": {
+        "find_name": [
+            "Helicobacter pylori F57"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter;s__Helicobacter pylori;t__Helicobacter pylori F57"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000240185.1": {
+        "find_name": [
+            "Klebsiella pneumoniae",
+            "Klebsiella pneumoniae subsp. pneumoniae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Klebsiella;s__Klebsiella pneumoniae;t__"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002853115.2": {
+        "find_name": [
+            "Klebsiella pneumoniae subsp. ozaenae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Klebsiella;s__Klebsiella pneumoniae;t__Klebsiella pneumoniae subsp. ozaenae"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003812925.1": {
+        "find_name": [
+            "Klebsiella oxytoca"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Klebsiella;s__Klebsiella oxytoca;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000009885.1": {
+        "find_name": [
+            "Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Klebsiella;s__Klebsiella pneumoniae;t__Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000281535.2": {
+        "find_name": [
+            "Klebsiella pneumoniae subsp. pneumoniae KPNIH1"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Klebsiella;s__Klebsiella pneumoniae;t__Klebsiella pneumoniae subsp. pneumoniae KPNIH1"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000220485.1": {
+        "find_name": [
+            "Klebsiella pneumoniae KCTC 2242"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Klebsiella;s__Klebsiella pneumoniae;t__Klebsiella pneumoniae KCTC 2242"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001676805.1": {
+        "find_name": [
+            "Levilactobacillus brevis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Levilactobacillus;s__Levilactobacillus brevis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000829055.1": {
+        "find_name": [
+            "Lacticaseibacillus casei"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lacticaseibacillus;s__Lacticaseibacillus casei;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003269405.1": {
+        "find_name": [
+            "Lactiplantibacillus plantarum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactiplantibacillus;s__Lactiplantibacillus plantarum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_006151905.1": {
+        "find_name": [
+            "Lacticaseibacillus rhamnosus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lacticaseibacillus;s__Lacticaseibacillus rhamnosus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_011044195.1": {
+        "find_name": [
+            "Lactobacillus delbrueckii subsp. bulgaricus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus delbrueckii;t__Lactobacillus delbrueckii subsp. bulgaricus"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000019245.4": {
+        "find_name": [
+            "Lacticaseibacillus paracasei"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lacticaseibacillus;s__Lacticaseibacillus paracasei;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021091115.1": {
+        "find_name": [
+            "Lactobacillus delbrueckii subsp. lactis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus delbrueckii;t__Lactobacillus delbrueckii subsp. lactis"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000439915.2": {
+        "find_name": [
+            "Lactobacillus gasseri"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus gasseri;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000014465.1": {
+        "find_name": [
+            "Levilactobacillus brevis ATCC 367"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Levilactobacillus;s__Levilactobacillus brevis;t__Levilactobacillus brevis ATCC 367"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001888925.1": {
+        "find_name": [
+            "Lactobacillus delbrueckii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus delbrueckii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019890875.1": {
+        "find_name": [
+            "Limosilactobacillus fermentum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus;s__Limosilactobacillus fermentum;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003641185.1": {
+        "find_name": [
+            "Lactiplantibacillus pentosus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactiplantibacillus;s__Lactiplantibacillus pentosus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_009730255.1": {
+        "find_name": [
+            "Lactobacillus jensenii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus jensenii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019443925.1": {
+        "find_name": [
+            "Lactobacillus helveticus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus helveticus;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014841035.1": {
+        "find_name": [
+            "Lactobacillus johnsonii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus johnsonii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020463755.1": {
+        "find_name": [
+            "Lactococcus lactis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus lactis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_017869415.1": {
+        "find_name": [
+            "Lactococcus lactis subsp. lactis bv. diacetylactis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus lactis;t__Lactococcus lactis subsp. lactis"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000468955.1": {
+        "find_name": [
+            "Lactococcus cremoris",
+            "Lactococcus cremoris subsp. cremoris"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus cremoris;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022494905.1": {
+        "find_name": [
+            "Lactococcus lactis subsp. lactis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus lactis;t__Lactococcus lactis subsp. lactis"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000006865.1": {
+        "find_name": [
+            "Lactococcus lactis subsp. lactis Il1403"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus lactis;t__Lactococcus lactis subsp. lactis Il1403"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016026695.1": {
+        "find_name": [
+            "Lactococcus garvieae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus garvieae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000269945.1": {
+        "find_name": [
+            "Lactococcus garvieae Lg2"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus garvieae;t__Lactococcus garvieae Lg2"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000009425.1": {
+        "find_name": [
+            "Lactococcus lactis subsp. cremoris MG1363"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus cremoris;t__Lactococcus lactis subsp. cremoris MG1363"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001518835.1": {
+        "find_name": [
+            "Leclercia adecarboxylata"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Leclercia;s__Leclercia adecarboxylata;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000017685.1": {
+        "find_name": [
+            "Leptospira biflexa"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Spirochaetes;c__Spirochaetia;o__Leptospirales;f__Leptospiraceae;g__Leptospira;s__Leptospira biflexa;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_009913915.1": {
+        "find_name": [
+            "Leuconostoc mesenteroides"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Leuconostoc;s__Leuconostoc mesenteroides;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002966535.1": {
+        "find_name": [
+            "Oenococcus oeni"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Oenococcus;s__Oenococcus oeni;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016127255.1": {
+        "find_name": [
+            "Leuconostoc pseudomesenteroides"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Leuconostoc;s__Leuconostoc pseudomesenteroides;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001047695.1": {
+        "find_name": [
+            "Leuconostoc mesenteroides subsp. dextranicum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Leuconostoc;s__Leuconostoc mesenteroides;t__Leuconostoc mesenteroides subsp. dextranicum"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_009676745.1": {
+        "find_name": [
+            "Leuconostoc mesenteroides subsp. mesenteroides"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Leuconostoc;s__Leuconostoc mesenteroides;t__Leuconostoc mesenteroides subsp. mesenteroides"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000023765.2": {
+        "find_name": [
+            "Candidatus Liberibacter asiaticus str. psy62"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Rhizobiaceae;g__Liberibacter;s__Candidatus Liberibacter asiaticus;t__Candidatus Liberibacter asiaticus str. psy62"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002216815.1": {
+        "find_name": [
+            "Candidatus Liberibacter asiaticus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Rhizobiaceae;g__Liberibacter;s__Candidatus Liberibacter asiaticus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000196035.1": {
+        "find_name": [
+            "Listeria monocytogenes",
+            "Listeria monocytogenes EGD-e"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Listeriaceae;g__Listeria;s__Listeria monocytogenes;t__"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000568935.1": {
+        "find_name": [
+            "Listeria monocytogenes WSLC1042"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Listeriaceae;g__Listeria;s__Listeria monocytogenes;t__Listeria monocytogenes WSLC1042"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014843315.1": {
+        "find_name": [
+            "Listeria monocytogenes FSL J1-208"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Listeriaceae;g__Listeria;s__Listeria monocytogenes;t__Listeria monocytogenes FSL J1-208"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000008285.1": {
+        "find_name": [
+            "Listeria monocytogenes serotype 4b str. F2365"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Listeriaceae;g__Listeria;s__Listeria monocytogenes;t__Listeria monocytogenes serotype 4b str. F2365"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002285575.1": {
+        "find_name": [
+            "Mannheimia haemolytica"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae;g__Mannheimia;s__Mannheimia haemolytica;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000192865.1": {
+        "find_name": [
+            "Marinomonas mediterranea"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__Oceanospirillaceae;g__Marinomonas;s__Marinomonas mediterranea;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014189435.1(suppressed)": {
+        "find_name": [
+            "Mesorhizobium loti"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Phyllobacteriaceae;g__Mesorhizobium;s__Mesorhizobium loti;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000008645.1": {
+        "find_name": [
+            "Methanothermobacter thermautotrophicus"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Euryarchaeota;c__Methanobacteria;o__Methanobacteriales;f__Methanobacteriaceae;g__Methanothermobacter;s__Methanothermobacter thermautotrophicus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003367705.1": {
+        "find_name": [
+            "Microbacterium foliorum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Micrococcales;f__Microbacteriaceae;g__Microbacterium;s__Microbacterium foliorum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900105335.1": {
+        "find_name": [
+            "Microbacterium paraoxydans"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Micrococcales;f__Microbacteriaceae;g__Microbacterium;s__Microbacterium paraoxydans;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_004000565.1": {
+        "find_name": [
+            "Microbacterium oxydans"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Micrococcales;f__Microbacteriaceae;g__Microbacterium;s__Microbacterium oxydans;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021172085.1": {
+        "find_name": [
+            "Microcystis aeruginosa"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Chroococcales;f__Microcystaceae;g__Microcystis;s__Microcystis aeruginosa;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_902387845.1": {
+        "find_name": [
+            "Morganella morganii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Morganellaceae;g__Morganella;s__Morganella morganii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000767605.1": {
+        "find_name": [
+            "Mycolicibacterium smegmatis MC2 155"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycolicibacterium;s__Mycolicibacterium smegmatis;t__Mycolicibacterium smegmatis MC2 155"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_013349145.1": {
+        "find_name": [
+            "Mycolicibacterium smegmatis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycolicibacterium;s__Mycolicibacterium smegmatis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_004028015.1": {
+        "find_name": [
+            "Mycobacteroides abscessus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycobacteroides;s__Mycobacteroides abscessus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_017183915.1": {
+        "find_name": [
+            "Mycobacteroides abscessus subsp. bolletii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycobacteroides;s__Mycobacteroides abscessus;t__Mycobacteroides abscessus subsp. bolletii"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000195955.2": {
+        "find_name": [
+            "Mycobacterium tuberculosis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycobacterium;s__Mycobacterium tuberculosis;t__"
+        ],
+        "assembly_category": "Reference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001655245.1": {
+        "find_name": [
+            "Mycolicibacterium vaccae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycolicibacterium;s__Mycolicibacterium vaccae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016749935.1": {
+        "find_name": [
+            "Mycobacterium avium subsp. paratuberculosis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycobacterium;s__Mycobacterium avium;t__Mycobacterium avium subsp. paratuberculosis"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001583415.1": {
+        "find_name": [
+            "Mycolicibacterium phlei"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycolicibacterium;s__Mycolicibacterium phlei;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022175585.1": {
+        "find_name": [
+            "Mycobacterium avium"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycobacterium;s__Mycobacterium avium;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000327395.2": {
+        "find_name": [
+            "Mycoplasma arthritidis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Tenericutes;c__;o__Mycoplasmoidales;f__Metamycoplasmataceae;g__Metamycoplasma;s__Metamycoplasma arthritidis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900660575.1": {
+        "find_name": [
+            "Mycoplasmopsis pulmonis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Tenericutes;c__Mollicutes;o__Mycoplasmatales;f__Mycoplasmataceae;g__Mycoplasmopsis;s__Mycoplasmopsis pulmonis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000012685.1": {
+        "find_name": [
+            "Myxococcus xanthus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Deltaproteobacteria;o__Myxococcales;f__Myxococcaceae;g__Myxococcus;s__Myxococcus xanthus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000025625.1": {
+        "find_name": [
+            "Natrialba magadii",
+            "Natrialba magadii ATCC 43099"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Euryarchaeota;c__Halobacteria;o__Natrialbales;f__Natrialbaceae;g__Natrialba;s__Natrialba magadii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000010325.1": {
+        "find_name": [
+            "Nitratiruptor sp. SB155-2"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Nautiliales;f__Nitratiruptoraceae;g__Nitratiruptor;s__Nitratiruptor sp. SB155-2;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000698785.1": {
+        "find_name": [
+            "Nitrososphaera viennensis EN76"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Thaumarchaeota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrososphaeraceae;g__Nitrososphaera;s__Nitrososphaera viennensis;t__Nitrososphaera viennensis EN76"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003054475.1": {
+        "find_name": [
+            "Nodularia spumigena"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Nostocales;f__Aphanizomenonaceae;g__Nodularia;s__Nodularia spumigena;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001632305.1": {
+        "find_name": [
+            "Paenibacillus glucanolyticus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Paenibacillaceae;g__Paenibacillus;s__Paenibacillus glucanolyticus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_019048385.1": {
+        "find_name": [
+            "Pantoea agglomerans"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Erwiniaceae;g__Pantoea;s__Pantoea agglomerans;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_012273055.1": {
+        "find_name": [
+            "Parabacteroides distasonis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides;s__Parabacteroides distasonis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_020735605.1": {
+        "find_name": [
+            "Parabacteroides merdae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides;s__Parabacteroides merdae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019141545.1": {
+        "find_name": [
+            "Paracoccus marcusii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Paracoccus;s__Paracoccus marcusii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000006825.1": {
+        "find_name": [
+            "Pasteurella multocida"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae;g__Pasteurella;s__Pasteurella multocida;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000740965.1": {
+        "find_name": [
+            "Pectobacterium atrosepticum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae;g__Pectobacterium;s__Pectobacterium atrosepticum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_015277635.1": {
+        "find_name": [
+            "Pectobacterium carotovorum subsp. carotovorum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae;g__Pectobacterium;s__Pectobacterium carotovorum;t__Pectobacterium carotovorum subsp. carotovorum"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_013488025.1": {
+        "find_name": [
+            "Pectobacterium carotovorum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae;g__Pectobacterium;s__Pectobacterium carotovorum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001742185.1": {
+        "find_name": [
+            "Pectobacterium wasabiae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae;g__Pectobacterium;s__Pectobacterium wasabiae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000011605.1": {
+        "find_name": [
+            "Pectobacterium atrosepticum SCRI1043"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae;g__Pectobacterium;s__Pectobacterium atrosepticum;t__Pectobacterium atrosepticum SCRI1043"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000012345.1": {
+        "find_name": [
+            "Candidatus Pelagibacter ubique HTCC1062"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Pelagibacterales;f__Pelagibacteraceae;g__Candidatus Pelagibacter;s__Candidatus Pelagibacter ubique;t__Candidatus Pelagibacter ubique HTCC1062"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021768425.1": {
+        "find_name": [
+            "Photobacterium damselae subsp. damselae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Photobacterium;s__Photobacterium damselae;t__Photobacterium damselae subsp. damselae"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000710505.1": {
+        "find_name": [
+            "Planktothrix agardhii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Oscillatoriales;f__Microcoleaceae;g__Planktothrix;s__Planktothrix agardhii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000011465.1": {
+        "find_name": [
+            "Prochlorococcus marinus subsp. pastoris str. CCMP1986"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Synechococcales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus marinus;t__Prochlorococcus marinus subsp. pastoris str. CCMP1986"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000015705.1": {
+        "find_name": [
+            "Prochlorococcus marinus str. MIT 9303"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Synechococcales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus marinus;t__Prochlorococcus marinus str. MIT 9303"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900087655.1": {
+        "find_name": [
+            "Propionibacterium freudenreichii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Propionibacteriales;f__Propionibacteriaceae;g__Propionibacterium;s__Propionibacterium freudenreichii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000376705.1": {
+        "find_name": [
+            "Cutibacterium acnes"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Propionibacteriales;f__Propionibacteriaceae;g__Cutibacterium;s__Cutibacterium acnes;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022369495.1": {
+        "find_name": [
+            "Proteus penneri"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Morganellaceae;g__Proteus;s__Proteus penneri;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016128115.1": {
+        "find_name": [
+            "Providencia stuartii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Morganellaceae;g__Providencia;s__Providencia stuartii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003204135.1": {
+        "find_name": [
+            "Providencia rettgeri"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Morganellaceae;g__Providencia;s__Providencia rettgeri;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002374815.1": {
+        "find_name": [
+            "Pseudoalteromonas atlantica"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Pseudoalteromonadaceae;g__Pseudoalteromonas;s__Pseudoalteromonas atlantica;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002407085.1": {
+        "find_name": [
+            "Pseudoalteromonas marina"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Pseudoalteromonadaceae;g__Pseudoalteromonas;s__Pseudoalteromonas marina;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002221525.1": {
+        "find_name": [
+            "Pseudoalteromonas espejiana"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Pseudoalteromonadaceae;g__Pseudoalteromonas;s__Pseudoalteromonas espejiana;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001444405.1": {
+        "find_name": [
+            "Pseudoalteromonas phenolica"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Pseudoalteromonadaceae;g__Pseudoalteromonas;s__Pseudoalteromonas phenolica;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014524625.1": {
+        "find_name": [
+            "Pseudomonas chlororaphis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas chlororaphis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900235835.1": {
+        "find_name": [
+            "Pseudomonas syringae pv. avii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas syringae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016694755.2": {
+        "find_name": [
+            "Pseudomonas syringae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas syringae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019285655.1": {
+        "find_name": [
+            "Pseudomonas tolaasii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas tolaasii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_902172305.2": {
+        "find_name": [
+            "Pseudomonas aeruginosa PAK"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas aeruginosa;t__Pseudomonas aeruginosa PAK"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000009225.2": {
+        "find_name": [
+            "Pseudomonas fluorescens SBW25"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas fluorescens;t__Pseudomonas fluorescens SBW25"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000496605.2": {
+        "find_name": [
+            "Pseudomonas aeruginosa PA1"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas aeruginosa;t__Pseudomonas aeruginosa PA1"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001543125.1": {
+        "find_name": [
+            "Pseudomonas agarici"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas agarici;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000344475.3": {
+        "find_name": [
+            "Pseudomonas syringae pv. actinidiae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas syringae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003391255.1": {
+        "find_name": [
+            "Pseudomonas plecoglossicida"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas plecoglossicida;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000014625.1": {
+        "find_name": [
+            "Pseudomonas aeruginosa UCBPP-PA14"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas;s__Pseudomonas aeruginosa;t__Pseudomonas aeruginosa UCBPP-PA14"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000024465.1": {
+        "find_name": [
+            "Candidatus Puniceispirillum marinum IMCC1322"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__;f__;g__Candidatus Puniceispirillum;s__Candidatus Puniceispirillum marinum;t__Candidatus Puniceispirillum marinum IMCC1322"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000016385.1": {
+        "find_name": [
+            "Pyrobaculum arsenaticum"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Thermoproteales;f__Thermoproteaceae;g__Pyrobaculum;s__Pyrobaculum arsenaticum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000253055.1": {
+        "find_name": [
+            "Thermoproteus tenax"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Thermoproteales;f__Thermoproteaceae;g__Thermoproteus;s__Thermoproteus tenax;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000195935.2": {
+        "find_name": [
+            "Pyrococcus abyssi"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Euryarchaeota;c__Thermococci;o__Thermococcales;f__Thermococcaceae;g__Pyrococcus;s__Pyrococcus abyssi;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003595305.1": {
+        "find_name": [
+            "Ralstonia pseudosolanacearum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Ralstonia;s__Ralstonia pseudosolanacearum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021117135.1": {
+        "find_name": [
+            "Ralstonia solanacearum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Ralstonia;s__Ralstonia solanacearum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_016466415.2": {
+        "find_name": [
+            "Ralstonia pickettii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Ralstonia;s__Ralstonia pickettii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022354265.1": {
+        "find_name": [
+            "Raoultella ornithinolytica"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Raoultella;s__Raoultella ornithinolytica;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000346065.1": {
+        "find_name": [
+            "Sinorhizobium meliloti"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Rhizobiaceae;g__Sinorhizobium;s__Sinorhizobium meliloti;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002119845.1": {
+        "find_name": [
+            "Rhizobium etli"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Rhizobiaceae;g__Rhizobium;s__Rhizobium etli;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000092045.1": {
+        "find_name": [
+            "Rhizobium etli CFN 42"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Rhizobiaceae;g__Rhizobium;s__Rhizobium etli;t__Rhizobium etli CFN 42"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000816845.1": {
+        "find_name": [
+            "Rhizobium gallicum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Rhizobiaceae;g__Rhizobium;s__Rhizobium gallicum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021391715.1": {
+        "find_name": [
+            "Rhizobium leguminosarum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Hyphomicrobiales;f__Rhizobiaceae;g__Rhizobium;s__Rhizobium leguminosarum;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000021865.1": {
+        "find_name": [
+            "Rhodobacter capsulatus",
+            "Rhodobacter capsulatus SB 1003"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Rhodobacter;s__Rhodobacter capsulatus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003013675.1": {
+        "find_name": [
+            "Rhodococcus hoagii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Nocardiaceae;g__Rhodococcus;s__Rhodococcus equi;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003004765.2": {
+        "find_name": [
+            "Rhodococcus rhodochrous"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Nocardiaceae;g__Rhodococcus;s__Rhodococcus rhodochrous;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_020542785.1": {
+        "find_name": [
+            "Rhodococcus opacus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Nocardiaceae;g__Rhodococcus;s__Rhodococcus opacus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000024845.1": {
+        "find_name": [
+            "Rhodothermus marinus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__;o__Bacteroidetes Order II. Incertae sedis;f__Rhodothermaceae;g__Rhodothermus;s__Rhodothermus marinus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002079305.1": {
+        "find_name": [
+            "Rhodovulum sp. P5"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Rhodovulum;s__Rhodovulum sp. P5;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019552185.1": {
+        "find_name": [
+            "Riemerella anatipestifer"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Weeksellaceae;g__Riemerella;s__Riemerella anatipestifer;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002983865.1": {
+        "find_name": [
+            "Roseobacter denitrificans"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Roseobacteraceae;g__Roseobacter;s__Roseobacter denitrificans;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000014045.1": {
+        "find_name": [
+            "Roseobacter denitrificans OCh 114"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Roseobacteraceae;g__Roseobacter;s__Roseobacter denitrificans;t__Roseobacter denitrificans OCh 114"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003491185.1": {
+        "find_name": [
+            "Salinibacter ruber"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__;o__Bacteroidetes Order II. Incertae sedis;f__Rhodothermaceae;g__Salinibacter;s__Salinibacter ruber;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000090405.2": {
+        "find_name": [
+            "Salinibacter ruber M8"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__;o__Bacteroidetes Order II. Incertae sedis;f__Rhodothermaceae;g__Salinibacter;s__Salinibacter ruber;t__Salinibacter ruber M8"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_011765565.1": {
+        "find_name": [
+            "Salinivibrio costicola"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Salinivibrio;s__Salinivibrio costicola;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020716645.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Enteritidis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020023795.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Gallinarum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001173525.2": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Typhi"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003581245.2": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Newport"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_006695545.1(suppressed)": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Heidelberg"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016452145.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Anatum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001941405.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Cerro"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002266085.2": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Dublin"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016454285.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Choleraesuis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002386165.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Paratyphi A"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021266445.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Kentucky"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_009664555.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Virchow"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_005457265.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Weltevreden"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020691705.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Saintpaul"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000238455.2": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Montevideo"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900478385.1(suppressed)": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Poona"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_008244845.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica serovar Typhimurium str. LT2"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002265865.2": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Corvallis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003872475.1(suppressed)": {
+        "find_name": [
+            "Salmonella enterica subsp. salamae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. salamae"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003872565.1(suppressed)": {
+        "find_name": [
+            "Salmonella enterica subsp. diarizonae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. diarizonae"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016454325.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Hadar"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022117515.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Infantis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022350005.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Indiana"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003606225.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Pullorum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_004328765.1": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Brandenburg"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014840915.2": {
+        "find_name": [
+            "Salmonella enterica subsp. enterica serovar Albany"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Salmonella;s__Salmonella enterica;t__Salmonella enterica subsp. enterica"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003516165.1": {
+        "find_name": [
+            "Serratia marcescens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Serratia;s__Serratia marcescens;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000463345.2": {
+        "find_name": [
+            "Serratia sp. ATCC 39006"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Serratia;s__Serratia sp. ATCC 39006;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016026735.1": {
+        "find_name": [
+            "Serratia rubidaea"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Serratia;s__Serratia rubidaea;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016406325.1": {
+        "find_name": [
+            "Shewanella putrefaciens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Shewanellaceae;g__Shewanella;s__Shewanella putrefaciens;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_020511155.1": {
+        "find_name": [
+            "Shewanella sp. 4"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Shewanellaceae;g__Shewanella;s__Shewanella sp. 4;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016726285.1": {
+        "find_name": [
+            "Shigella boydii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Shigella;s__Shigella boydii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022354145.1": {
+        "find_name": [
+            "Shigella dysenteriae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Shigella;s__Shigella dysenteriae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900004845.1(suppressed)": {
+        "find_name": [
+            "Sodalis glossinidius str. 'morsitans'",
+            "Sodalis glossinidius"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Bruguierivoracaceae;g__Sodalis;s__Sodalis glossinidius;t__Sodalis glossinidius str. 'morsitans'"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016027095.1": {
+        "find_name": [
+            "Sphingomonas paucimobilis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingomonas;s__Sphingomonas paucimobilis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001886855.1": {
+        "find_name": [
+            "Spiroplasma citri"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Tenericutes;c__Mollicutes;o__Entomoplasmatales;f__Spiroplasmataceae;g__Spiroplasma;s__Spiroplasma citri;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_005222125.1": {
+        "find_name": [
+            "Spiroplasma melliferum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Tenericutes;c__Mollicutes;o__Entomoplasmatales;f__Spiroplasmataceae;g__Spiroplasma;s__Spiroplasma melliferum;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001274875.1": {
+        "find_name": [
+            "Spiroplasma kunkelii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Tenericutes;c__Mollicutes;o__Entomoplasmatales;f__Spiroplasmataceae;g__Spiroplasma;s__Spiroplasma kunkelii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000012045.1": {
+        "find_name": [
+            "Staphylococcus aureus subsp. aureus COL"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus aureus;t__Staphylococcus aureus subsp. aureus COL"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_006094375.1": {
+        "find_name": [
+            "Staphylococcus epidermidis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus epidermidis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000011925.1": {
+        "find_name": [
+            "Staphylococcus epidermidis RP62A"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus epidermidis;t__Staphylococcus epidermidis RP62A"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001611955.1": {
+        "find_name": [
+            "Staphylococcus haemolyticus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus haemolyticus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_018732165.1": {
+        "find_name": [
+            "Staphylococcus aureus subsp. aureus RN4220"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus aureus;t__Staphylococcus aureus subsp. aureus NCTC 8325"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000009645.1": {
+        "find_name": [
+            "Staphylococcus aureus subsp. aureus N315"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus aureus;t__Staphylococcus aureus subsp. aureus N315"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002310435.1": {
+        "find_name": [
+            "Staphylococcus aureus subsp. aureus str. Newman"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus aureus;t__Staphylococcus aureus subsp. aureus str. Newman"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_007814115.1": {
+        "find_name": [
+            "Staphylococcus saprophyticus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus saprophyticus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000478385.1": {
+        "find_name": [
+            "Staphylococcus pseudintermedius E140"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus pseudintermedius;t__Staphylococcus pseudintermedius E140"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_016126715.1": {
+        "find_name": [
+            "Staphylococcus pseudintermedius"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus pseudintermedius;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016725285.1": {
+        "find_name": [
+            "Staphylococcus pasteuri"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus pasteuri;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003812505.1": {
+        "find_name": [
+            "Staphylococcus hominis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus hominis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022531845.1": {
+        "find_name": [
+            "Staphylococcus capitis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus capitis;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000709415.1": {
+        "find_name": [
+            "Staphylococcus xylosus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae;g__Staphylococcus;s__Staphylococcus xylosus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900475405.1": {
+        "find_name": [
+            "Stenotrophomonas maltophilia"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Stenotrophomonas;s__Stenotrophomonas maltophilia;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_903886475.1": {
+        "find_name": [
+            "Streptococcus thermophilus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus thermophilus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000007425.1": {
+        "find_name": [
+            "Streptococcus pyogenes MGAS315"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus pyogenes;t__Streptococcus pyogenes MGAS315"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900475035.1": {
+        "find_name": [
+            "Streptococcus pyogenes"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus pyogenes;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_009738105.1": {
+        "find_name": [
+            "Streptococcus mutans"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus mutans;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002076835.1": {
+        "find_name": [
+            "Streptococcus pneumoniae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus pneumoniae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_001552035.1": {
+        "find_name": [
+            "Streptococcus agalactiae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus agalactiae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_015689455.1": {
+        "find_name": [
+            "Streptococcus equi"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus equi;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900637025.1": {
+        "find_name": [
+            "Streptococcus oralis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus oralis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_901544385.1": {
+        "find_name": [
+            "Streptococcus gordonii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus gordonii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000026745.1": {
+        "find_name": [
+            "Streptococcus suis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus suis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014192895.1": {
+        "find_name": [
+            "Streptococcus dysgalactiae",
+            "Streptococcus dysgalactiae subsp. equisimilis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus dysgalactiae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000231905.1": {
+        "find_name": [
+            "Streptococcus suis D12"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus suis;t__Streptococcus suis D12"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000231865.1": {
+        "find_name": [
+            "Streptococcus suis SS12"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus suis;t__Streptococcus suis SS12"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000231925.1": {
+        "find_name": [
+            "Streptococcus suis ST1"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus suis;t__Streptococcus suis ST1"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019047825.1": {
+        "find_name": [
+            "Streptococcus mitis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus mitis;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000014365.2": {
+        "find_name": [
+            "Streptococcus pneumoniae D39"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus pneumoniae;t__Streptococcus pneumoniae D39"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002900385.1": {
+        "find_name": [
+            "Streptococcus parauberis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus parauberis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000305335.2": {
+        "find_name": [
+            "Streptococcus salivarius 57.I"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus salivarius;t__Streptococcus salivarius 57.I"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000010605.1": {
+        "find_name": [
+            "Streptomyces griseus",
+            "Streptomyces griseus subsp. griseus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces griseus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000739105.1": {
+        "find_name": [
+            "Streptomyces lividans"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces lividans;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_008639165.1": {
+        "find_name": [
+            "Streptomyces venezuelae ATCC 10712"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces venezuelae;t__Streptomyces venezuelae ATCC 10712"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_014673495.1": {
+        "find_name": [
+            "Streptomyces griseofuscus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces griseofuscus;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_008704855.1": {
+        "find_name": [
+            "Streptomyces platensis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces platensis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_013317105.1": {
+        "find_name": [
+            "Streptomyces coelicolor"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces coelicolor;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000091305.1": {
+        "find_name": [
+            "Streptomyces scabiei"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces scabiei;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002082605.1": {
+        "find_name": [
+            "Kitasatospora aureofaciens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Kitasatospora;s__Kitasatospora aureofaciens;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_008931305.1": {
+        "find_name": [
+            "Streptomyces coelicolor A3(2)"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces coelicolor;t__Streptomyces coelicolor A3(2)"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000009765.2": {
+        "find_name": [
+            "Streptomyces avermitilis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces avermitilis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001886595.1": {
+        "find_name": [
+            "Streptomyces venezuelae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces;s__Streptomyces venezuelae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000735125.2": {
+        "find_name": [
+            "Sulfitobacter sp. CB2047"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Roseobacteraceae;g__Sulfitobacter;s__Sulfitobacter sp. CB2047;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001719125.1": {
+        "find_name": [
+            "Sulfolobus sp. A20"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Sulfolobales;f__Sulfolobaceae;g__Sulfolobus;s__Sulfolobus sp. A20;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_019175345.1": {
+        "find_name": [
+            "Saccharolobus shibatae"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Sulfolobales;f__Sulfolobaceae;g__Saccharolobus;s__Saccharolobus shibatae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000024305.1": {
+        "find_name": [
+            "Sulfolobus islandicus"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Sulfolobales;f__Sulfolobaceae;g__Sulfolobus;s__Sulfolobus islandicus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000364745.1": {
+        "find_name": [
+            "Sulfolobus islandicus LAL14/1"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Sulfolobales;f__Sulfolobaceae;g__Sulfolobus;s__Sulfolobus islandicus;t__Sulfolobus islandicus LAL14/1"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000007005.1": {
+        "find_name": [
+            "Saccharolobus solfataricus P2"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Sulfolobales;f__Sulfolobaceae;g__Saccharolobus;s__Saccharolobus solfataricus;t__Saccharolobus solfataricus P2"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003852155.1": {
+        "find_name": [
+            "Saccharolobus solfataricus"
+        ],
+        "find_lineage": [
+            "k__Archaea;p__Crenarchaeota;c__Thermoprotei;o__Sulfolobales;f__Sulfolobaceae;g__Saccharolobus;s__Saccharolobus solfataricus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000195975.1": {
+        "find_name": [
+            "Parasynechococcus marenigrum WH 8102"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Synechococcales;f__Prochlorococcaceae;g__Parasynechococcus;s__Parasynechococcus marenigrum;t__Parasynechococcus marenigrum WH 8102"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000179235.2": {
+        "find_name": [
+            "Synechococcus sp. CB0101"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Synechococcales;f__Synechococcaceae;g__Synechococcus;s__Synechococcus sp. CB0101;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_015840915.1": {
+        "find_name": [
+            "Synechococcus sp. CBW1002"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Cyanobacteria;c__;o__Synechococcales;f__Synechococcaceae;g__Synechococcus;s__Synechococcus sp. CBW1002;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_004803875.1": {
+        "find_name": [
+            "Tenacibaculum maritimum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__Tenacibaculum;s__Tenacibaculum maritimum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000307585.2": {
+        "find_name": [
+            "Thermoanaerobacterium saccharolyticum JW/SL-YS485"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Clostridia;o__Thermoanaerobacterales;f__Thermoanaerobacterales Family III. Incertae Sedis;g__Thermoanaerobacterium;s__Thermoanaerobacterium saccharolyticum;t__Thermoanaerobacterium saccharolyticum JW/SL-YS485"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_005160065.1": {
+        "find_name": [
+            "Geobacillus kaustophilus NBRC 102445"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Geobacillus;s__Geobacillus kaustophilus;t__Geobacillus kaustophilus NBRC 102445"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000091545.1": {
+        "find_name": [
+            "Thermus thermophilus HB8",
+            "Thermus thermophilus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Deinococcus-Thermus;c__Deinococci;o__Thermales;f__Thermaceae;g__Thermus;s__Thermus thermophilus;t__Thermus thermophilus HB8"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000008125.1": {
+        "find_name": [
+            "Thermus thermophilus HB27"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Deinococcus-Thermus;c__Deinococci;o__Thermales;f__Thermaceae;g__Thermus;s__Thermus thermophilus;t__Thermus thermophilus HB27"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000092225.1": {
+        "find_name": [
+            "Tsukamurella paurometabola"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Actinobacteria;c__Actinomycetia;o__Corynebacteriales;f__Tsukamurellaceae;g__Tsukamurella;s__Tsukamurella paurometabola;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000770115.1": {
+        "find_name": [
+            "Vibrio harveyi"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio harveyi;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_005144905.1": {
+        "find_name": [
+            "Vibrio cyclitrophicus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio cyclitrophicus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003345295.1": {
+        "find_name": [
+            "Vibrio splendidus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio splendidus;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001677275.1": {
+        "find_name": [
+            "Vibrio breoganii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio breoganii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022343205.1": {
+        "find_name": [
+            "Vibrio alginolyticus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio alginolyticus;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002906475.1": {
+        "find_name": [
+            "Vibrio campbellii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio campbellii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000464435.1": {
+        "find_name": [
+            "Vibrio campbellii ATCC BAA-1116"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio campbellii;t__Vibrio campbellii ATCC BAA-1116"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_003390675.1": {
+        "find_name": [
+            "Vibrio anguillarum"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio anguillarum;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000011805.1": {
+        "find_name": [
+            "Aliivibrio fischeri"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Aliivibrio;s__Aliivibrio fischeri;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000196095.1": {
+        "find_name": [
+            "Vibrio parahaemolyticus",
+            "Vibrio parahaemolyticus RIMD 2210633"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio parahaemolyticus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_013085165.1": {
+        "find_name": [
+            "Vibrio cholerae O1"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio cholerae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001456255.1": {
+        "find_name": [
+            "Vibrio natriegens"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio natriegens;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002021755.1": {
+        "find_name": [
+            "Vibrio owensii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio owensii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002204915.1": {
+        "find_name": [
+            "Vibrio vulnificus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio vulnificus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000967465.2": {
+        "find_name": [
+            "Vibrio coralliilyticus"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio coralliilyticus;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_000354175.2": {
+        "find_name": [
+            "Vibrio alginolyticus NBRC 15630 = ATCC 17749"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;s__Vibrio alginolyticus;t__Vibrio alginolyticus NBRC 15630 = ATCC 17749"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001951095.1": {
+        "find_name": [
+            "Weissella cibaria"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Weissella;s__Weissella cibaria;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000961215.1": {
+        "find_name": [
+            "Xanthomonas citri"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Xanthomonas;s__Xanthomonas citri;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_013388375.1": {
+        "find_name": [
+            "Xanthomonas campestris"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Xanthomonas;s__Xanthomonas campestris;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_905367715.1": {
+        "find_name": [
+            "Xanthomonas arboricola pv. juglandis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Xanthomonas;s__Xanthomonas arboricola;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_021777455.1": {
+        "find_name": [
+            "Xanthomonas campestris pv. campestris"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Xanthomonas;s__Xanthomonas campestris;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_017724035.1": {
+        "find_name": [
+            "Xanthomonas euvesicatoria"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Xanthomonas;s__Xanthomonas euvesicatoria;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_900183975.1": {
+        "find_name": [
+            "Xanthomonas fragariae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Xanthomonas;s__Xanthomonas fragariae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001908725.1": {
+        "find_name": [
+            "Xanthomonas vesicatoria"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Xanthomonas;s__Xanthomonas vesicatoria;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001021915.1": {
+        "find_name": [
+            "Xanthomonas oryzae",
+            "Xanthomonas oryzae pv. oryzicola"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Xanthomonas;s__Xanthomonas oryzae;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_022409615.1": {
+        "find_name": [
+            "Xanthomonas oryzae pv. oryzae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Xanthomonas;s__Xanthomonas oryzae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000007245.1": {
+        "find_name": [
+            "Xylella fastidiosa"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Xylella;s__Xylella fastidiosa;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000222975.1": {
+        "find_name": [
+            "Yersinia pestis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Yersinia;s__Yersinia pestis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_016727905.1": {
+        "find_name": [
+            "Yersinia enterocolitica"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Yersinia;s__Yersinia enterocolitica;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_009730055.1": {
+        "find_name": [
+            "Yersinia intermedia"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Yersinia;s__Yersinia intermedia;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_013282745.1": {
+        "find_name": [
+            "Yersinia bercovieri"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Yersinia;s__Yersinia bercovieri;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Chromosome"
+    },
+    "GCF_013282785.1": {
+        "find_name": [
+            "Yersinia kristensenii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Yersinia;s__Yersinia kristensenii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_002591195.1": {
+        "find_name": [
+            "Yersinia frederiksenii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Yersinia;s__Yersinia frederiksenii;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_013282725.1": {
+        "find_name": [
+            "Yersinia mollaretii"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Yersinia;s__Yersinia mollaretii;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_001047675.1": {
+        "find_name": [
+            "Yersinia aleksiciae"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Yersinia;s__Yersinia aleksiciae;t__"
+        ],
+        "assembly_category": "Unreference",
+        "assembly_level": "Complete Genome"
+    },
+    "GCF_000834295.1": {
+        "find_name": [
+            "Yersinia pseudotuberculosis"
+        ],
+        "find_lineage": [
+            "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Yersiniaceae;g__Yersinia;s__Yersinia pseudotuberculosis;t__"
+        ],
+        "assembly_category": "Represent",
+        "assembly_level": "Complete Genome"
+    }
+}

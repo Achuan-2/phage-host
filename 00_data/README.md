@@ -1,0 +1,14 @@
+- VHDB filtered
+  - `virushostdb.daily.tsv`: 2020.03.19从VHDB下载的raw data | 17959 rows
+  - `virushostdb.daily.phage.tsv`： 筛选是phage且信息完整的条目，手动过滤掉9个序列不完整的phage | 5193 rows, 4781phages, 838 hosts.
+  - `virushostdb.daily.phage.multiple.tsv`： 发现refseq id这一列有多个id的条目，把不完整phage的9个挑出来，剩下的是同一phage名称的不同id
+  - `virushostdb.daily.phage(filtered).tsv`：为了减小获得gcf压力，先把report host tax在species以上的过滤 | 5008 rows,   4675 phages, 787 hosts
+- output
+  - `report_host.json`：根据`virushostdb.daily.phage(filtered).tsv`中的report host搜索host genome信息保存为json文件
+  - `virushostdb_output.tsv`： 在`virushostdb.daily.phage(filtered).tsv`基础上添加`report_host.json`中的find host genome信息
+  - `virushostdb_output(filtered).tsv`：过滤掉`virushostdb_output.tsv`中find taxrank在species以上的条目
+  - find_gcf.json: 以gcf为关键字的信息
+- GOLD
+  - gold_db.tsv是根据virushostdb.daily.phage(filtered).tsv修改了host lineage为界门纲目科属种,并没有经过获取gcf后过滤条目的操作，只是把宿主信息在species以上的进行过滤，所以其phage-host信息的最完善的。
+  - `gold_virus_host.json`:根据 `gold_db.tsv`生成，以病毒的序列id为key，记录virus_name、host_num、host_info、lca_info、most_common_taxonomy、purity、spilt_lineage。其中spilt_lineage把病毒所有宿主的lineage按level进行切割，按界门纲目科属种分别存储宿主的tax信息。(注：gold_virus_host.json有4734个key，实际涉及的噬菌体id只有4685个，是因为把不完整的噬菌体的GCF和NC同时冗余存放，另外涉及的噬菌体id比目前数据库里的4303个噬菌体序列多，因为后面对获取gcf后进行过滤）
+  - phage_host.tsv：条目4597，比4303个病毒还多，是因为有的一个病毒有多个id

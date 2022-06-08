@@ -1,5 +1,5 @@
-db/
+01_db/*
 ref/
 scripts/taxdump.tar.gz
 /commit.sh
-new_db/
+mnt/
