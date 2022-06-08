@@ -33,25 +33,28 @@
 ![](assets/MCH指标.png)
 
 【**Purity公式**】
+
 $$
 Purity_{r}=\frac{N_{MCH_r}^{v}}{N_{h}^{v}} \\
 (r=Phylum, \cdots,Species)
 $$
+
 其中，$N_{h}^{v}$代表该噬菌体预测的宿主数量，$N_{MCH_r}^{v}$代表是预测的噬菌体宿主范围在某一物种分类水平下的最高频数，$r$代表的是各个物种分类水平。
 
 ### 3.2 HSH方法（Highes Scored Host）
 
 分别对Spacer 方法、Prophage 方法和Blastn 方法预测的PHIs结果根据序列比对质量进行量化打分。PHIs 分数越高则认为越可能是正确的关系对，对于每个噬菌体若有多个PHIs 分数一致，则保留，再使用MCH 的方法为病毒选择最可能的宿主范围，将该方法命名为HSH（Highest Scored Host）。
+
 $$
-Score_s =Max(1-\frac{mismatch_i}{spacer\_length_i})*d \\
+Score_s =Max(1-\frac{mismatch_i}{spacer\\_length_i})*d \\
 $$
 
 $$
-Score_p =Max(\frac{alignment_i*identity_i(\%)}{virus\_length_i})*d 
+Score_p =Max(\frac{alignment_i*identity_i(\\%)}{virus\\_length_i})*d 
 $$
 
 $$
-Score_b =Max(\frac{alignment_i*identity_i(\%)}{virus\_length_i})*d 
+Score_b =Max(\frac{alignment_i*identity_i(\\%)}{virus\\_length_i})*d 
 $$
 
 $$
